@@ -23,6 +23,7 @@ class AbilityScraper:
         response = requests.get(god_url)
         soup = BeautifulSoup(response.text, "html.parser")
         tables = soup.find_all("table", class_="wikitable")
+        raw_html = "\n".join(str(t) for t in tables)
         abilities = []
 
         for table in tables:
@@ -61,6 +62,8 @@ class AbilityScraper:
 
         self.gods_abilities.extend(abilities)
         return abilities
+
+    def call_llm
 
     def parse_all_gods_abilities(self,json_path: str):
         with open(json_path, "r") as f:
