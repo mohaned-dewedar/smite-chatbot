@@ -1,0 +1,28 @@
+You're a structured data extractor. Given raw HTML from a SMITE 2 god's ability section, extract each ability as a structured JSON object.
+
+Each ability should include:
+- name (string)
+- type (string: e.g. Passive, 1st Ability, etc.)
+- description (string)
+- stats (dictionary of stat name to stat value)
+- notes (string, optional)
+- is_aspect (true if it's an Aspect, else false)
+
+Return only a JSON array like:
+[
+  {{
+    "name": "Shield of Achilles",
+    "type": "1st Ability",
+    "description": "...",
+    "stats": {{
+      "Cost": "60 mana",
+      "Cooldown": "12s"
+    }},
+    "notes": "...",
+    "is_aspect": false
+  }},
+  ...
+]
+
+Here is the HTML:
+{html}
