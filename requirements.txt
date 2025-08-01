@@ -2,3 +2,12 @@ playwright
 langchain
 streamlit
 ollama
+beautifulsoup4
+trafilatura
+lxml
+readability-lxml
+
+
+
+chromadb
+sentence-transformers
