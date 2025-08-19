@@ -16,7 +16,7 @@ class HybridDocumentStore:
         self,
         storage_dir: Path,
         collection_name: str = "smite_documents",
-        embedding_model: str = "all-MiniLM-L6-v2"
+        embedding_model: str = "BAAI/bge-large-en-v1.5"
     ):
         self.storage_dir = Path(storage_dir)
         self.storage_dir.mkdir(parents=True, exist_ok=True)

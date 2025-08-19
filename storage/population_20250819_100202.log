@@ -1,0 +1,4 @@
+2025-08-19 10:02:02,765 - smite_chatbot.storage.populate - INFO - Storage population session started
+2025-08-19 10:02:02,766 - smite_chatbot.storage.populate - INFO - Storage directory: storage
+2025-08-19 10:02:02,767 - smite_chatbot.storage.populate - INFO - Populating all document types
+2025-08-19 10:02:02,767 - smite_chatbot.storage.populate - ERROR - Population failed: Processed data directory not found: │

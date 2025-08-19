@@ -19,6 +19,7 @@ dependencies = [
     "readability-lxml",
     "chromadb",
     "sentence-transformers",
+    "torch",
     "openai>=1.100.1",
 ]
 

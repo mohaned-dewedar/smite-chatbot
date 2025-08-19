@@ -2,13 +2,13 @@ from typing import Any, Dict, List, Optional
 import os
 from openai import OpenAI
 import logging
-
-from .chatbot import ChatBot, ChatMessage, ChatResponse
-
+from abc import  abstractmethod
+from .llm_wrapper import LLMWrapper
+from .data_classes import Tokens ,ChatMessage, ChatResponse
 logger = logging.getLogger(__name__)
 
 
-class OpenAIChatBot(ChatBot):
+class OpenAIChatBot(LLMWrapper):
     """
     OpenAI implementation of the ChatBot base class.
     Supports GPT models via OpenAI API.
@@ -32,7 +32,7 @@ class OpenAIChatBot(ChatBot):
         # Default configuration
         self.default_config = {
             "temperature": 0.7,
-            "max_tokens": 1000,
+            "max_tokens": 200,
             "top_p": 1.0,
             "frequency_penalty": 0.0,
             "presence_penalty": 0.0,
@@ -45,40 +45,27 @@ class OpenAIChatBot(ChatBot):
             {"role": msg.role, "content": msg.content}
             for msg in messages
         ]
-    
-    def _generate_response(self, messages: List[ChatMessage]) -> ChatResponse:
-        """Generate response using OpenAI API."""
+    def generate(self, messages: List[ChatMessage], **cfg: Any) -> ChatResponse:
+        cfg = {**self.config, **cfg}
+        messages_dict = self._prepare_messages(messages)
         try:
-            openai_messages = self._prepare_messages(messages)
-            
-            response = self.client.chat.completions.create(
-                model=self.model_name,
-                messages=openai_messages,
-                temperature=self.config.get("temperature", 0.7),
-                max_tokens=self.config.get("max_tokens", 1000),
-                top_p=self.config.get("top_p", 1.0),
-                frequency_penalty=self.config.get("frequency_penalty", 0.0),
-                presence_penalty=self.config.get("presence_penalty", 0.0),
-            )
-            
-            content = response.choices[0].message.content
-            usage = {
-                "prompt_tokens": response.usage.prompt_tokens,
-                "completion_tokens": response.usage.completion_tokens,
-                "total_tokens": response.usage.total_tokens,
-            }
-            
+            r = self.client.chat.completions.create(model=self.model_name, messages=messages_dict, **cfg)
+            choice = r.choices[0]
+
             return ChatResponse(
-                content=content,
-                usage=usage,
-                model=response.model
+                content=choice.message.content or "",
+                usage={
+                    "prompt_tokens": r.usage.prompt_tokens,
+                    "completion_tokens": r.usage.completion_tokens,
+                    "total_tokens": r.usage.total_tokens,
+                },
+                model=r.model,
             )
             
         except Exception as e:
             logger.error(f"Error generating OpenAI response: {e}")
             return ChatResponse(
                 content=f"I apologize, but I encountered an error while processing your request: {str(e)}",
-                usage=None,
                 model=self.model_name
             )
     
@@ -97,3 +84,15 @@ class OpenAIChatBot(ChatBot):
         if max_tokens <= 0:
             raise ValueError("Max tokens must be positive")
         self.config["max_tokens"] = max_tokens
+
+if __name__ == "__main__":
+    # Example usage
+    try:
+        chatbot = OpenAIChatBot(model_name="gpt-4o-mini")
+        response = chatbot.generate([
+            ChatMessage(role="user", content="What is the capital of France?")
+        ])
+        print(response.content)
+    except ValueError as e:
+        print(f"Error: {e}")
+        print("Please set OPENAI_API_KEY environment variable")

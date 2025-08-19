@@ -2502,6 +2502,7 @@ dependencies = [
     { name = "requests" },
     { name = "sentence-transformers" },
     { name = "streamlit" },
+    { name = "torch" },
     { name = "trafilatura", version = "1.6.1", source = { registry = "https://pypi.org/simple" }, marker = "sys_platform == 'darwin'" },
     { name = "trafilatura", version = "1.6.3", source = { registry = "https://pypi.org/simple" }, marker = "sys_platform != 'darwin'" },
 ]
@@ -2529,6 +2530,7 @@ requires-dist = [
     { name = "ruff", marker = "extra == 'dev'" },
     { name = "sentence-transformers" },
     { name = "streamlit" },
+    { name = "torch" },
     { name = "trafilatura" },
 ]
 provides-extras = ["dev"]

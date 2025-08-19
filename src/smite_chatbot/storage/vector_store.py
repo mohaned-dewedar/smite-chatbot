@@ -3,6 +3,7 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional, Tuple
 import chromadb
 from chromadb.config import Settings
+import torch
 from sentence_transformers import SentenceTransformer
 
 from ..processors.base import Document
@@ -17,7 +18,7 @@ class VectorStore:
         self, 
         persist_directory: Path, 
         collection_name: str = "smite_documents",
-        embedding_model: str = "all-MiniLM-L6-v2"
+        embedding_model: str = "BAAI/bge-large-en-v1.5"
     ):
         self.persist_directory = Path(persist_directory)
         self.persist_directory.mkdir(parents=True, exist_ok=True)
@@ -32,9 +33,15 @@ class VectorStore:
             )
         )
         
-        # Initialize embedding model
+        # Initialize embedding model with GPU support
         logger.info(f"Loading embedding model: {embedding_model}")
-        self.embedding_model = SentenceTransformer(embedding_model)
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        logger.info(f"Using device: {device}")
+        self.embedding_model = SentenceTransformer(
+            embedding_model,
+            device=device
+        )
+        self.embedding_model_name = embedding_model
         
         # Get or create collection
         self.collection = self.client.get_or_create_collection(
@@ -48,8 +55,9 @@ class VectorStore:
     def add_document(self, document: Document) -> bool:
         """Add a single document to the vector store."""
         try:
-            # Generate embedding
-            embedding = self.embedding_model.encode(document.content).tolist()
+            # Generate embedding with appropriate prefix for model
+            text = self._prepare_text_for_embedding(document.content, is_query=False)
+            embedding = self.embedding_model.encode(text).tolist()
             
             # Prepare metadata (ChromaDB requires string values)
             metadata = self._prepare_metadata(document)
@@ -85,8 +93,9 @@ class VectorStore:
                 contents = [doc.content for doc in batch]
                 metadatas = [self._prepare_metadata(doc) for doc in batch]
                 
-                # Generate embeddings for batch
-                embeddings = self.embedding_model.encode(contents).tolist()
+                # Generate embeddings for batch with appropriate prefixes
+                prepared_contents = [self._prepare_text_for_embedding(content, is_query=False) for content in contents]
+                embeddings = self.embedding_model.encode(prepared_contents).tolist()
                 
                 # Add batch to collection
                 self.collection.add(
@@ -115,8 +124,9 @@ class VectorStore:
     ) -> List[Dict[str, Any]]:
         """Search for similar documents."""
         try:
-            # Generate query embedding
-            query_embedding = self.embedding_model.encode(query).tolist()
+            # Generate query embedding with appropriate prefix
+            prepared_query = self._prepare_text_for_embedding(query, is_query=True)
+            query_embedding = self.embedding_model.encode(prepared_query).tolist()
             
             # Prepare where clause for filtering
             where_clause = {}
@@ -214,6 +224,32 @@ class VectorStore:
         except Exception as e:
             logger.error(f"Failed to get vector store stats: {e}")
             return {}
+    
+    def _prepare_text_for_embedding(self, text: str, is_query: bool = False) -> str:
+        """Prepare text with appropriate prefixes for different embedding models."""
+        # E5 models need prefixes
+        if "e5-" in self.embedding_model_name.lower():
+            if is_query:
+                return f"query: {text}"
+            else:
+                return f"passage: {text}"
+        
+        # Nomic models need prefixes  
+        elif "nomic" in self.embedding_model_name.lower():
+            if is_query:
+                return f"search_query: {text}"
+            else:
+                return f"search_document: {text}"
+        
+        # BGE models need prefixes
+        elif "bge" in self.embedding_model_name.lower():
+            if is_query:
+                return f"Represent this sentence for searching relevant passages: {text}"
+            else:
+                return text
+        
+        # Other models (MiniLM, etc.) don't need prefixes
+        return text
     
     def delete_by_type(self, doc_type: str) -> int:
         """Delete all documents of a specific type."""

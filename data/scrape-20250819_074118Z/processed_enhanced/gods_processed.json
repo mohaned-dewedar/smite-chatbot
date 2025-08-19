@@ -1,0 +1,960 @@
+[
+  {
+    "id": "god_achilles",
+    "type": "god",
+    "name": "Achilles",
+    "content": "Achilles. Title: Hero of the Trojan War. Pantheon: Greek. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0). Abilities: Achilles Basic Attack, Gift of the Gods, Shield of Achilles, Radiant Glory, Combat Dodge (Spear Strike), Fatal Strike. Ultimate ability: Fatal Strike",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Solo",
+      "title": "Hero of the Trojan War",
+      "release_date": "February 17, 2025",
+      "voice_actor": "Ricco Fajardo",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Achilles"
+  },
+  {
+    "id": "god_agni",
+    "type": "god",
+    "name": "Agni",
+    "content": "Agni. Title: God of Fire. Pantheon: Hindu. Role: Mid. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0). Abilities: Agni Basic Attack, Combustion, Noxious Fumes, Flame Wave, Path of Flames, Rain Fire. Ultimate ability: Rain Fire",
+    "metadata": {
+      "pantheon": "Hindu",
+      "role": "Mid",
+      "title": "God of Fire",
+      "release_date": "7 January, 2025",
+      "voice_actor": "Hunter Peterson",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Agni"
+  },
+  {
+    "id": "god_aladdin",
+    "type": "god",
+    "name": "Aladdin",
+    "content": "Aladdin. Title: The Sultan. Pantheon: Tales of Arabia. Role: Jungle. Stats: Health: 591.38 (+92.68). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.05 (+2.4). Magical Pro.: 26.12 (+1.43). Attack Speed: 0.97 (+1.46). Move Speed: 365 (+1.46). Abilities: Aladdin Basic Attack, Three Wishes, Kufic Invocation, Sultan's Grace, Agile Run, Into The Lamp. Ultimate ability: Into The Lamp",
+    "metadata": {
+      "pantheon": "Tales of Arabia",
+      "role": "Jungle",
+      "title": "The Sultan",
+      "release_date": "January 6, 2025",
+      "voice_actor": "Kamran Nikhad",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Aladdin"
+  },
+  {
+    "id": "god_amaterasu",
+    "type": "god",
+    "name": "Amaterasu",
+    "content": "Amaterasu. Title: The Shining Light. Pantheon: Japanese. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0). Abilities: Amaterasu Basic Attack, Illuminating Strike, Divine Presence, Heavenly Reflection, Glorious Charge, Dazzling Offensive. Ultimate ability: Dazzling Offensive",
+    "metadata": {
+      "pantheon": "Japanese",
+      "role": "Solo",
+      "title": "The Shining Light",
+      "release_date": "September 17, 2024",
+      "voice_actor": "Cristina Valenzuela",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Amaterasu"
+  },
+  {
+    "id": "god_anhur",
+    "type": "god",
+    "name": "Anhur",
+    "content": "Anhur. Title: Slayer of Enemies. Pantheon: Egyptian. Role: Carry. Stats: Health: 587 (+77.55). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.76). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.5%). Move Speed: 430 (+0). Abilities: Anhur Basic Attack, Enfeeble, Shifting Sands, Impale, Disperse, Desert Fury. Ultimate ability: Desert Fury",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Carry",
+      "title": "Slayer of Enemies",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Christopher Sabat",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Anhur"
+  },
+  {
+    "id": "god_anubis",
+    "type": "god",
+    "name": "Anubis",
+    "content": "Anubis. Title: God of the Dead. Pantheon: Egyptian. Role: Mid. Stats: Health: 586.9 (+77.55). Health Regen: 1.75 (+0.2). Mana: 317 (+42.5). Mana Regen: 2.32 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0). Abilities: Anubis Basic Attack, The Scales, Plague of Locusts, Mummify, Grasping Hands, Death Gaze. Ultimate ability: Death Gaze",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Mid",
+      "title": "God of the Dead",
+      "release_date": "May 2, 2024",
+      "voice_actor": "R. Bruce Elliott",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Anubis"
+  },
+  {
+    "id": "god_aphrodite",
+    "type": "god",
+    "name": "Aphrodite",
+    "content": "Aphrodite. Title: Goddess of Beauty. Pantheon: Greek. Role: Mid. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0). Abilities: Aphrodite Basic Attack, Center of Attention, Kiss, Back Off!, Love Birds, Undying Love. Ultimate ability: Undying Love",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "Goddess of Beauty",
+      "release_date": "December 10, 2024",
+      "voice_actor": "Martha Harms",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Aphrodite"
+  },
+  {
+    "id": "god_apollo",
+    "type": "god",
+    "name": "Apollo",
+    "content": "Apollo. Title: God of Music. Pantheon: Greek. Role: Carry. Stats: Health: 591.4 (+92.6). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.14 (+0). Physical Pro.: 18.1 (+2.8). Magical Pro.: 26.1 (+1.5). Attack Speed: 1 (+1.4%). Move Speed: 365 (+0). Abilities: Apollo Basic Attack, Audacity, So Beautiful, Serenade, The Moves, Across the Sky. Ultimate ability: Across the Sky",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Carry",
+      "title": "God of Music",
+      "release_date": "May 19, 2025",
+      "voice_actor": "Phil Parsons",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Apollo"
+  },
+  {
+    "id": "god_ares",
+    "type": "god",
+    "name": "Ares",
+    "content": "Ares. Title: God of War. Pantheon: Greek. Role: Support. Stats: Health: 672 (+105.32). Health Regen: 2 (+0.21). Mana: 296 (+42). Mana Regen: 2 (+0). Physical Pro.: 21 (+3.21). Magical Pro.: 30 (+1.58). Attack Speed: 1% (+1.37%). Move Speed: 375 (+0). Abilities: Ares Basic Attack, Blessed Armaments, Shackles, Call to Arms, Searing Flesh, No Escape. Ultimate ability: No Escape",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Support",
+      "title": "God of War",
+      "release_date": "Unreleased",
+      "voice_actor": "Jason Douglas",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Ares"
+  },
+  {
+    "id": "god_artemis",
+    "type": "god",
+    "name": "Artemis",
+    "content": "Artemis. Title: Goddess of the Hunt. Pantheon: Greek. Role: Carry. Stats: Health: 591.38 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.14 (+0). Physical Pro.: 18.05 (+2.85). Magical Pro.: 26.12 (+1.43). Attack Speed: 1 (+1.51%). Move Speed: 375 (+0). Abilities: Artemis Basic Attack, Still Target, Transgressor's Fate, Vengeful Assault, Suppress the Insolent, Calydonian Boar. Ultimate ability: Calydonian Boar",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Carry",
+      "title": "Goddess of the Hunt",
+      "release_date": "missing",
+      "voice_actor": "Brina Palencia",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Artemis"
+  },
+  {
+    "id": "god_athena",
+    "type": "god",
+    "name": "Athena",
+    "content": "Athena. Title: Goddess of Wisdom. Pantheon: Greek. Role: Support. Stats: Health: 647.4 (+86.1). Health Regen: 1.82 (+0.211). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 20.3 (+3.21). Magical Pro.: 29.4 (+1.6). Attack Speed: 0.93 (+1.4%). Move Speed: 442 (+0). Abilities: Athena Basic Attack, Reach, Preemptive Strike, Confound, Shield Wall, Defender of Olympus. Ultimate ability: Defender of Olympus",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Support",
+      "title": "Goddess of Wisdom",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Lindsey Alena",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Athena"
+  },
+  {
+    "id": "god_awilix",
+    "type": "god",
+    "name": "Awilix",
+    "content": "Awilix. Title: Goddess of the Moon. Pantheon: Maya. Role: Jungle. Stats: Health: 591.4 (+92.6). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.1 (+2.8). Magical Pro.: 26.1 (+1.5). Attack Speed: 0.97 (+1.45%). Move Speed: 365 (+0). Abilities: Awilix Basic Attack, Initiative, Summon Suku, Feather Step, Moonlight Charge, Gravity Surge. Ultimate ability: Gravity Surge",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Jungle",
+      "title": "Goddess of the Moon",
+      "release_date": "missing",
+      "voice_actor": "Brynn Apprill",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Awilix"
+  },
+  {
+    "id": "god_bacchus",
+    "type": "god",
+    "name": "Bacchus",
+    "content": "Bacchus. Title: God of Wine. Pantheon: Roman. Role: Support. Stats: Health: 647.4 (+86.1). Health Regen: 1.82 (+0.211). Mana: 305 (+43). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 27.5 (+1.4). Attack Speed: 0.93 (+1.4%). Move Speed: 442 (+0). Abilities: Bacchus Basic Attack, Drunk-O-Meter, Chug, Belly Flop, Belch of the Gods, Intoxicate. Ultimate ability: Intoxicate",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Support",
+      "title": "God of Wine",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Chris Rager",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Bacchus"
+  },
+  {
+    "id": "god_baron_samedi",
+    "type": "god",
+    "name": "Baron Samedi",
+    "content": "Baron Samedi. Title: God of Life and Death. Pantheon: Voodoo. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0). Abilities: Baron Samedi Basic Attack, Hysteria, Vivid Gaze, Consign Spirits, Wrap It Up, Life of the Party. Ultimate ability: Life of the Party",
+    "metadata": {
+      "pantheon": "Voodoo",
+      "role": "Mid",
+      "title": "God of Life and Death",
+      "release_date": "October 3, 2024",
+      "voice_actor": "Edward Bosco",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Baron_Samedi"
+  },
+  {
+    "id": "god_bellona",
+    "type": "god",
+    "name": "Bellona",
+    "content": "Bellona. Title: Goddess of War. Pantheon: Roman. Role: Solo. Stats: Health: 623.2 (+83.4). Health Regen: 1.7 (+0.2). Mana: 287 (+40.5). Mana Regen: 2.18 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.47). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0). Abilities: Bellona Basic Attack, Master Of War, Shield Bash, Bludgeon, Scourge, Eagle's Rally. Ultimate ability: Eagle's Rally",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Solo",
+      "title": "Goddess of War",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Laura Post",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Bellona"
+  },
+  {
+    "id": "god_cabrakan",
+    "type": "god",
+    "name": "Cabrakan",
+    "content": "Cabrakan. Title: Destroyer of Mountains. Pantheon: Maya. Role: Support. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0). Abilities: Cabrakan Basic Attack, Shadow Zone, Seismic Crush, Refraction Shield, Tremors, Tectonic Shift. Ultimate ability: Tectonic Shift",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Support",
+      "title": "Destroyer of Mountains",
+      "release_date": "missing",
+      "voice_actor": "Tyson Rinehart",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Cabrakan"
+  },
+  {
+    "id": "god_cerberus",
+    "type": "god",
+    "name": "Cerberus",
+    "content": "Cerberus. Title: Warden of the Underworld. Pantheon: Greek. Role: Support. Stats: Health: 672 (+106). Health Regen: 2 (+0.25). Mana: 296 (+42). Mana Regen: 2 (+0). Physical Pro.: 20 (+ missing ). Magical Pro.: 30 (+1.5). Attack Speed: 1% (+ missing ). Move Speed: 375 (+0). Abilities: Cerberus Basic Attack, Spirit of Death, Paralyzing Spit, Ghastly Breath, Soul Expulsion, Stygian Torment. Ultimate ability: Stygian Torment",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Support",
+      "title": "Warden of the Underworld",
+      "release_date": "missing",
+      "voice_actor": "Bruce DuBose",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Cerberus"
+  },
+  {
+    "id": "god_cernunnos",
+    "type": "god",
+    "name": "Cernunnos",
+    "content": "Cernunnos. Title: The Horned God. Pantheon: Celtic. Role: Carry. Stats: Health: 586.9 (+77.55). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.45). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0). Abilities: Cernunnos Basic Attack, Heavy Glaive, Shifter Of Seasons, Bramble Blast, Horn Charge, The Wild Hunt. Ultimate ability: The Wild Hunt",
+    "metadata": {
+      "pantheon": "Celtic",
+      "role": "Carry",
+      "title": "The Horned God",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Mick Lauer",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Cernunnos"
+  },
+  {
+    "id": "god_chaac",
+    "type": "god",
+    "name": "Chaac",
+    "content": "Chaac. Title: God of Rain. Pantheon: Maya. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0). Abilities: Chaac Basic Attack, Overflow, Thunder Strike, Torrent, Rain Dance, Storm Call. Ultimate ability: Storm Call",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Solo",
+      "title": "God of Rain",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Patrick Seitz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Chaac"
+  },
+  {
+    "id": "god_cupid",
+    "type": "god",
+    "name": "Cupid",
+    "content": "Cupid. Title: God of Love. Pantheon: Roman. Role: Carry. Stats: Health: 591.4 (+92.6). Health Regen: 1.7 (+0.2). Mana: 296 (+38). Mana Regen: 2.14 (+0). Physical Pro.: 18.1 (+2.8). Magical Pro.: 26.1 (+1.49). Attack Speed: 1 (+1.46%). Move Speed: 375 (+0). Abilities: Cupid Basic Attack, Lovestruck, Heart Bomb, Share the Love, Flutter, Fields of Love. Ultimate ability: Fields of Love",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Carry",
+      "title": "God of Love",
+      "release_date": "November 25, 2024",
+      "voice_actor": "Brina Palencia",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Cupid"
+  },
+  {
+    "id": "god_danzaburou",
+    "type": "god",
+    "name": "Danzaburou",
+    "content": "Danzaburou. Title: The Legendary Tanuki. Pantheon: Japanese. Role: Carry. Stats: Health: 587 (+77.55). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.76). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.5%). Move Speed: 430 (+0). Abilities: Danzaburou Basic Attack, Dishonest Duplication, Fool's Gold, Alluring Spirits, Tanuki Trickery, Uproarious Rocket. Ultimate ability: Uproarious Rocket",
+    "metadata": {
+      "pantheon": "Japanese",
+      "role": "Carry",
+      "title": "The Legendary Tanuki",
+      "release_date": "October 17, 2024",
+      "voice_actor": "Dai Tabuchi",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Danzaburou"
+  },
+  {
+    "id": "god_fenrir",
+    "type": "god",
+    "name": "Fenrir",
+    "content": "Fenrir. Title: The Unbound. Pantheon: Norse. Role: Jungle. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.0 (+3). Magical Pro.: 27.5 (+1.4). Attack Speed: 1 (+1.498%). Move Speed: 442 (+0). Abilities: Fenrir Basic Attack, Unbound Runes, Unchained, Seething Howl, Brutalize, Ragnarok. Ultimate ability: Ragnarok",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Jungle",
+      "title": "The Unbound",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Christopher Sabat",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Fenrir"
+  },
+  {
+    "id": "god_ganesha",
+    "type": "god",
+    "name": "Ganesha",
+    "content": "Ganesha. Title: God of Success. Pantheon: Hindu. Role: Support. Stats: Health: missing (+ missing ). Health Regen: missing (+ missing ). Mana: missing (+ missing ). Mana Regen: missing (+0). Physical Pro.: missing (+ missing ). Magical Pro.: missing (+ missing ). Attack Speed: missing (+ missing ). Move Speed: missing (+0). Abilities: Ganesha Basic Attack, Good Fortune, Turn of Fate, Ohm, Remove Obstacles, Dharmic Pillars. Ultimate ability: Dharmic Pillars",
+    "metadata": {
+      "pantheon": "Hindu",
+      "role": "Support",
+      "title": "God of Success",
+      "release_date": "missing",
+      "voice_actor": "Reagan Murdock",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Ganesha"
+  },
+  {
+    "id": "god_geb",
+    "type": "god",
+    "name": "Geb",
+    "content": "Geb. Title: God of the Earth. Pantheon: Egyptian. Role: Support. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0). Abilities: Geb Basic Attack, Hard as Rock, Roll Out, Shock Wave, Stone Shield, Cataclysm. Ultimate ability: Cataclysm",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Support",
+      "title": "God of the Earth",
+      "release_date": "missing",
+      "voice_actor": "Christopher Sabat",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Geb"
+  },
+  {
+    "id": "god_guan_yu",
+    "type": "god",
+    "name": "Guan Yu",
+    "content": "Guan Yu. Title: Saint of War. Pantheon: Chinese. Role: Solo. Stats: Health: 647 (+102). Health Regen: 2 (+0). Mana: 308 (+44). Mana Regen: 2 (+0). Physical Pro.: 20 (+3). Magical Pro.: 28 (+1). Attack Speed: 1 (+2). Move Speed: 375 (+0). Abilities: Guan Yu Basic Attack, Battle Fervor, Conviction, Warrior's Will, Taolu Assault, Cavalry Charge. Ultimate ability: Cavalry Charge",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Solo",
+      "title": "Saint of War",
+      "release_date": "missing",
+      "voice_actor": "Mark Stoddard",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Guan_Yu"
+  },
+  {
+    "id": "god_hades",
+    "type": "god",
+    "name": "Hades",
+    "content": "Hades. Title: King of the Underworld. Pantheon: Greek. Role: Mid. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Mana: 305 (+43). Mana Regen: 2.25 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0). Abilities: Hades Basic Attack, Blight, Death From Below, Shroud of Darkness, Devour Souls, Pillar of Agony. Ultimate ability: Pillar of Agony",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "King of the Underworld",
+      "release_date": "May 30, 2024",
+      "voice_actor": "Patrick Seitz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hades"
+  },
+  {
+    "id": "god_hecate",
+    "type": "god",
+    "name": "Hecate",
+    "content": "Hecate. Title: Goddess of Sorcery. Pantheon: Greek. Role: Mid. Stats: Health: 574.8 (+76.4). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 1.46 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0). Abilities: Hecate Basic Attack, Mythic Ritual, Triplicate Form, Spell Eater, Repel Magic, Open the Gates. Ultimate ability: Open the Gates",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "Goddess of Sorcery",
+      "release_date": "June 27, 2024",
+      "voice_actor": "Katiana Sarkissian",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hecate"
+  },
+  {
+    "id": "god_hercules",
+    "type": "god",
+    "name": "Hercules",
+    "content": "Hercules. Title: Champion of Rome. Pantheon: Roman. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0). Abilities: (Ability Name), Apotheosis, Driving Strike, Earthbreaker, Mitigate Wounds, Excavate. Ultimate ability: Excavate",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Solo",
+      "title": "Champion of Rome",
+      "release_date": "October 17, 2024",
+      "voice_actor": "J. Michael Tatum",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hercules"
+  },
+  {
+    "id": "god_hou_yi",
+    "type": "god",
+    "name": "Hou Yi",
+    "content": "Hou Yi. Title: Defender of the Earth. Pantheon: Chinese. Role: Carry. Abilities: (Ability Name), Suntouched, Ricochet, Mark of the Golden Crow, Divebomb, Sunbreaker. Ultimate ability: Sunbreaker",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Carry",
+      "title": "Defender of the Earth",
+      "release_date": "July 29, 2025",
+      "voice_actor": "Austin Tindle",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hou_Yi"
+  },
+  {
+    "id": "god_hua_mulan",
+    "type": "god",
+    "name": "Hua Mulan",
+    "content": "Hua Mulan. Title: The Ascendant Warrior. Pantheon: Chinese. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0). Abilities: Hua Mulan Basic Attack, Training Arc, Cross Strike, Spear Thrust, Grapple, Divine Mastery. Ultimate ability: Divine Mastery",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Solo",
+      "title": "The Ascendant Warrior",
+      "release_date": "missing",
+      "voice_actor": "Molly Zhang",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hua_Mulan"
+  },
+  {
+    "id": "god_hun_batz",
+    "type": "god",
+    "name": "Hun Batz",
+    "content": "Hun Batz. Title: The Howler Monkey God. Pantheon: Maya. Role: Jungle. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 442 (+0). Abilities: Hun Batz Basic Attack, Infused Strikes, Somersault, Overhand Smash, Sacred Monkey, Fear No Evil. Ultimate ability: Fear No Evil",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Jungle",
+      "title": "The Howler Monkey God",
+      "release_date": "missing",
+      "voice_actor": "Brad M. Jackson",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hun_Batz"
+  },
+  {
+    "id": "god_izanami",
+    "type": "god",
+    "name": "Izanami",
+    "content": "Izanami. Title: Matron of the Dead. Pantheon: Japanese. Role: Carry. Stats: Health: 591.38 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+84). Mana Regen: 2.14 (+0). Physical Pro.: 18.05 (+2.85). Magical Pro.: 26.12 (+1.43). Attack Speed: 1 (+1.51%). Move Speed: 365 (+0). Abilities: Izanami Basic Attack, Death Draws Nigh, Sickle Storm, Spectral Projection, Fade Away, Dark Portal. Ultimate ability: Dark Portal",
+    "metadata": {
+      "pantheon": "Japanese",
+      "role": "Carry",
+      "title": "Matron of the Dead",
+      "release_date": "missing",
+      "voice_actor": "Lisa Ortiz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Izanami"
+  },
+  {
+    "id": "god_janus",
+    "type": "god",
+    "name": "Janus",
+    "content": "Janus. Title: God of Portals and Transitions. Pantheon: Roman. Role: Mid. Stats: Health: 573 (+). Health Regen: 2 (+). Mana: 320 (+). Mana Regen: 2 (+0). Physical Pro.: 18 (+). Magical Pro.: 26 (+). Attack Speed: 1% (+). Move Speed: 365 (+). Abilities: Janus Basic Attack, Passages, Portal, Unstable Vortex, Threshold, Through Space and Time. Ultimate ability: Through Space and Time",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Mid",
+      "title": "God of Portals and Transitions",
+      "release_date": "August 12th",
+      "voice_actor": "Sean Hennigan",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Janus"
+  },
+  {
+    "id": "god_jing_wei",
+    "type": "god",
+    "name": "Jing Wei",
+    "content": "Jing Wei. Title: The Oathkeeper. Pantheon: Chinese. Role: Carry. Stats: Health: 595.3 (+86.86). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.99 (+1.484%). Move Speed: 430 (+0). Abilities: Jing Wei Basic Attack, Rapid Reincarnation, Persistent Gust, Explosive Bolts, Agility, Air Strike. Ultimate ability: Air Strike",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Carry",
+      "title": "The Oathkeeper",
+      "release_date": "Missing",
+      "voice_actor": "Alison Viktorin",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Jing_Wei"
+  },
+  {
+    "id": "god_kali",
+    "type": "god",
+    "name": "Kali",
+    "content": "Kali. Title: Goddess of Destruction. Pantheon: Hindu. Role: Jungle. Stats: Health: 596 (+). Mana: 281 (+). Physical Pro.: 20 (+). Magical Pro.: 28 (+). Attack Speed: 1% (+). Move Speed: 375 (+0). Abilities: Kali Basic Attack, Marked for Death, Nimble Strike, Lash, Incense, Destruction. Ultimate ability: Destruction",
+    "metadata": {
+      "pantheon": "Hindu",
+      "role": "Jungle",
+      "title": "Goddess of Destruction",
+      "voice_actor": "Anastasia Munoz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Kali"
+  },
+  {
+    "id": "god_khepri",
+    "type": "god",
+    "name": "Khepri",
+    "content": "Khepri. Title: The Dawn Bringer. Pantheon: Egyptian. Role: Support. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0). Abilities: Khepri Basic Attack, Fortitude, Abduct, Rising Dawn, Solar Flare, Scarab's Blessing. Ultimate ability: Scarab's Blessing",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Support",
+      "title": "The Dawn Bringer",
+      "release_date": "November 12, 2024",
+      "voice_actor": "Jeremy Schwartz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Khepri"
+  },
+  {
+    "id": "god_kukulkan",
+    "type": "god",
+    "name": "Kukulkan",
+    "content": "Kukulkan. Title: Serpent of the Nine Winds. Pantheon: Maya. Role: Mid. Stats: Health: 574.8 (+76.4). Health Regen: 1.65 (+0.2). Mana: 317 (+42.5). Mana Regen: 2.41 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0). Abilities: Kukulkan Basic Attack, Power of the Wind Jewel, Zephyr, Slipstream, Whirlwind, Spirit of the Nine Winds. Ultimate ability: Spirit of the Nine Winds",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Mid",
+      "title": "Serpent of the Nine Winds",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Clifford Chapin",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Kukulkan"
+  },
+  {
+    "id": "god_loki",
+    "type": "god",
+    "name": "Loki",
+    "content": "Loki. Title: The Trickster God. Pantheon: Norse. Role: Jungle. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 442 (+0). Abilities: Loki Basic Attack, Behind You, Vanish, Agonizing Visions, Flurry Strike, Assassinate. Ultimate ability: Assassinate",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Jungle",
+      "title": "The Trickster God",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Alex Ross",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Loki"
+  },
+  {
+    "id": "god_medusa",
+    "type": "god",
+    "name": "Medusa",
+    "content": "Medusa. Title: The Gorgon. Pantheon: Greek. Role: Carry. Stats: Health: 586.9 (+77.55). Health Regen: 1.7 (+0.2). Mana: 305 (+43). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0). Abilities: Medusa Basic Attack, Sidewinder, Viper Shot, Acid Spray, Lacerate, Petrify. Ultimate ability: Petrify",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Carry",
+      "title": "The Gorgon",
+      "release_date": "December 10, 2024",
+      "voice_actor": "Rachel Robinson",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Medusa"
+  },
+  {
+    "id": "god_mercury",
+    "type": "god",
+    "name": "Mercury",
+    "content": "Mercury. Title: Messenger of the Gods. Pantheon: Roman. Role: Jungle. Stats: Health: 591 (+missing). Health Regen: 2 (+missing). Mana: 296 (+missing). Mana Regen: 2 (+0). Physical Pro.: 19 (+missing). Magical Pro.: 28 (+missing). Attack Speed: 1% (+missing). Move Speed: 381 (+0). Abilities: Mercury Basic Attack Melee basic attack that deals Physical Damage . Range: soon Radius: soon Damage Scaling : soon Ability Video Passive - Fastest God Alive For every 1cm traveled, gain 0.04% damage bonus on his next Basic Attack (max 20%). You also gain additional Strength equal to 25% of Movement Speed from items or abilities. Ability Video 1st Ability - Made You Look Notes: This ability can Critically Hit, apply Ability Item effects, and apply Basic Attack Item effects. Move in the blink of an eye, dealing Physical Damage to every enemy within a target area. Cost: 50 Cooldown: 9s Range: 7.6m Radius: 1.4 Damage : 80 Damage Scaling : 70% Strength Ability Video 2nd Ability - Maximum Velocity Notes: Movement Speed from ranking this ability contributes power due to Fastest God Alive. Passive: Gain increased Movement Speed. Active: Gain increased Attack Speed, cleanses yourself of Slows, and become immune to Slows for the duration. Cost: 60 Cooldown: 21 Movement Speed: 2 Attack Speed: 30 Buff Duration: 5s Ability Video 3rd Ability - Special Delivery Notes: Can be cancelled after hitting a god to throw them early. You dash forward, Knock minions aside, and deal Physical Damage to them. Grab the first enemy god encountered, spinning them. The enemy god takes Physical Damage every 0.25s until the effect ends. They are then thrown in the direction you are facing. Cost: 60 Cooldown: 15s Range: soon Radius: soon Damage : 15 Damage Scaling : 20% Strength Minion Damage : 70 Minion Damage Scaling : 64% Strength Stun Duration: 1s Ability Video 4th Ability - Sonic Boom Notes: The spin is treated as a stun. Gather your energy for a powerful Dash. The range increases as you charge. Dash forward, dealing Physical Damage and spinning enemies hit along the dash. Gain Movement Speed after the dash that scales based on the energy gathered. Cost: 80 Cooldown: 90s Range: Increases as you charge Radius: soon Damage : 200 Damage Scaling : 100% Strength Ability Video",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Jungle",
+      "title": "Messenger of the Gods",
+      "release_date": "July 1, 2025",
+      "voice_actor": "Joel McDonald",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Mercury"
+  },
+  {
+    "id": "god_merlin",
+    "type": "god",
+    "name": "Merlin",
+    "content": "Merlin. Title: The Master Wizard. Pantheon: Arthurian. Role: Mid. Stats: Health: 591 (+93). Health Regen: 2 (+0). Mana: 320 (+45). Mana Regen: 2 (+0). Physical Pro.: 18 (+2). Magical Pro.: 27 (+2). Attack Speed: 1% (+2%). Move Speed: 375 (+0). Abilities: Merlin Basic Attack, Overload, Eclipse, Radiate, Frostbolt, Vortex, Dragonfire, Blizzard, Flicker, Elemental Mastery. Ultimate ability: Elemental Mastery",
+    "metadata": {
+      "pantheon": "Arthurian",
+      "role": "Mid",
+      "title": "The Master Wizard",
+      "release_date": "March 24th, 2025.",
+      "voice_actor": "Adin Rudd",
+      "ability_count": 10
+    },
+    "source_url": "https://wiki.smite2.com/w/Merlin"
+  },
+  {
+    "id": "god_mordred",
+    "type": "god",
+    "name": "Mordred",
+    "content": "Mordred. Title: Breaker of the Round Table. Pantheon: Arthurian. Role: Solo. Stats: Health: 632.2 (+91.85). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.47). Attack Speed: 0.96 (+1.442). Move Speed: 442 (+0). Abilities: Mordred Basic Attack Notes: If multiple enemies are in the area, the enemy closest to the center of the area will be hit. Has a 4 hit chain. Attacks in order of Mourning, Clarent, Clarent, Mourning with a 1, 0.75, 0.75, 1x swing time. Deal Physical Damage to an enemy in front of you. Range: 1.92m Cone Angle: 120 degrees Damage : 44 + 2.42 per level Mourning Damage Scaling : 100% Strength + 20% Intelligence Clarent Damage Scaling : 100% Intelligence + 60% Strength Ability Video Passive - Wrath of the Forsaken Notes: Hitting enemy gods with abilities provides 2 Wrath and 1 for basic attacks. Hitting enemy minions provides 1 Wrath. Gain 1 Wrath every 4s. passively. Wrath can only be gained once per ability per enemy hit. Mordred can hit enemies to gain Wrath. His Ultimate Ability Heart Slash can only be used after reaching 40 Wrath. His Ultimate Ability Pursue the Weak can only be used after reaching 80 Wrath. After using an ability or attacking, Mordred's Interact key becomes a Dash forward. This deals Physical Damage and Knocks Back the first enemy god hit. Ability Video 1st Ability - Cruel Strikes Notes: Line attack deals Bonus damage on hit if Mourning is next in the basic attack chain. Line attack Heals you on hit if Clarent is next in the basic attack chain. Lower healing on hitting enemy minions. Line attack Heals you on hit if Clarent is next in the basic attack chain. Mordred strikes twice with his swords. Mordred first slashes, dealing 75 [45% Strength] Physical Damage to enemies in front of Mordred. Mordred then slams, dealing 85 [65% Strength] Physical Damage to enemies in a line and either dealing [40% Protections] Bonus Damage or 45% [Protections] Healing , based on Mordred's Basic Attack Chain. Cost: 45/50/55/60/65 mana Cooldown: 14/13/12/11/10 seconds Slash Radius: 4 meters Slash Angle: 90 degrees Slam Range: 4 meters Slam Radius: 0.75 meters Slash Damage and Scaling : 55/80/105/130/155 + 45% Strength Slam Damage and Scaling : 55/80/105/130/155 + 65% Strength Bonus Damage : 40% Protections Heal : 45% Protections Minion Heal : 10/15/20/25/30 Ability Video 2nd Ability - Bloodrage Notes: Physical Protection buff and debuff stacks up to 4 times. Mordred deals 70 [60% Strength and 40% Intelligence] Physical Damage to enemies around Mordred, then gains increased Attack Speed and Movement Speed . While buffed, basic attack hits on enemies reduce their Physical Protections and increase his own . Cost: 50/55/60/65/70 mana Cooldown: 14 seconds Radius: 3.2 meters Damage : 50/90/130/170/210 Damage Scaling : 50% Strength and 40% Intelligence Attack Speed : 40% Movement Speed : 12/14/16/18/20% Protection : 4/5/6/7/8 Buff Duration : 4 seconds Protection Reduced : -4/-5/-6/-7/-8 Debuff Duration : 4 seconds Ability Video 3rd Ability - Severing Slice Notes: Enemy gods are damaged for every 1.25m they move. Minions take damage over time instead of due to movement. Mordred fires a projectile that deals 55 [70% Intelligence] Physical Damage and Slows enemies. Direct hits with the center of the projectile cause targets to Bleed, taking 25 [12% Strength] Bonus Damage as they move. Cost: 40/50/60/70/80 mana Cooldown: 12 seconds Range: 9.6 meters Radius: 0.6 meters Inner Radius: 0.2 meters Damage and Scaling : 55/85/115/145/175 + 50% Intelligence Bleed Damage and Scaling : 20/25/30/35/40 + 10% Strength Minion Damage and Scaling : 10/15/20/25/30 + 5% Strength Slow : 30% Debuff Duration : 2.5 seconds Ability Video Ultimate - Heart Slash Notes: Ability repeatedly deals damage every 0.3s. over 1.5 seconds. You are Slowed while Channeling. Mordred deala 100 [75% Strength] Physical Damage to enemies in an area in front of Mordred. If you he hits an enemy god, they are Rooted . Mordred then channels to siphon their lifeforce, gaining a 160 Health Shield and Healing over time for 10 [20% Intelligence] Healing ,  while dealing 30 [25% Intelligence] Physical Damage repeatedly to that enemy. Cost: 40 mana Cooldown: 20 seconds Range: 6 meters Radius: 1 meters Damage : 80/130/180/230/280 Damage Scaling : 70% Strength Damage Per Tick : 30/40/50/60/70 Damage Scaling Per Tick : 25% Strength Heal : 10/20/30/40/50 Heal Scaling : 20% Intelligence Shield Health : 160/200/240/280/320 Ability Video Alt. Ultimate - Pursue the Weak Notes: Charge lasts 4 seconds but will continue if within a wall, ending immediately when possible. Mordred gains vision of all enemies around him while Charging. If no enemy gods are able to be Displaced, the follow-up attack will not start. Mordred becomes CC Immune and charges forward, traveling through walls , stopping on the first enemy god hit. Nearby enemies take 170 [80% Strength and 75% Intelligence] Physical Damage and are Stunned . After a short delay, Mordred launches himself and Stunned enemies into the sky , repeatedly dealing 80 [20% Strength and 15% Intelligence] Physical Damage . Mordred gains 30 [25% Intelligence] Health per enemy god hit with this attack. Cost: 80 mana Radius: 3.2 meters Damage : 150/200/250/300/350 Damage Scaling : 75% Strength and 75% Intelligence Damage Per Tick : 70/90/110/130/150 Damage Scaling Per Tick : 15% Strength and 15% Intelligence Stun Duration : 0.5 seconds Ability Video",
+    "metadata": {
+      "pantheon": "Arthurian",
+      "role": "Solo",
+      "title": "Breaker of the Round Table",
+      "release_date": "July 27th, 2024",
+      "voice_actor": "Gavin Hammon",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Mordred"
+  },
+  {
+    "id": "god_neith",
+    "type": "god",
+    "name": "Neith",
+    "content": "Neith. Title: Weaver of Fate. Pantheon: Egyptian. Role: Carry. Stats: Health: 586.9 (+77.55). Health Regen: 1.7 (+0.2). Mana: 305 (+43). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0). Abilities: Neith Basic Attack Notes: Projectile stops on first target hit, and does not pass through walls. Fire a projectile that deals Physical Damage to the first enemy hit. Range: 8.8 meters Radius: 0.48 meters Damage : 44 + 2.42 per level Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Broken Weave Your abilities can create Weaves or detonate them to deal additional Physical Damage and Root enemis in a larger area. Detonate Weaves to gain a stacking Attack Speed and Intelligence increase per Weave detonated. Damage : 30 Damage Scaling : 30% Intelligence Root Duration : 1 second Attack Speed : 2% Per Stack Intelligence : 10 + 0.5 Per Level Buff Duration : 30 seconds Max Buff Stacks : 3 Ability Video 1st Ability - Spirit Arrow Notes: Projectile passes through and damages all enemies, and passes through walls. Fire a projectile that deals Physical Damage and Roots enemies. Hitting a Weave detonates it. Cost: 40/50/60/70/80 mana Cooldown: 13/12.5/12/11.5/11 seconds Range: 10.4 meters Radius: 0.56 meters Damage : 60/115/170/225/280 Damage Scaling : 85% Strength + 60% Intelligence Root Duration : 1/1.1/1.2/1.3/1.4 seconds Ability Video 2nd Ability - Unravel Notes: Always creates a Weave in the center of the area. Creates additional Weaves for each enemy God hit at the locations of those Gods. Deal Physical Damage to enemies in the area. Heal yourself on successful hit or Heal a larger amount when hitting a God. Creates Weaves in the area. Cost: 50/60/70/80/90 mana Cooldown: 14/13.5/13/12.5/12 seconds Range: 8.8 meters Radius: 3.2 meters Damage : 70/110/150/190/230 Damage Scaling : 75% Intelligence Heal : 15/20/25/30/35 Heal Scaling : 10% Intelligence Increased Heal : 30/40/50/60/70 Increased Heal Scaling : 10% Intelligence Ability Video 3rd Ability - Back Flip Notes: This ability can Leap over walls, as long as you can reach a valid landing area. Deal Physical Damage to enemies in front of you, then Leap backwards. Hitting a Weave with the initial damage detonates it. Cost: 50/55/60/65/70 mana Cooldown: 15 seconds Cone Angle: 110 degrees Damage : 80/120/160/200/240 Damage Scaling : 60% Intelligence Ability Video Ultimate - World Weaver Notes: Damage scales linearly from 50% to 100% based on Channel time. Channel for 0.5 seconds for minimum damage, or for 2 seconds to deal fully charged damage. Projectile ignores minions, passes through walls. Enemy Gods can step in front of this projectile to be hit by it instead of the selected god. You can cancel this ability anytime before firing, the costs and cooldown will not be consumed. Channel to begin charging an attack and lock on to an enemy God. Reactivate to fire a homing projectile at the selected God that deals Physical Damage and Stuns . Cost: 80/90/100/110/120 mana Cooldown: 90 seconds Damage : 200/250/300/350/400 Damage Scaling : 100% Strength + 100% Intelligence Stun Duration : 1 seconds Ability Video",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Carry",
+      "title": "Weaver of Fate",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Lindsay Seidel",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Neith"
+  },
+  {
+    "id": "god_nemesis",
+    "type": "god",
+    "name": "Nemesis",
+    "content": "Nemesis. Title: Goddess of Vengeance. Pantheon: Greek. Role: Jungle. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0). Abilities: Nemesis Basic Attack Notes: If multiple enemies are in the area, the enemy closest to the center of the area will be hit. Has a 4 hit chain. Attacks in order of 1, 1, 0.75, 1.25x damage and swing time. Deal Physical Damage to an enemy in front of you. Range: 1.92 meters Cone Angle: 120 degrees Damage : 43 + 2.32 per level Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Scales of Fate Hitting enemies with Basic Attacks reduces the target's Inhand Power, Strength, and Intelligence while increasing Nemesis's. Reduction Per Stack : 7% Increase Per Stack : 7% Max Stacks : 3 Duration : 5 seconds Ability Video 1st Ability - Swift Vengeance Notes: May use Basic Attacks and Abilities between dashes. Nemesis Dashes in a line, passing through all enemies. Deals 50 [35% Strength] Physical Damage to all enemies hit. Nemesis may dash again within 2 seconds. Cost: 50 mana Cooldown: 11 seconds Range: 4.8 meters Radius: 1.6 meters Damage : 50/80/110/140/170 Damage Scaling : 35% Strength Ability Video 2nd Ability - Slice and Dice Nemesis slashes in a cone, dealing 70 [40% Strength and 25% Intelligence] Physical Damage to all enemies hit. Enemies in the center of the slash take 100 [80% Strength and 75% Intelligence] Physical Damage and are Slowed . Cost: 60/65/70/75/80 mana Cooldown: 10 seconds Range: 5.6 meters Center Cone Angle: 45 degrees Damage : 70/100/130/160/190 Damage Scaling : 40% Strength and 25% Intelligence Center Damage : 100/160/220/280/340 Center Damage Scaling : 80% Strength and 75% Intelligence Slow : 30% Slow Duration : 2 seconds Ability Video 3rd Ability - Retribution Notes: Hard Crowd Control removes the Shield . Nemesis gains a 100 [7% MaxHealth] Health Shield for a duration. Heals 50% [10% Intelligence] of the damage taken during the effect. Nemesis reflects 40% [20% Strength] of the damage taken from gods as Physical Damage . Cost: 60/65/70/75/80 mana Cooldown: 14/13.5/13/12.5/12 seconds Shield Health : 100/150/200/250/300 Shield Health Scaling : 7.5% Max Health Reflect Damage : 40% of the damage blocked Reflect Damage Scaling : 20% Strength Heal : 50% of the damage blocked Heal Scaling : 10% Intelligence Shield Duration : 2 seconds Ability Video Ultimate - Divine Judgement Notes: Gains Protections equal to the enemy with the most Protections. Gain Protections equal to the enemy. On hitting an enemy, a homing projectile spawns from them, granting the buffs when it reaches Nemesis. Nemesis chooses a single enemy god, dealing 10% of their Current Health [45% Strength and 65% Intelligence] as Physical Damage to them and all enemies in an area around them. Nemesis gains Movement Speed and a percentage of the enemy's Protections . Reduces enemy's Movement Speed and Protections by the same amount. Cost: 90/95/100/105/110 mana Cooldown: 90 seconds Range: 8.8 meters Radius: 1.6 meters Damage : 10/12.5/15/17.5/20% of enemy's Current Health Damage Scaling : 45% Strength and 65% Intelligence Protections : 25% Movement Speed : 10/12.5/15/17.5/20% Duration : 5 seconds Ability Video",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Jungle",
+      "title": "Goddess of Vengeance",
+      "release_date": "missing",
+      "voice_actor": "Amanda Doskocil",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Nemesis"
+  },
+  {
+    "id": "god_nu_wa",
+    "type": "god",
+    "name": "Nu Wa",
+    "content": "Nu Wa. Title: Guardian of Heaven. Pantheon: Chinese. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0). Abilities: Nu Wa Basic Attack Notes: Projectile stops on first target hit, and does not pass through walls. Fire a projectile that deals Magical Damage to the first enemy hit. Range: 8.8 meters Radius: 0.48 meters Damage Scaling : 100% Strength or Inhand Power and 20% Intelligence Ability Video Passive - Strength of Wood Every 12s your next Basic Attack will Root all targets hit. Damaging an enemy god with a Basic Attack will reduce this cooldown by 1s. Root Duration: 1s Cooldown: 0s Cost: 0s Ability Video 1st Ability - Mysterious Fog Notes: Nu Wa sends a dense fog slowly forward that deals 50 [50% Intelligence] Magical Damage when it touches an enemy. Enemies that remain in the fog take additional damage every second. You and Allied Gods are Stealthed when inside the fog. Gain Strength of Water, which gives you Movement Speed . Allied gods that enter the fog gain Strength of Water. Cost: 60/65/70/75/80 mana Cooldown: 10 seconds Range: 25 meters Radius: 3.2 meters Damage : 50/75/100/125/150 Damage Scaling : 50% Intelligence Damage Per Tick : 10/20/30/40/50 Damage Scaling Per Tick : 15% Intelligence Movement Speed : 10% Buff Duration : 4s Ability Video 2nd Ability - Clay Soldiers Notes: If you have not chosen a target, Clay Soldiers will attack the nearest enemy or an enemy god that damages Nu Wa. Nu Wa summons Clay Soldiers to attack the chosen target. Clay Soldiers will dash at enemies within 4.8 meters, dealing Magical Damage , then begin to basic attack. Clay Soldiers last for 10s. Gain Strength of Earth, which gives you Penetration . Cost: 60/65/70/75/80 mana Cooldown: 16 seconds Range: 6.4m Radius: 1.6m Dash Damage : 10/15/20/25/30 Dash Damage Scaling : 2.5% Intelligence Basic Attack Damage : 20/30/40/50/60 Number Conjured : 2/2/2/2/3 Flat Penetration : 8/11/14/17/20 Soldier Health : 100 + 15% Max Health Buff Duration : 5s Ability Video 3rd Ability - Shining Metal Notes: Projectile passes through and damages all enemies, and passes through walls. Nu Wa launches a projectile dealing 90 [65% Intelligence] Magical Damage to enemies it passes through. If the projectile hits a Clay Soldier it explodes, dealing damage in an area and Stunning enemies and towers. Gain Strength of Metal, causing your Basic Attack to deal Magical Damage in an area when you hit an enemy. Cost: 50 mana Cooldown: 9 seconds Range: 10.4 meters Radius: 0.56 meters Damage : 90/130/170/210/250 Damage Scaling : 65% Intelligence Explosion Damage : 30/60/90/120/150 Explosion Damage Scaling : 30% Intelligence Basic Attack Area Damage : 75% Strength and 15% Intelligence Stun Duration : 0.8/0.85/0.9/0.95/1s Ability Video Ultimate - Fire Shards Notes: While beginning to ascend, you cannot be impeded. When buffed by Strength of Fire, Nu Wa's Basic Attack range is increased to 12.8m. Nu Wa becomes CC Immune and ascends into the air. You and your team gain visibility on all enemy gods. Summon Fire Shards that deal 100 [30% Intelligence] Magical Damage to each enemy god. Gain Strength of Fire, which causes your Basic Attacks to go farther and faster. Cost: 100 mana Cooldown: 120 seconds Damage : 100/175/250/325/400 Damage Scaling : 30% Intelligence Ability Video God Aspect [ edit",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Mid",
+      "title": "Guardian of Heaven",
+      "release_date": "September 17, 2024",
+      "voice_actor": "Stephanie Young",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Nu_Wa"
+  },
+  {
+    "id": "god_odin",
+    "type": "god",
+    "name": "Odin",
+    "content": "Odin. Title: The Allfather. Pantheon: Norse. Role: Solo. Stats: Health: 623.2 (+83.4). Health Regen: 1.75 (+0.2). Mana: 296 (+42). Mana Regen: 2.32 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.47). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0). Abilities: Odin Basic Attack Notes: If multiple enemies are in the area, the enemy closest to the center of the area will be hit. Has a 4 hit chain. Attacks in order of 1, 1, 1, 1.5x damage and swing time. The final hit of the chain hits all targets in the area for 2x damage. Deal Physical Damage to an enemy in front of you. Range: 1.92 meters Cone Angle: 120 degrees Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Path to Valhalla When a god dies, Odin gains a brief increase to his Movement Speed, Strength and Intelligence . Movement Speed : 4% Per Stack Strength : 10% Per Stack Intelligence : 10% Per Stack Buff Duration : 10 seconds Max Buff Stacks : 2 Ability Video 1st Ability - Lunge Odin Leaps forward, dealing 120 [75% Strength] Physical Damage to nearby enemies as he lands. If Odin has a Shield from Raven Shout, it explodes upon landing. Cost: 40/45/50/55/60 mana Cooldown: 14/13.5/13/12.5/12 seconds Range: 8.8 meters Radius: 2.4 meters Damage : 120/170/220/270/320 Damage Scaling : 75% Strength Ability Video 2nd Ability - Raven Shout Odin gains a 100 [40% Strength and 50% Intelligence] Health Shield for a duration. After the duration, the Shield explodes dealing Physical Damage equal to the remaining Shield Health to nearby enemies. If the Shield is at full HP when it explodes, it deals 100 Physical Damage instead. Cost: 45/50/55/60/65 mana Cooldown: 14/13.5/13/12.5/12 seconds Explode Radius: 3.2 meters Full Shield Damage Increase : 15% Shield Health : 100/155/210/265/320 Shield Health Scaling : 40% Strength + 50% Intelligence Ability Video 3rd Ability - Gungnir's Might Notes: Projectile passes through and damages all targets, stops on the first God hit, and stops on walls. Odin charges up, pulsing damage around him, then throws his spear. The pulses deal 50 [60% Intelligence] Physical Damage and Slow enemies. The spear deals 60 [75% Strength] Physical Damage and Stuns if fired after two pulses. Can only stun the first god hit but pierces gods hit. If Odin refires the spear early, nearby allies get Attack Speed and this ability has a 40% reduced cooldown. Cost: 50/60/70/80/90 mana Cooldown: 14/13.5/13/12.5/12 seconds Pulse Radius: 3.2 meters Projectile Range: 8.8 meters Projectile Radius: 0.48 meters Pulse Damage : 50/80/110/140/170 Pulse Damage Scaling : 60% Intelligence Projectile Damage : 60/115/170/225/280 Projectile Damage Scaling : 75% Strength Stun Duration : 0.9 seconds Attack Speed : 30/32.5/35/37.5/40% Buff Duration 4 seconds Ability Video Ultimate - Ring of Spears Notes: Ring of Spears does not block ally movement or projectiles, only enemy basic attacks and enemy God movement. The Ring is made of 8 Segments that each have 5 Hit Points. An enemy basic attack will deal 1 Hit Point per hit. If an enemy god dies inside the cage, gain a permanent Strength and Intelligence buff. Odin is immune to Slows and Roots while in the Ring. Odin creates a ring of spears that impedes enemies. Enemy gods who die in the ring grant Odin a permanent STR and INT buff. Max 10 Stacks. On casting, Odin will gain a stack of Path to Valhalla. Enemies in the area cannot Heal and have reduced Strength and Intelligence . Enemies who leave the area take 120 [75% Strength] Physical Damage and are Slowed , unless exiting through a segment of the ring destroyed by basic attacks. Cost: 100 mana Cooldown: 100/95/90/85/80 seconds Damage : 120/190/260/330/400 Damage Scaling : 75% Strength Slow : 25% Slow Duration : 5 seconds Strength : -15/-17.5/-20/-22.5/-25% Intelligence : -15/-17.5/-20/-22.5/-25% Strength : 5 Per Stack Intelligence : 8 Per Stack Ability Video",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Solo",
+      "title": "The Allfather",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Bob Carter",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Odin"
+  },
+  {
+    "id": "god_pele",
+    "type": "god",
+    "name": "Pele",
+    "content": "Pele. Title: Goddess of Volcanoes. Pantheon: Polynesian. Role: Jungle. Stats: Health: 622.5 (+97.5). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19 (+3). Magical Pro.: 27.5 (+1.5). Attack Speed: 1.0 (+1.46%). Move Speed: 375 (+0). Abilities: Pele Basic Attack Notes: If multiple enemies are in the area, the enemy closest to the center of the area will be hit. Has a 3 hit chain. Attacks in order of 1, 1, 1.5x damage and swing time. Deal Physical Damage to an enemy in front of you. Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Everlasting Flame When you drop below 50% Health , gain increased Strength and Lifesteal . This effect has a cooldown. Cooldown: 30 seconds Strength :  10 Strength Per Level :  2 Per Level Lifesteal :  30% Buff Duration :  6 seconds Ability Video 1st Ability - Pyroclast Notes: Both projectiles types pass through and damage all enemies, and passes through walls. Pele fires a Magma projectile that deals 60 [60% Strength] Physical Damage and grants fuel per enemy hit. At max range the Magma persists and fires additional shard projectiles back to Pele, dealing 30 [15% Strength] Physical Damage to enemies. The number of shards is dependent on the rank of this ability. Pele has 2 charges of this ability. Cost: 40/45/50/55/60 mana Cooldown: 15/14.5/14/13.5/13 seconds Range: 9.6 meters Radius: 0 meters Return Projectile: 1/2/3/4/5 Fuel Regained: 5 Initial Damage : 60/100/140/180/220 Initial Damage Scaling : 60% Strength Return Damage : 30 Initial Damage Scaling : 15% Strength Ability Video 2nd Ability - Eruption Pele stomps and lets the ground erupt, dealing 70 [80% Strength] Physical Damage and Knocking Up enemies around her. At ranks 3 and 5, this area gains an additional explosion areas, which deal 140 [60% Strength] Physical Damage and a smaller Knock Up . Activating this ability while in the amplified state of Magma Rush will cause you to Dash a short distance before erupting. Cost: 60/65/70/75/80 mana Cooldown: 15 seconds Inner Ring Damage : 70/115/160/205/250 Inner Ring Scaling : 80% Strength Outer Ring Damage : 140/140/140/180/220 Outer Ring Damage Scaling : 60% Strength Eruption Areas : 1/1/2/2/3 Protection Buff Scaling : 6% Intelligence Buff Duration : 5 seconds Max Buff Stacks : 4 Ability Video 3rd Ability - Magma Rush Notes: Fuel Regens per second when this ability is deactivated. This ability cannot be activated under 10 Fuel. This ability triggers no items. Pele repeatedly deals 10 [5% Strength] Physical Damage to nearby enemies and gain Movement Speed while this ability is active. Magma Rush uses Fuel for its duration and has no cooldown. Reactivate this ability to amplify the effect, expending more fuel but dealing increased 20 [20% Strength] Physical Damage and gaining additional movement speed . Fuel Cost : 5 Per 0.5 seconds Amped Fuel Cost : 10 Per 0.5 seconds Cost: 10 Fuel Damage : 10/15/20/25/30 Damage Scaling : 5% Strength Amped Damage : 20/35/50/65/80 Amped Damage Scaling : 20% Strength Movement Speed :  30% Amped Movement Speed : 60% Ability Video Ultimate - Volcanic Rush Notes: This ability triggers items only time across all 5 possible hits. Pele becomes CC Immune , then Dashes forward, dealing 180 [60% Strength] Physical Damage and Slowing the first enemy god hit, and firing a cone attack that deals 100 [40% Strength] Physical Damage to other enemies. For the next 10 seconds or 4 attacks, every time Pele basic attacks an enemy, she deals reduced damage and also fires a cone attack. Cost: 100 mana Cooldown: 90 seconds Range: 9.7 meters Radius: 0 meters Damage : 180/265/350/435/520 Damage Scaling : 60% Strength Cone Damage : 100/140/180/220/260 Cone Damage Scaling : 40% Strength Slow : 20/25/30/35/40% Slow Duration : 3 seconds Ability Video God Aspect [ edit",
+    "metadata": {
+      "pantheon": "Polynesian",
+      "role": "Jungle",
+      "title": "Goddess of Volcanoes",
+      "release_date": "December 10, 2024",
+      "voice_actor": "Nicole Gose",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Pele"
+  },
+  {
+    "id": "god_poseidon",
+    "type": "god",
+    "name": "Poseidon",
+    "content": "Poseidon. Title: God of the Oceans. Pantheon: Greek. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0). Abilities: Poseidon Basic Attack Notes: Projectile stops on first target hit, and does not pass through walls. Successfully hit basic attack generate Tide. Fire a projectile that deals Magical Damage to the first enemy hit. Range: 8.8 meters Radius: 0.48 meters Damage Scaling : 100% Strength or Inhand Power and 20% Intelligence Ability Video Passive - Changing Tides Notes: Each successful Basic Attack generates 10% Tide. At Max Tide Movement Speed is increased by 10%. At Max Tide abilities do 15% increased damage. Successfully hitting basic attacks generates Tide. Poseidon has increased Movement Speed and his abilities do additional bonus damage on the amount of Tide he has. Using abilities reduces Tide. Ability Video 1st Ability - Tidal Surge Notes: Poseidon summons a wave dealing 100 [70% Intelligence] Magical Damage and Knocks Back enemies. Activate while Trident is out to send out two additional waves. Subsequent wave hits deal 50% less damage. Tide Cost -15%. These waves pass through everything Cost: 60/65/70/75/80 mana Cooldown: 10 seconds Range: 12.8 meters Small Wave Radius: 0.28 meters Damage : 100/140/180/220/260 Damage Scaling : 70% Intelligence Ability Video 2nd Ability - Trident Poseidon activates his Trident, gaining increased Attack Speed, Movement Speed, and Basic Attack Damage . While activated, Tidal Surge and Basic Attacks fire two additional shots. The additional Basic Attacks shots apply ability damage and trigger ability on-hit effects. All Basic Attacks shots increase Tide on successful hit. This ability does not cost Tide. Cost: 55/60/65/70/75 mana Cooldown: 15 seconds Radius: 4.8m Damage : 20/30/40/50/60 Damage Scaling : 25% Intelligence Movement Speed : 10/12.5/15/17.5/20% Attack Speed : 10/12.5/15/17.5/20% Basic Attack Damage : 25 Buff Duration : 6 seconds Ability Video 3rd Ability - Whirlpool Notes: This ability hits 6 times over 3 seconds. Poseidon summons a whirlpool, Crippling , Vortexing , and dealing 15 [20% Intelligence] Magical Damage repeatedly to enemies in an area. Tide Cost -15%. Cost: 60/65/70/75/80 mana Cooldown: 15/14/13/12/11 seconds Range: 8.8 meters Radius: 3.2 meters Damage : 15/25/35/45/55 Damage Scaling : 20% Intelligence Ability Video Ultimate - Release The Kraken! Poseidon summons the Kraken, dealing 175 [40% Intelligence] Magical Damage and Slowing enemies in its area. Enemies in the center area when it spawns take 350 [100% Intelligence] Magical Damage instead and are Stunned and Knocked Up . Tide Cost -20% Cost: 60/65/70/75/80 mana Cooldown: 90 seconds Range: 7.2 meters Inner Radius: 2.4 meters Outer Radius Radius: 2.4 meters Outer Ring Damage : 175/210/245/280/315 Outer Ring Scaling : 40% Intelligence Inner Ring Damage : 350/420/490/560/630 Outer Ring Scaling : 100% Intelligence Slow : 30% Stun Duration : 1/1.2/1.4/1.6/1.8 Ability Video God Aspect [ edit",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "God of the Oceans",
+      "release_date": "November 25, 2024",
+      "voice_actor": "Richard Epcar",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Poseidon"
+  },
+  {
+    "id": "god_princess_bari",
+    "type": "god",
+    "name": "Princess Bari",
+    "content": "Princess Bari. Title: The Divine Mudang. Pantheon: Korean. Role: Carry. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0). Abilities: Princess Bari Basic Attack Notes: Projectiles stops on first enemy hit, and does not pass through walls. Fires a projectile that deals Magical Damage to the first enemy hit. Mystic Surge: Deals 50% Damage to enemies within 2.4m of where the projectile stops. Range: 8.8 meters Radius: 0.48 degrees Damage Scaling : 100% Strength or Inhand Power and 20% Intelligence Ability Video Passive - Mystic Surge Princess Bari accumulates Spirit by dealing damage to enemies. Upon reaching 100 Spirit Princess Bari enters Mystic Surge for 5s and can use any of her first 3 abilities with no cooldown. Abilities used this way have a bonus effect. Princess Bari gains Strength, Intelligence, and Attack Speed while in her Mystic Surge based on the rank of Spirit's Cadence. Minion Hit: 2 Spirit God Hit: 5 Spirit Strength : 7/14/21/28/35/49 Intelligence : 10/20/30/40/50/70 Attack Speed : 10/14/18/22/26/30% Ability Video 1st Ability - Spirit Bell Notes: Warding Gusts will push the Bell towards Princess Bari if it is within Basic Attack range and has landed before casting Warding Gusts. Princess Bari can only have 3 Bells deployed. Princess Bari lobs a bell, dealing 65 [80% Strength and 65% Intelligence] Magical Damage to enemies where it lands. Warding Gusts or Reverent Steps pushes the bell, dealing 45 [80% Strength and 65% Intelligence] Magical Damage and Slowing enemies hit. Mystic Surge: +20% Lob Damage , and now applies a Slow . +20% Rolling Damage and now applies Stun . The bell itself is 1.67x the size. Cost: 0 mana Cooldown: 15/14.5/14/13.5/13 seconds Range: 8.8 meters Radius: 2.4 meters Lob Damage : 65/105/145/185/225 Lob Damage Scaling : 80% Strength and 65% Intelligence Roll Damage : 45/75/105/135/165 Roll Damage Scaling : 80% Strength and 65% Intelligence Slow : 20% Slow Duration : 1.5s Ability Video 2nd Ability - Warding Gust Princess Bari swipes her fan dealing 65 [55% Strength and 45% Intelligence] Magical Damage to enemies and Knockbacks enemies who are close. -30% Damage to enemies further away. Mystic Surge: +20% Damage and Knockback . Bells pushed are treated as Mystic Surge Bells. Cost: 0 mana Cooldown: 14 seconds Radius: 4.4/8.8 meters Cone Angle: 70 degrees Damage : 65/110/155/200/245 Damage Scaling : 55% Strength and 45% Intelligence Ability Video 3rd Ability - Reverent Steps Notes: Princess Bari has no strafing or backpedal penalty while firing. Princess Bari dances for a short burst of speed in any direction, then fires a projectile dealing 10 [110% Strength and 40% Intelligence and 100% Inhand Power] Magical Damage when it ends. Hitting a god grants 50 Spirit and reduces this ability's Cooldown by 25%. Mystic Surge: +20% Damage , dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells. Cost: 0 mana Cooldown: 15 seconds Range: 8.8 meters Radius: 0.64 meters Damage : 10/45/80/115/150 Damage Scaling : 95% Strength and 55% Intelligence and 100% Inhand Power Ability Video Ultimate - Spirit's Cadence Notes: Slow stacks three times. Gods can receive Guarding Spirits only once per Spirit Cadence use. Princess Bari conjures a spiritual dance that pulses three times. The first two pulses deal 50 [30% Strength and 25% Intelligence] Magical Damage The last pulse deals 100 [60% Strength and 70% Intelligence] Magical Damage . Pulses apply a stacking Slow . Princess Bari and her allies in the area gain Guarding Spirits for 4s. When taking lethal damage Princess Bari becomes Immune , Silenced , and Disarmed for 1.5s. Casting this ability immediately places Princess Bari in Mystic Surge for 10s. Cost: 0 mana Cooldown: 100 seconds Range: 8.8 meters Radius: 5.6 meters Pulse Damage : 50/70/90/110/130 Pulse Scaling : 30% Strength and 25% Intelligence Final Damage : 100/140/180/220/260 Final Damage Scaling : 60% Strength and 70% Intelligence Slow : 15% Slow Duration : 2s Ability Video",
+    "metadata": {
+      "pantheon": "Korean",
+      "role": "Carry",
+      "title": "The Divine Mudang",
+      "release_date": "missing",
+      "voice_actor": "Judy Alice Lee",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Princess_Bari"
+  },
+  {
+    "id": "god_ra",
+    "type": "god",
+    "name": "Ra",
+    "content": "Ra. Title: Sun God. Pantheon: Egyptian. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0). Abilities: Ra Basic Attack Notes: Projectile stops on first target hit, and does not pass through walls. Fire a projectile that deals Magical Damage to the first enemy hit. Range: 8.8 meters Radius: 0.48 meters Damage Scaling : 100% Strength or Inhand Power and 20% Intelligence Ability Video Passive - Speed of Light After using an ability, Ra gains Movement Speed . This buff stacks up to 3 times. Movement Speed : 5% Per Stack Buff Duration : 15 seconds Cooldown: 0s Cost: 0s Ability Video 1st Ability - Celestial Beam Notes: This ability can go through walls Ra summons a moving beam of intense light, dealing 95 [105% Intelligence] Magical Damage to enemies. Cost: 60/65/70/75/80 mana Cooldown: 10 seconds Range: 12.8 meters Radius: 0.72 meters Damage : 95/155/215/275/335 Damage Scaling : 105% Intelligence Ability Video 2nd Ability - Divine Light Notes: A Slow stack is applied every 0.5 s. The explosion occurs after 2s. s. This ability cleanses slows and provides a very small window of slow immunity Ra emanates light in an area around him that repeatedly Slows enemies before exploding, dealing 70 [70% Intelligence] Magical Damage . For a period after activation, basic attacks fire solar rays, dealing Magical Damage . The solar rays count as abilities, trigger ability effects, and pierce targets. Enemies looking at Ra gain additional Slow stacks and are Blinded by the explosion. Cost: 60/65/70/75/80 mana Cooldown: 14/13.5/13/12.5/12 seconds Radius: 4.8m Damage : 70/120/150/200/250 Damage Scaling : 70% Intelligence Solar Ray Damage : 10/20/30/40/50 Solar Ray Damage Scaling : 85% Intelligence Solar Ray Duration : 2/2.5/3/3.5/4 Slow : 5\u00a0% Slow Duration : 3 seconds Ability Video 3rd Ability - Solar Blessing Notes: The pillar of light ticks 6 times over 6 seconds. Ra summons a pillar of blessed light, repeatedly dealing 20 [30% Intelligence] Magical Damage and 50% Healing allies for 12 Health . The light empowers Ra and allied gods in the area, granting Strength, Intelligence, Physical Protection and Magical Protection . Cost: 65/75/85/95/105 mana Cooldown: 15/14.5/14/13.5/13 seconds Range: 8.8 meters Radius: 3.2 meters Damage Per Tick : 20/32/44/56/68 Damage Scaling Per Tick : 30% Intelligence Heal Per Tick 12/24/36/48/60 Strength : 10/15/20/25/30 Intelligence : 20/25/30/35/40 Physical Protection : 10/15/20/25/30 Magical Protection : 10/15/20/25/30 Ability Video Ultimate - Searing Pain Notes: This ability, like Celestial Beam, can go through walls. Ra blasts enemies in front of him with a wave of heat, dealing 375 [125% Intelligence] Magical Damage . Deals bonus damage to gods based on their maximum Health . Cost: 90 mana Cooldown: 80(75/70/65/60 seconds Range: 19.2 meters Radius: 1.6 meters Damage : 375/450/525/600/675 Damage Scaling : 125% Intelligence Health : 8% Target's Max HP Ability Video",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Mid",
+      "title": "Sun God",
+      "release_date": "October 29, 2024",
+      "voice_actor": "Chuck Huber",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Ra"
+  },
+  {
+    "id": "god_rama",
+    "type": "god",
+    "name": "Rama",
+    "content": "Rama. Title: Seventh Avatar of Vishnu. Pantheon: Hindu. Role: Carry. Stats: Health: 591.4 (+92.6). Health Regen: 1.7 (+0.2). Mana: 296 (+38). Mana Regen: 2.14 (+0). Physical Pro.: 18.1 (+2.8). Magical Pro.: 26.1 (+1.49). Attack Speed: 1 (+1.46%). Move Speed: 375 (+0). Abilities: Rama Basic Attack Notes: Projectile stops on first target hit, and does not pass through walls. Deal Physical Damage to an enemy in front of you. Range: 8.8 meters Radius: 0.48 meters Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Astral Quiver Notes: Rama can hold up to 5 Astral Arrows. Rama always respawns with a full Astral Quiver. Drop Chance : 30% + 1% Per Level Rama's Astral Quiver generates an Astral Arrow every 12s. Each Basic Attack reduces the time to generate an Astral Arrow by 2s. The first time a fired Astral Arrow hits an enemy, it has a chance to drop to the ground. Dropped Astral Arrows last for 10s, and picking one up restores 10 Mana. Ability Video 1st Ability - Astral Strike Notes: This ability allows your Basic Attacks to pass through all enemies and walls. This ability's bonus damage is reduced by 20% to each target hit after the first. Rama cannot toggle this ability if he has no Astral Arrows. Switch to a more powerful arrow that deals an additional 0 Physical Damage , pierces, and Slows enemies. While this ability is active, each Basic Attack consumes 1 Astral Arrow and Mana. Cost: 15 mana Cooldown: 12 seconds Range: 8.8 meters Radius: 0.48 meters Bonus Damage : 0/10/20/30/40 Bonus Damage Scaling : 0/15/15/15/15/15% Strength Slow : 0/10/10/10/10/10% Slow Duration : 0/1.5/1.5/1.5/1.5/1.5s Ability Video 2nd Ability - Infinite Arrows Rama focuses his mind and gain increased Attack Speed . When activating this ability, if there are any dropped Astral Arrows within 8.8m of Rama, he automatically collects them. While this buff is active, every third successful Basic Attack on an enemy god will immediately generate an Astral Arrow. Cost: 40/45/50/55/60 mana Cooldown: 15/14/13/12/11 seconds Radius: 8.8 meters Attack Speed : 40/45/50/55/60% Buff Duration : 6 seconds Ability Video 3rd Ability - Rolling Assault Rama Rolls in the direction he is currently travelling. For the next 5s after rolling, his next Basic Attack will have Haste and consume an Astral Arrow, Crippling all enemies hit and dealing an additional 35 [30% Strength] Physical Damage . Cost: 50/55/60/65/70 mana Cooldown: 11 seconds Range: 7.2 meters Radius: 0.48 meters Bonus Damage : 35/55/75/95/115 Bonus Damage Scaling : 30% Strength Cripple Duration : 1/1.25/1.5/1.75/2s Ability Video Ultimate - Astral Barrage Notes: Each time Rama picks up an Astral Arrow, the cooldown of this ability is reduced by 0.4s. Rama launches himself into the air for up to 5s and shoots 3 powerful arrows at the ground, with each successive shot dealing increasing Physical Damage while decreasing in size. Cost: 80 mana Cooldown: 90 seconds Radius: 2.4/1.6/1.2 meters Range: 32 meters Damage : 235/315/395/475/555 Damage Per Shot : 70/85/100% Ability Video",
+    "metadata": {
+      "pantheon": "Hindu",
+      "role": "Carry",
+      "title": "Seventh Avatar of Vishnu",
+      "release_date": "February 10, 2025",
+      "voice_actor": "Nick Landis",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Rama"
+  },
+  {
+    "id": "god_scylla",
+    "type": "god",
+    "name": "Scylla",
+    "content": "Scylla. Title: Horror of the Sea. Pantheon: Greek. Role: Mid. Stats: Health: 591.4 (+92.6). Mana: 320 (+). Physical Pro.: 17.6 (+2.8). Magical Pro.: 27.4 (+1.5). Attack Speed: 0.8 (+0.8). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "Horror of the Sea",
+      "release_date": "June 2, 2025",
+      "voice_actor": "Carrie Savage"
+    },
+    "source_url": "https://wiki.smite2.com/w/Scylla"
+  },
+  {
+    "id": "god_sobek",
+    "type": "god",
+    "name": "Sobek",
+    "content": "Sobek. Title: God of the Nile. Pantheon: Egyptian. Role: Support. Stats: Health: 626.4 (+101.4). Health Regen: 1.77 (+2.1). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.76 (+3.12). Magical Pro.: 28.6 (+1.56). Attack Speed: 0.97 (+1.46%). Move Speed: 375 (+0). Abilities: Sobek Basic Attack Notes: If multiple enemies are in the area, the enemy closest to the center of the area will be hit. Deal Magical Damage to an enemy in front of you. Range: 1.92 meters Cone Angle: 120 degrees Damage Scaling : 100% Strength or Inhand Power and 20% Intelligence Ability Video Passive - Blessing of the Nile When Sobek attacks, he gains a stack of Protections . This effect stacks 3 times and lasts for 10s. An ability can only provide one stack per cast. Protections : 2 Protections Per Level : 0.4 Ability Video 1st Ability - Charge Prey Notes: Sobek has a 0s Postfire on a missed charge or a 0.3s postfire when he attempts to throw. This 0.3s postfire occurs both after a throw and if the enemy frees themselves with CC Immunity. Sobek dashes forward. The first enemy hit takes 70 [50% Intelligence] Magical Damage and stops the dash. Sobek displaces the enemy behind him. Damaged enemies are Stunned before being thrown. Sobek is Displacement Immune while dashing and CC Immune while throwing. Cost: 70/75/80/85/90 mana Cooldown: 16 seconds Range: 8.8 meters Radius: 0.48 meters Damage : 70/110/150/190/230 Damage Scaling : 50% Intelligence Stun Duration : 0.47 seconds Ability Video 2nd Ability - Tail Whip Notes: If you have not chosen a target, Clay Soldiers will attack the nearest enemy or an enemy god that damages Nu Wa. Sobek spins his tail, dealing 80 [40% Intelligence] Magical Damage in an area around Sobek. Damaged enemies are also Displaced away from Sobek. Cost: 60/65/70/75/80 mana Cooldown: 12 seconds Radius: 3.2 meters Damage : 80/125/170/215/260 Damage Scaling : 40% Intelligence Ability Video 3rd Ability - Sickening Strike Notes: The disease will spread to enemies within 3.2m of someone currently diseased. The Damage over Time does not trigger item effects. Sobek strikes in front of him. This strike deals 70 [30% Intelligence] Magical Damage in a cone and applies Disease , reducing healing received for 5s. Enemies diseased take to enemies Bonus Magical Damage , take Reduced Healing , and can spread the disease for 2.5s. Each enemy god hit by the cone reduces this ability's cooldown by 1s and Heals Sobek up to 4. Cost: 60/65/70/75/80 mana Cooldown: 12 seconds Radius: 5.6 meters Cone Angle: 110 degrees Damage : 70/105/140/175/215 Damage Scaling : 30% Intelligence Heal : 22/29/36/43/50 God DoT Damage : 5/5.5/6/6.5/7% HP over 2.5 seconds Minion DoT Damage : 30/45/60/75/90 over 2.5 seconds Healing Reduction : 40% Ability Video Ultimate - Lurking in the Waters Notes: Lurking in the Water's deals 25% of its potential damage if emerging instantly. Sobek can pass through enemies and spawned walls while submerged. Sobek submerges, Slowing enemies nearby and granting you CC Immunity , Protections , and Mana Regen . After 4 seconds, emerge dealing 300 [80% Intelligence] Magical Damage to enemies in range. Sobek can cancel this ability early, dealing less damage. Executes enemies below 10-25% HP , scaling with time submerged. Executed or killed enemies Heal Sobek and grant 25 permanent bonus Health . Cost: 80/90/100/110/120 mana Cooldown: 100 seconds Radius: 4.8 meters Damage : 300/450/600/750/900 Damage Scaling : 80% Intelligence Mana Per Second : 10% Protections : 20% Ability Video",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Support",
+      "title": "God of the Nile",
+      "release_date": "29 October, 2024",
+      "voice_actor": "Brandon Potter",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Sobek"
+  },
+  {
+    "id": "god_sol",
+    "type": "god",
+    "name": "Sol",
+    "content": "Sol. Title: Goddess of the Sun. Pantheon: Norse. Role: Mid. Stats: Health: 586.9 (+77.55). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0). Abilities: Sol Basic Attack Notes: Projectile stops on first target hit, and does not pass through walls. Fire a projectile that deals Magical Damage to the first enemy hit. Generates Heat. Range: 8.8 meters Radius: 0.48 meters Damage : 46 + 2.47 per level Damage Scaling : 100% Strength + 20% Intelligence Heat Generated : 5 Ability Video Passive - Unstable Manifestation Notes: Ranges from 0 to 100 Heat. Heat starts depleting if you have not generated Heat within the last 6 seconds. Heat depleats over time at a rate of 6 Heat per 0.33 seconds. Gain Heat from hitting enemies with basic attacks or from using abilities to gain increased Strength, Intelligence, and Attack Speed . At Max Heat, increase your basic attack damage . Strength : 0.25 * Heat Intelligence : 0.25 * Heat Attack Speed : 0.3% * Heat Basic Attack Damage : 15% Ability Video 1st Ability - Radiance Notes: Pool scales from 1x radius at 0 Heat to 2x radius at 100 Heat. This ability hits 3 times over 3 seconds. Heals 6 times over 5 seconds. Create a Pool of Flames at your location. Heal yourself over time, and instantly generate Heat. The pool repeatedly deals Magical Damage to enemies in the area. The more Heat you have at the time the pool is created, the larger its area will be. Cost: 50/60/70/80/90 mana Cooldown: 11 seconds Radius: 2.08 meters Damage Per Tick : 30/50/70/90/110 Damage Scaling Per Tick : 30% Intelligence Heal Per Tick : 3% Missing Health Heat Generated : 30/40/50/60/70 Ability Video 2nd Ability - Stellar Burst Notes: Projectile stops and explodes on first enemy hit, walls, or max range. Can only trigger ability based items and effects. Grants Haste. Your next basic attack fires a projectile that explodes, then retracts, and generates Heat. Both the explosion and the retraction deal Magical Damage to enemies and Slows them. Cost: 50/60/70/80/90 mana Cooldown: 10 seconds Range: 8.8 meters Radius: 3.2 meters Damage : 40/70/100/130/160 Damage Scaling : 45% Intelligence + 25% Strength Heat Generated : 10 Ability Video 3rd Ability - Disapparate Notes: You can cancel out of the Immune state early. This Immune state is Damage Immunity, Healing Immunity, CC Immunity, Untargettable, and makes you able to pass through allies, enemies, and Impediments. Gain Movement Speed, and Slow Immunity , begin creating a Trail of Flames behind you, and instantly generate Heat. The Trail persists and repeatedly deals Magical Damage to enemies in the area. After 3 seconds, detonate the Trail dealing Magical Damage , become Immune and unable to attack. Cost: 60 mana Cooldown: 16 seconds Radius: 1 meter Damage Per Tick : 20/40/60/80/100 Damage Scaling Per Tick : 25% Intelligence Explode Damage : 60/120/180/240/300 Explode Damage Scaling : 75% Intelligence Movement Speed : 20/22.5/25/27.5/30% Buff Duration : 3 seconds Immunity Duration : 3 seconds Heat Generated : 10 Ability Video Ultimate - Supernova Notes: Areas are selected every 0.18 seconds or when your targeter has moved more than 1.8 meters since the last area was selected. Channel to generate Heat, select 8 areas, then repeatedly deal Magical Damage to enemies in those areas. The first time an enemy is hit, they are Displaced . All subsequent hits deal decreased damage. You are CC Immune while Channeling. Cost: 100 mana Cooldown: 90 seconds Range: 8.8 meters Radius: 1.92 meters Damage : 150/200/250/300/350 Damage Scaling : 50% Intelligence Subsequent Damage : 30% Heat Generated : 40 Ability Video God Aspect [ edit",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Mid",
+      "title": "Goddess of the Sun",
+      "release_date": "May 30, 2024",
+      "voice_actor": "Jeannie Tirado",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Sol"
+  },
+  {
+    "id": "god_sun_wukong",
+    "type": "god",
+    "name": "Sun Wukong",
+    "content": "Sun Wukong. Title: The Monkey King. Pantheon: Chinese. Role: Solo. Stats: Health: 591.4 (+92.6). Health Regen: 2 (+0.21). Mana: 320 (+39.0). Mana Regen: 2 (+0). Physical Pro.: 17.6 (+2.8). Magical Pro.: 27.4 (+1.5). Attack Speed: 0.8 (+0.8). Move Speed: 375 (+0). Abilities: Sun Wukong Basic Attack, Undefeated Body, The Magic Cudgel, Master\u2019s Will, 72 Transformations, Somersault Cloud. Ultimate ability: Somersault Cloud",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Solo",
+      "title": "The Monkey King",
+      "release_date": "July 15, 2025",
+      "voice_actor": "Sean Schemmel",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Sun_Wukong"
+  },
+  {
+    "id": "god_susano",
+    "type": "god",
+    "name": "Susano",
+    "content": "Susano. Title: God of the Summer Storm. Pantheon: Japanese. Role: Jungle. Stats: Health: missing (+ missing ). Health Regen: missing (+ missing ). Mana: missing (+ missing ). Mana Regen: missing (+0). Physical Pro.: missing (+ missing ). Magical Pro.: missing (+ missing ). Attack Speed: missing (+ missing ). Move Speed: missing (+ missing ). Abilities: Susano Basic Attack Notes: If multiple enemies are in the area, the enemy closest to the center od the area will be hit. Has a 3 hit chain. Attacks in order of 1, 1, 1.25x damage and swing time. Deal Physical Damage to an enemy in front of you. Range: 1.92 meters Cone Angle: 120 degrees Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Storm's Edge Notes: Enemies with 1-2 stacks have 10% reduced Strength. Enemies with 3-4 stacks are Slowed by 15% and maintain previous Debuff. Enemies with 5-6 stacks tale 10% increased damage and maintain previous Debuffs. Debuffs last 3s and refresh on a new application. Buff lasts 3s. Each attack of Storm Kata can trigger ability item effects. When you use an ability your next basic attack will debuff the enemy hit. Weave in basic attack hits between abilities to progressively stack the debuff. Ability Video 1st Ability - Storm Kata Notes: This ability Cooldown is increased by 1s for each additional attack used. Dash passes through all enemies. Strike and deal Physical Damage to enemies in front of you. This ability can be used a second time to Spin and Deal Physical Damage to enemies around you. This ability can be used a third time to Dash forward and deal Physical Damage to all enemies hit. Cost: 50/55/60/65/70 Cooldown: 14/13/12/11/10 seconds Strike Range: 4.8 meters Strike Cone Angle: 60 degrees Spin Radius: 4.8 meters Dash Range: 7 meters Dash Radius: 0.5 meters Strike and Spin Damage : 40/60/80/100/120 Strike and Spin Damage Scaling : 50% Strength Dash Damage : 30/50/70/90/110 Dash Damage Scaling : 30% Strength Ability Video 2nd Ability - Wind Siphon Notes: Enemies are Pulled to the location in front of you at the start of the attack. Deal Physical Damage to enemies in front of you. Enemies in the inner area are also Pulled towards you. Cost: 40/50/60/70/80 Cooldown: 16 seconds Range: 5.6 meters Cone Angle: 105 degrees Inner Cone Angle: 40 degrees Damage : 75/100/125/150/175 Damage Scaling : 70% Strength Ability Video 3rd Ability - Jet Stream Notes: The Whirlwind will travel with the enemy hit. This ability Cooldown is reduced by 4s when Teleporting to an enemy. Ability hits 6 times, over 3 seconds. Fire a projectile that stops on walls or the first enemy hit creating a Whirlwind which repeatedly deals Physical Damage . This ability can be used again to Teleport to the Whirlwind. Cooldown: 16 seconds Cost: 45/50/55/60/65 Damage Damage Scaling Ability Video Ultimate - Typhoon Notes: This ability automatically refires after 2s. This ability starts at 50% Size and Damage and increases over the duration. The Typhoon will travel in the duration Susano is facing on refire. Create a Typhoon which repeatedly deals Physical Damage . This ability can be used again to fire the Typhoon, dealing Physical Damage and Displacing enemies hit. Cost: 80/85/90/95/100 Cooldown: 90 seconds Start Radius: 3.2 meters Max Radius: 6.4 meters Damage Per Tick : 10/15/20/25/30 Damage Scaling Per Tick : 10% Strength Damage : 180/240/300/360/420 Damage Scaling : 100% Strength Ability Video",
+    "metadata": {
+      "pantheon": "Japanese",
+      "role": "Jungle",
+      "title": "God of the Summer Storm",
+      "release_date": "18 July, 2024",
+      "voice_actor": "Jim Foronda",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Susano"
+  },
+  {
+    "id": "god_thanatos",
+    "type": "god",
+    "name": "Thanatos",
+    "content": "Thanatos. Title: Hand of Death. Pantheon: Greek. Role: Jungle. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Physical Pro.: 19 (+3). Magical Pro.: 27.5 (+1.5). Attack Speed: 1 (+1.5%). Move Speed: 442 (+0). Abilities: Thanatos Basic Attack Notes: If multiple enemies are in the area, the enemy closest to the center of the area will be hit. Has a 3 hit chain. Attacks in an order of 1 / 0.75 / 1.5x damage and swing time. The final swing hits all targets in range. Deal Physical Damage to an enemy in front of you. Range: 1.92 meters Cone Angle: 120 degrees Damage : 46 + 2.5 per level Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Harvester of Souls Notes: The health threshold is determined by the rank of Hovering Death, using the first rank value when Hovering Death is unranked. Enemy Gods at low health are revealed to you and can be Executed by Hovering Death. Killing an enemy heals Thanatos and reduced all of his cooldowns. Thanatos' abilities cost health. Cooldown Reduction: -5 seconds God Kill Heal : 25% of their Max Health NPC Kill Heal : 10% of their Max Health Ability Video 1st Ability - Death Scythe Notes: Projectile stops on walls. Gods hit by the projectile take 12.5% of their Max Health as bonus Physical Damage. Thanatos Heals for 50% of the total damage done. Fire a projectile that deals Physical Damage and Slows the first target hit. Cost: 6% Health Cooldown: 11 seconds Range: 11.2 meters Radius: 0.48 meters Damage : 95/165/235/305/375 Damage Scaling : 85% Strength Slow : 20% Ability Video 2nd Ability - Scent of Death Notes: Bonus Movement Speed scales from 0% effectiveness to 100% effectiveness. 0% when the targets health is at Execute Threshold and 100% when the target is 1 health. Gain Movement Speed and Flat Penetration . Deal Bonus Damage and run faster towards enemies in Execute Range. Cost: 4% Health Cooldown: 13 seconds Movement Speed : 8/12/16/20/24% Bonus Movement Speed : Up to 8/12/16/20/24% Flat Penetration : 8/12/16/20/24 Bonus Damage : 15% Ability Video 3rd Ability - Soul Reap Notes: Thanatos sweeps in front of him, inheriting any additional rotation during the fire. Sweep in front of you to deal Physical Damage and Silence enemies hit. Cost: 4% Health Cooldown: 14/13.5/13/12.5/12 seconds Cone Angle: 110 degrees Damage : 100/150/200/250/300 Damage Scaling : 80% Srength Silence Duration : 1 second Ability Video Ultimate - Hovering Death Notes: You are rooted during activation. Thanatos gains 125% Movement Speed while flying. Execute kills enemies even if their death would normally be prevented by other god abilities. If Thanatos is aiming at an invalid location when the ult expires, he will land on the last valid aimed location. Thanatos is fully CC Immune during buildup, ascent, flight, and descent. Fly into the sky and select a landing location. Deal Physical Damage and Stun enemies hit. Execute enemies at low health. Cost: 6% Health Cooldown: 90 seconds Cone Angle: 2.4 degrees Damage : 110/145/180/215/250 Damage Scaling : 80% Strength Execute Health\u00a0% : 24/28/32/36/40% Stun Duration : 1 seconds Ability Video",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Jungle",
+      "title": "Hand of Death",
+      "release_date": "June 27, 2024",
+      "voice_actor": "Erik Braa",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Thanatos"
+  },
+  {
+    "id": "god_the_morrigan",
+    "type": "god",
+    "name": "The Morrigan",
+    "content": "The Morrigan. Title: Phantom Queen. Pantheon: Celtic. Role: Mid. Stats: Health: 574.8 (+76.4). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.32 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0). Abilities: The Morrigan Basic Attack Notes: The Morrigan has a 3 hit chain. Attacks in an order of 1 / 1 / 1x damage and fire time. The final fire explodes on target, applying Doomsayer. Throw a projectile forward that deals Magical Damage to enemies hit. Range: 8.8 meters Radius: 0.8 meters Damage : 43 + 2.33 per level Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Doomsayer Notes: The DoT damage from this ability is now counted as ability damage. The Morrigan's Basic Attacks has a 3 hit chain. The final Basic Attack explodes, dealing 9% of the targets Health over 3s. Ability Video 1st Ability - Deadly Aspects Notes: The buildup for this ability does not break Confusion's Stealth. Firing any other ability (including Purification beads) will cancel the wind-up of this ability. The Morrigan deals Magical Damage and Stun enemies in front of you after a brief buildup. Cost: 60/65/70/75/80 mana Cooldown: 12 seconds Cone Angle: 45 degrees Damage : 105/160/215/270/325 Damage Scaling : 90% Intelligence Stun Duration : 0.8 seconds Ability Video 2nd Ability - Dark Omen Notes: Projectile deals Minion Damage to non-god entities, these entities cannot be marked with Dark Omen. The Morrigan deals the mark trigger damage, even if another god triggers it. She can receive kills this way. The Morrigan fires a projectile that deals Magical Damage . Enemy gods hit are marked. The mark triggers for Magical Damage when that god is damaged by any god ability. Cost: 60/65/70/75/80 mana Cooldown: 7 seconds Range: 11.2 meters Radius: 0.8 meters Initial Damage : 40/70/100/130/160 Initial Damage Scaling : 55% Intelligence Mark Damage : 40/70/100/130/160 Mark Damage Scaling : 55% Intelligence Minion Damage : 65/125/185/245/305 Minion Damage Scaling : 60% Intelligence Ability Video 3rd Ability - Confusion Notes: When the clone is damaged, it will appear as an illusion. It will change appearance and lose its health bar. The clone grants vision around itself. Taking damage while stealthed breaks the effect. The Morrigan Stealths immediately and gains Movement Speed . The Morrigan sends a clone of herself in the direction she is currently facing. Cost: 60/65/70/75/80 mana Cooldown: 15 seconds Movement Speed : 30/32.5/35/37.5/40% Buff Duration : 3/3.5/4/4.5/5 seconds Clone Lifetime : 5 seconds Ability Video Ultimate - Changeling Notes: If the god The Morrigan transforms into has an Ultimate Cooldown longer than this Ultimate's Cooldown, she uses the transformed targets Cooldown instead. The Morrigan will copy all their abilities and active items, all with no cooldown. The Morrigan will copy their ability ranks. If her level is different to the transform target's it will use the order they ranked their abilities, filling with Auto Skill as needed. If The Morrigan is in the middle of firing an ability when the transform times out, she will detransform the moment that ability fire ends. The Morrigan retains her Jungle Buffs and Fire Giant buff while transformed, while also gaining the buffs that her transformation currently has. (excluding Elixir's, which she doesn't gain nor retain on transform.) The Morrigan can use the consumables of her selected Transformation, such as Wards, Runic Bomb, and Obsidian Dagger. Detransformation cleanses all currently applied Crowd Control effects, immediately causing The Morrigan to detransform. Transformation cleanses ALL effects, including allied ones such as Khepri's Ultimate, Scarab's Blessing. These effects are still applied to The Morrigan's base form, so if she dies while Blessed, she will immediately detransform and be revived. The Morrigan selects a target to transform into. The Morrigan gains access to their abilities and items for 10 seconds. Cost: 100 mana Cooldown: 140/130/120/110/100 seconds Ability Video God Aspect [ edit",
+    "metadata": {
+      "pantheon": "Celtic",
+      "role": "Mid",
+      "title": "Phantom Queen",
+      "release_date": "June 27, 2024",
+      "voice_actor": "Elizabeth Maxwell",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/The_Morrigan"
+  },
+  {
+    "id": "god_thor",
+    "type": "god",
+    "name": "Thor",
+    "content": "Thor. Title: God of Thunder. Pantheon: Norse. Role: Jungle. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0). Abilities: Thor Basic Attack Notes: If multiple enemies are in the area, the enemy closest to the center of the area will be hit. Deal Physical Damage to an enemy in front of you. Range: 1.92 meters Cone Angle: 120 degrees Damage : 43 + 2.32 per level Damage Scaling : 100% Strength pr Inhand Power + 20% Intelligence Ability Video Passive - Warrior's Madness Thor gains Strength for each enemy god near Thor, up to 3. After using Berserker's Barrage or Anvil of Dawn, Thor gains Thunderstruck . While Thunderstruck , Mjolnir deals bonus Physical Damage . Thunderstruck's damage can arc up to 2 nearby enemies. Range: 3.2 meters Radius: 8.8 meters Physical Damage : 1.25 Per Level + 4 Physical Damage : 10% Strength Bonus Strength : 10 Ability Video EmbedVideo is missing a required parameter. 1st Ability - Mjolnir's Attunement Notes: Mjolnir must be in a valid location for Thor to be able to teleport to it. Thor cannot teleport to Mjolnir if afflicted by Hard CC, Cripples or while firing a different ability. Thor throws Mjolnir forwards, dealing 50 [35% Strength] Physical Damage to enemies as it travels. When it reaches max range it flies back to you. Gods hit by Mjolnir returning to Thor take 200% damage. Minions take 100% damage. Thor can reactivate while Mjolnir is traveling to Teleport to and catch Mjolnir. Cost: 55/60/65/70/75 mana Cooldown: 13 seconds Range: 11.2 meters Radius: 0.48 meters Damage : 50/95/140/185/230 Damage Scaling : 35% Strength Ability Video 2nd Ability - Tectonic Rift Notes: The fissure appears over 0.3s, stunning and damaging enemies as it appears. Thor slams Mjolnir down creating a fissure, dealing 30 [20% Strength] Physical Damage to enemies as it erupts. Enemies hit are also Stunned . The fissure blocks movement, but allows projectiles to pass through. Thor can reactivate to bring the fissure down early. Cost: 60 mana Cooldown: 17/16.5/16/15.5/15 seconds Range: 11.2 meters Damage : 30/50/70/90/110 Damage Scaling : 20% Strength Stun Duration : 1.2/1.25/1.3/1.35/1.4 Ability Video 3rd Ability - Berserker Barrage Thor spins, dealing 30 [40% Strength] Physical Damage to enemies around Thor. Thor spins twice before unleashing a final cone attack that deals 50 [70% Strength] Physical Damage to enemies in front of Thor. Thor is Displacement Immune while Channeling. Thor gains 3s of Thunderstruck , causing Mjolnir hits to arc and damage nearby enemies. Cost: 55/60/70/75/80 mana Cooldown: 12/11.5/11/10.5/10 seconds Range: 3.2 meters Cone Angle: 180 degrees Spin Damage : 30/50/70/90/110 Spin Damage Scaling : 40% Strength Cone Damage : 50/70/90/110/130 Cone Damage Scaling : 70% Strength Ability Video Ultimate - Anvil of Dawn Notes: If Thor is not aimed at a valid location, Thor will land at the closest valid point when aiming times out. Thor flies into the sky. Thor chooses a location dealing 100 [85% Strength] Physical Damage to enemies upon landing. Enemies hit are Stunned . Thor is CC Immune during this ability. Thor is Thunderstruck for after 6s after landing, causing Mjolnir to arc and damage nearby enemies. Cost: 80/90/100/110/120 mana Cooldown: 110/105/100/95/90 seconds Range: 32 meters Radius: 3.2 meters Damage : 100/165/230/295/360 Damage Scaling : 85% Strength Stun Duration : 1.5 seconds Ability Video",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Jungle",
+      "title": "God of Thunder",
+      "release_date": "November 25, 2024",
+      "voice_actor": "Bruce DuBose",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Thor"
+  },
+  {
+    "id": "god_ullr",
+    "type": "god",
+    "name": "Ullr",
+    "content": "Ullr. Title: The Glorious One. Pantheon: Norse. Role: Carry. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0). Abilities: Ullr Basic Attack Notes: Bow projectile stops on first target hit, and does not pass through walls. If axe cone area contains multiple enemies, the enemy closest to the center of the area will be hit. Ullr's Basic Attacks change depending on his current stance. Bow: Fires a projectile that deals 0 [100% Strength and 20% Intelligence and 100% Inhand Power] Physical Damage to the first enemy hit. Axe: Deals 0 Physical Damage to an enemy in front of you. Range: 8.8m Radius: 0.48m Axe Range: 1.92 meters Axe Cone Angle: 120 degrees Damage Scaling : 100% Strength or Inhand Power and 20% Intelligence Ability Video Passive - Weapon Master When Ullr uses an ability in either stance his Cooldowns in the opposite stance are reduced. Cooldown Reduction: -1s Ability Video 1st Ability - Bladed Arrow/Thrown Axe Bow: Ullr fires an arrow that passes through enemies and deals 70 [75% Strength] Physical Damage to all targets hit. Axe: Ullr throws an axe that Stuns and deals 50 [70% Strength] Physical Damage to the first enemy it hits. Cost: 50/55/60/65/70 Cooldown: 14 seconds Range: 11.2 meters Radius: 0.48 meters Damage (Bow) : 70/120/170/220/270 Damage Scaling : 75% Strength Damage (Axe) : 50/80/110/140/170 Damage Scaling (Axe) : 70% Strength Stun Duration : 0.8/0.9/1/1.1/1.2s Ability Video 2nd Ability - Expose Weakness/Invigorate Notes: The buff persists after switching stances. Bow: Ullr gains Bonus Attack Speed . Axe: Ullr gains Bonus Movement Speed . Cost: 50 Cooldown: 14 seconds Attack Speed : 20/25/30/35/40% Buff Duration : 4s Ability Video 3rd Ability - Hail of Arrows/Glory Bound Bow: Ullr fires a volley, dealing 80 [100% Strength] Physical Damage . The arrow remains in the ground for 3s. If Ullr activates Wield Axes while the arrow is deployed, the area around it become snowy for 3s, Slowing enemies. Axe: Ullr leaps to deal 50 [55% Strength] Physical Damage . The axes remain in the ground for 3s. If Ullr activates Wield Bow while the axes are deployed, the axes tear open the ground, reducing Physical Protections of enemies hit. Cost: 50/55/60/65/70 Cooldown: 15 seconds Range: 12.8 meters Radius: 1.6 meters Slow Field Radius: 2.4 meters Damage (Arrow) : 80/120/160/200/240 Damage Scaling : 100% Strength Damage (Axes) : 50/80/110/140/170 Damage Scaling (Axes) : 55% Strength Slow : 30% Physical Protections Reduced : 5/10/15/20/25 Debuff Duration : 4s Ability Video Ultimate - Wield Axes/Wield Bow Notes: Ullr also gains half of the benefit of the opposing stance. Ullr changes stances, removes Disarms, and gains benefits depending on which stance you are in. Bow: Ranged Basic Attacks and additional Strength . Axe: Melee Basic Attacks and additional Lifesteal . Cost: 0 Omi Cooldown: 1s Strength : 10/15/20/25/30 Lifesteal : 3/5/7/9/11% Ability Video",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Carry",
+      "title": "The Glorious One",
+      "release_date": "missing",
+      "voice_actor": "Bill Jenkins",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Ullr"
+  },
+  {
+    "id": "god_vulcan",
+    "type": "god",
+    "name": "Vulcan",
+    "content": "Vulcan. Title: Smith of the Gods. Pantheon: Roman. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0). Abilities: Vulcan Basic Attack Notes: Projectile stops on first target hit, and does not pass through walls. Fires a projectile that deals 5 Magical Damage to the first enemy hit. Range: 8.8 meters Radius: 0.48 meters Damage Scaling : 100% Strength or Inhand Power and 20% Intelligence Ability Video Passive - Master Craftsman Vulcan has access to a variety of Mods in the shop that affects his abilities. There are 3 sets of mods available at different levels. Vulcan can only have one Mod from each set. Hitting an enemy god with an ability grants Vulcan increased Movement Speed and Mana Regen for 5s. Buff Duration : 5 seconds Mana Regen : 3 Movement Speed : 15% Ability Video 1st Ability - Backfire Notes: Vulcan fires a projectile that causes him to Dash back and deal 90 [80% Intelligence] Magical Damage to all enemies it hits, marking the first god that is hit. Inferno Cannons will priotize hitting the marked god and deal 15% more damage to them for 4s. Cost: 40/45/50/55/60 mana Cooldown: 9/8.5/8/7.5/7 seconds Range: 8.8 meters Radius: 0.48 meters Damage : 90/135/180/225/270 Damage Scaling : 80% Intelligence Ability Video 2nd Ability - Inferno Cannon Vulcan creates an Inferno Cannon that shoots projectiles every 1s at an enemy in front of it, dealing 45 [40% Intelligence] Magical Damage . It lasts until destroyed or another is placed. Inherits Vulcan's penetrations but in addition to having 25% base Penetration. Does not trigger item effects. Cost: 50/55/60/65/70 mana Cooldown: 12 seconds Range: 9.6m Damage : 45/70/95/120/145 Damage Scaling : 40% Intelligence Movement Speed : 220/300/380/460/540 Ability Video 3rd Ability - Magma Bomb Vulcan lobs a projectile that explodes on impact with the ground, dealing 80 [90% Intelligence] Magical Damage and Displacing enemies in an area. Enemies are displaced up and away from the explosion. Cost: 50/55/60/65/70 mana Cooldown: 10 seconds Range: 9.6 meters Radius: 2.4 meters Damage : 80/130/180/230/280 Damage Scaling : 90% Intelligence Ability Video Ultimate - Earthshaker Vulcan launches a projectile that explodes on impact with the ground, dealing 320 [120% Intelligence] Magical Damage to enemies in its area. Deals more damage the further the projectile travels. Deals 1.5x the total at max travel time. Cost: 80/90/100/110/120 mana Cooldown: 90/85/80/75/70 seconds Range: 19.2 meters Radius: 4.8 meters Outer Ring Damage : 320/420/520/620/720 Outer Ring Scaling : 120% Intelligence Ability Video",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Mid",
+      "title": "Smith of the Gods",
+      "release_date": "missing",
+      "voice_actor": "Rick Robertson",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Vulcan"
+  },
+  {
+    "id": "god_yemoja",
+    "type": "god",
+    "name": "Yemoja",
+    "content": "Yemoja. Title: Goddess of Rivers. Pantheon: Yoruba. Role: Support. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0). Abilities: Yemoja Basic Attack Notes: Projectile stops on the first target hit, and does not pass through walls. Yemoja basic attacks can hit allies with an increased radius, applying Omi Healing. Fire a projectile that deals Magical Damage to the first enemy hit. Range: 8.8m Radius: 0.48m Ally Radius: 0.8m Damage Scaling : 100% Strength or Inhand Power and 20% Intelligence Ability Video Passive - Omi Notes: Additional Omi is gained at levels 5, 10 and 15. Cooldown Reduction increase Omi regeneration. Yemoja uses Omi to cast spells instead of Mana. Starting with 7, earning up to 10 Yemoja's water based attacks and abilities can hit allies, providing them a Heal for 1 + 0.2 per Level every 0.5s for 6s. Ability Video 1st Ability - Bouncing Bubble Notes: Enemies take reduced damage if hit by both large bubbles. All Allies hit will also gain Omi Healing. This ability changes to Moonstrike when used. Yemoja tosses a bubble that bounces twice, dealing 55 [30% Intelligence] Magical Damage and Slows enemies before exploding into smaller bubbles. Small bubbles deal 27.5 [15% Intelligence] Magical Damage . Cost: 2 Omi Cooldown: 0 seconds Range: 5.6 meters Radius: 2.24 meters Small Bubble Radius: 1 meter Damage : 55/90/125/160/195 Damage Scaling : 30% Intelligence Small Bubble Damage : 27.5/45/62.5/80/97.5 Small Bubble Damage Scaling : 15% Intelligence Slow : 30% Slow Duration : 1 seconds Ability Video Alt. 1st Ability - Moonstrike Notes: Enemy structures hit by the final strike are stunned for 2s. This ability changes to Bouncing Bubble when used. Yemoja lets the moon strike multiple times at a location, dealing 40 [20% Intelligence] Magical Damage before a final strike dealing 65 [40% Intelligence] Magical Damage and Stunning enemies for 1s. Allies in the final strike have their Omi Healing replaced with a buff providing increased Attack Speed and Basic Attack Damage. Cost: 2 Omi Radius: 1.6. meters Final Radius: 2.4 meters Range: 10.4 meters Final Damage : 65/105/145/185/225 Final Damage Scaling : 40% Intelligence Damage : 40/65/90/115/140 Damage Scaling : 20% Intelligence Attack Speed : 30% Basic Attack Damage : 20/25/30/35/40 Buff Duration : 4 seconds Ability Video 2nd Ability - Mending Waters Notes: Projectile stops on walls or first allied gods. Allies hit will also gain Omi Healing. Yemoja fires a water wave, dealing 65 [40% Intelligence] Magical Damage to enemies. This wave stops and bounces between allied gods, Healing then them for 20 Bonus Health and providing them a 30 [2% MaxHealth] Health Shield . This ability also does bonus damage to enemy Health Shields. Cost: 3 Omi Cooldown: 0 seconds Range: 9.6 meters Radius: 1.12 meters Damage : 65/95/125/155/180 Damage Scaling : 40% Intelligence Heal : 20/40/60/80/100 Shield Health : 30/55/80/105/130 Shield Health Scaling : 2% Max Health Bonus Damage to Shields : 2/2/2/2/3x Protection Reduced : -4/-5/-6/-7/-8 Ability Video 3rd Ability - Riptide Notes: Allies that use the ring also gain Omi Healing. Create a water ring that Knocks Back anyone entering it. Allies travel further and gain Movement Speed and Protections for 3s. Enemies are Slowed for 2s. Placing the ring at the maximum distance reverses its direction. Cost: 3 Omi Cooldown: 0 seconds Range: 9.6 meters Radius: 2.24 meters Movement Speed : 10/12.5/15/17.5/20% Protections : 20/25/30/35/40 Slow : 10% Ability Video Ultimate - River's Rebuke Notes: Enemies are slowed by 60%, decreasing to normal over 2s. Yemoja gains half of her missing Omi immediately but the duration of regeneration buff is decreased based on the amount restored. Yemoja conjures two large walls of water that block enemy movement and projectiles. After a delay they crash down, dealing 250 [70% Intelligence] Magical Damage , Trembling and Slowing enemies hit. Allies impacted by the crashing waves gain Omi Healing and Moonstrike's buff. You gain a buff of increased Omi over time using this ability. Cost: 0 Omi Cooldown: 140/135/120/115/110 seconds Range: 6 meters Radius: 1 meters Damage : 250/320/390/460/530 Damage Scaling : 70% Intelligence Ability Video God Aspect [ edit",
+    "metadata": {
+      "pantheon": "Yoruba",
+      "role": "Support",
+      "title": "Goddess of Rivers",
+      "release_date": "October 3, 2024",
+      "voice_actor": "Cassie Ewulu",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Yemoja"
+  },
+  {
+    "id": "god_ymir",
+    "type": "god",
+    "name": "Ymir",
+    "content": "Ymir. Title: Father of the Frost Giants. Pantheon: Norse. Role: Support. Stats: Health: 647.4 (+85.84). Health Regen: 1.82 (+0.211). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 20.3 (+3.21). Magical Pro.: 29.4 (+1.6). Attack Speed: 0.93 (+1.4%). Move Speed: 442 (+0). Abilities: Ymir Basic Attack Notes: If multiple enemies are in the area, the enemy closest to the center of the area will be hit. Deal Magical Damage to an enemy in front of you. Range: 1.92 meters Cone Angle: 120 degrees Damage : 46 + 2.47 per level Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Frostbite Notes: Frostbite's effect stacks with Critical Strikes. Your abilities apply Frostbite, causing enemies to take more basic attack damage from you and to deal less damage to you. Damage : 185% Strength + 37% Intelligence Reduced Damage Dealt : 15% Ability Video 1st Ability - Ice Wall Notes: The Wall Impedes all characters. Create a Wall at your feet to Displace yourself up and forward. Displaces enemies up and away from the Wall. Reactivate to destroy the Wall early. Create a Wall that Displaces enemies on creation. Applies Frostbite to Displaced enemies. Cost: 50/55/60/65/70 mana Cooldown: 13 seconds Range: 11.2 meters Radius: 3.25 meters Lifetime: 2.5/3/3.5/4/4.5 seconds Ability Video 2nd Ability - Glacial Strike Notes: Damaging area starts at Ymir and moves away over time. You are Slowed by 42.5% during activation. Deal Magical Damage and Slow enemies. Applies Frostbite on succesful hit. Cost: 45/50/55/60/65 mana Cooldown: 8/7.5/7/6.5/6 seconds Range: 6 meters Radius: 3.6 meters Damage : 60/105/150/195/240 Damage Scaling : 70% Intelligence + 55% Strength Slow : 25% Slow Duration : 2 seconds Ability Video 3rd Ability - Frost Breath Notes: You are Rooted during activation. Deal Magical Damage and Stun enemies in front of you. Applies Frostbite on succesful hit. Cost: 40/50/60/70/80 mana Cooldown: 16/15.5/15/14.5/14 seconds Cone Angle: 90 degrees Damage : 50/85/120/155/190 Damage Scaling : 55% Intelligence Stun Duration : 0.8/1/1.2/1.4/1.6 seconds Ability Video Ultimate - Shards of Ice Notes: Damage scales linearly from 35% + 0.03% Intelligence to 100% based on Channel time. Max Channel time of 3 seconds. You are Rooted while Channeling. Channel to Slow enemies around you. Deal a burst of Magical Damage when the Channel is complete. Applies Frostbite immediately to enemies in the area. You are CC Immune while Channeling. Cost: 80/90/100/110/120 mana Cooldown: 90/85/80/75/70 seconds Radius: 5.6 meters Damage : 500/650/800/950/1100 Damage Scaling : 160% Intelligence + 30% Protections Slow : 40% Ability Video",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Support",
+      "title": "Father of the Frost Giants",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Charles Campbell",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Ymir"
+  },
+  {
+    "id": "god_zeus",
+    "type": "god",
+    "name": "Zeus",
+    "content": "Zeus. Title: God of the Sky. Pantheon: Greek. Role: Mid. Stats: Health: 586.9 (+77.55). Health Regen: 1.75 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0). Abilities: Zeus Basic Attack Notes: Projectile stops on first target hit, and does not pass through walls. Fire a projectile that deals Magical Damage to the first enemy hit. Applies Charges. Range: 8.8 meters Radius: 0.48 meters Damage : 44 + 2.42 per level Damage Scaling : 100% Strength + 20% Intelligence Ability Video Passive - Overcharge Deal damage to apply Charges. Enemies take increased basic attack damage from you for each Charge they have. Damage Increase : 20% Per Stack Debuff Duration : 5 seconds Max Debuff Stacks : 3 Ability Video 1st Ability - Chain Lightning Notes: Projectile stops on walls. Fire a projectile that hits and enemy and then chains to nearby enemies. Any enemies hit are dealt Magical Damage , Slowed , and receive a Charge Cost: 50/55/60/65/70 mana Cooldown: 12 seconds Range: 8.8 meters Radius: 0.56 meters Damage : 40/70/100/130/160 Damage Scaling : 60% Intelligence Slow : 20% Bounces: 5 Ability Video 2nd Ability - Thunderclap Deal Magical Damage and apply a Charge to enemies around you, then gain increased Attack Speed, Movement Speed, and reduced basic attack Movement Penalty . Cost: 50/60/70/80/90 mana Cooldown: 15 seconds Radius: 3.2m Damage: 80/130/180/230/280 Damage Scaling: 80% Intelligence Attack Speed: 15/20/25/30/35% Movement Speed: 10/12.5/15/17.5/20% Buff Duration: 5s Ability Video 3rd Ability - Detonate Charge Notes: This ability cannot be activated unless an enemy has a Charge. Damage is multiplied by 1/1.7/2.4 based on the number of Charges. Activate to deal Magical Damage to enemies for each Charge, and Stun enemies that had max Charges. Cost: 70/75/80/85/90 mana Cooldown: 14/13.5/13/12.5/12 seconds Damage : 50/80/110/140/170 Damage Scaling : 30% Intelligence Stun Duration : 0.5 seconds Ability Video Ultimate - Lightning Storm Deal Magical Damage repeatedly to enemies in the area, applying a Charge on each hit. Cost: 100 mana Cooldown: 90 seconds Range: 8.8 meters Radius: 4.8 meters Damage Per Tick : 100/130/160/190/220 Damage Scaling Per Tick : 55% Intelligence Ability Video",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "God of the Sky",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Christopher Sabat",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Zeus"
+  }
+]
