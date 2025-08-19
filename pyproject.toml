@@ -1,0 +1,53 @@
+[project]
+name = "smite-chatbot"
+version = "0.1.0"
+description = "SMITE 2 chatbot that scrapes wiki data and provides intelligent answers using LLM and vector search"
+readme = "CLAUDE.md"
+requires-python = ">=3.12"
+authors = [
+    { name = "Your Name", email = "your.email@example.com" },
+]
+dependencies = [
+    "playwright",
+    "langchain",
+    "streamlit",
+    "ollama",
+    "beautifulsoup4",
+    "requests",
+    "trafilatura",
+    "lxml",
+    "readability-lxml",
+    "chromadb",
+    "sentence-transformers",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "ruff",
+]
+
+[project.scripts]
+smite-scraper = "smite_chatbot.scraper.orchestrator:main"
+smite-app = "smite_chatbot.app.main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/smite_chatbot"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+src = ["src"]
+
+[tool.black]
+line-length = 88
+target-version = ["py312"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
