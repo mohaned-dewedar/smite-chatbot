@@ -63,8 +63,6 @@ class AbilityScraper:
         self.gods_abilities.extend(abilities)
         return abilities
 
-    def call_llm
-
     def parse_all_gods_abilities(self,json_path: str):
         with open(json_path, "r") as f:
             data = json.load(f)
