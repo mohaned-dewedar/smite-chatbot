@@ -118,46 +118,100 @@ class GodsDetailedScraper(BaseScraper):
                     info[key] = val
 
         abilities = []
-        # find the Abilities section
-        abilities_h2 = soup.select_one("h2 #Abilities")
-        container = abilities_h2.find_parent("h2") if abilities_h2 else None
+        # find the Abilities section using modern structure
+        abilities_h2 = soup.select_one("h2 #Abilities") or soup.find("h2", string=re.compile(r"Abilities", re.I))
+        container = abilities_h2.find_parent("h2") if abilities_h2 else abilities_h2
+        
+        # Debug info can be removed for production
+        
         if container:
-            for sib in container.find_all_next("table", class_="wikitable"):
-                head = sib.select_one("th[colspan='2']")
-                if not head: break  # stop at unrelated tables
-
-                ability_type, ability_name = _parse_ability_header(_txt(head))
-
-                # description
-                desc_td = sib.select_one("tr td[width='526px']")
-                desc = _txt(desc_td) if desc_td else ""
-
-                # stats
-                stats = {}
-                ul = sib.select_one("tr ul")
-                if ul:
-                    for li in ul.select("li"):
-                        txt = _txt(li)
-                        if ":" in txt:
-                            k, v = txt.split(":", 1)
-                            stats[k.strip()] = v.strip()
-                        else:
-                            stats[""] = txt
-
-                # notes
-                notes_td = sib.select_one("td[rowspan]")
-                notes = ""
-                if notes_td:
-                    items = [ _txt(li) for li in notes_td.select("li") ]
-                    notes = "Notes:\n" + "\n".join(items) if items else _txt(notes_td)
-
-                abilities.append({
-                    "name": ability_name,
-                    "type": ability_type,
-                    "description": desc,
-                    "stats": stats,
-                    "notes": notes
-                })
+            # Look for ability sections after the Abilities h2
+            current = container.find_next_sibling()
+            while current and current.name != "h2":
+                
+                # Look for ability patterns - tables contain the ability data
+                if current.name == "table":
+                    # Get the ability header from the first cell/row of the table
+                    first_cell = current.select_one("th, td")
+                    if first_cell:
+                        first_line = _txt(first_cell)
+                    else:
+                        # Fallback to first line of full text
+                        ability_header = _txt(current)
+                        first_line = ability_header.split('\n')[0] if ability_header else ""
+                    
+                    ability_type, ability_name = _parse_ability_header(first_line)
+                    
+                    if ability_name and ability_name != "-":
+                        # Parse content within the table itself
+                        table_text = _txt(current)
+                        lines = table_text.split('\n')
+                        
+                        # Skip the header line (first line) and process the rest
+                        content_lines = []
+                        skip_first = True
+                        for line in lines:
+                            line = line.strip()
+                            if skip_first and line == first_line:
+                                skip_first = False
+                                continue
+                            if line:
+                                content_lines.append(line)
+                        
+                        desc_parts = []
+                        stats = {}
+                        notes = ""
+                        
+                        # The content is all in one line, we need to parse it dynamically
+                        if content_lines:
+                            full_content = " ".join(content_lines)
+                            # 1. Extract notes first (everything after "Notes:")
+                            notes_match = re.search(r'Notes:\s*([^.]*?)(?=\s+[A-Z][a-z]+|\s*$)', full_content)
+                            if notes_match:
+                                notes_text = notes_match.group(1).strip()
+                                notes = f"Notes:\n{notes_text}"
+                                # Remove notes from content for further processing
+                                full_content = re.sub(r'Notes:\s*[^.]*?(?=\s+[A-Z][a-z]+)', '', full_content)
+                            
+                            # 2. Extract description (look for sentences that describe what ability does)
+                            # Description usually comes after ability name and before stats
+                            # Look for complete sentences (capital letter start, period end or before stats)
+                            desc_match = re.search(r'([A-Z][^:]*?(?:\.|(?=\s+[A-Z][a-z]*\s*:)))', full_content)
+                            if desc_match:
+                                description = desc_match.group(1).strip()
+                                # Clean up description
+                                if description.endswith('.'):
+                                    description = description[:-1]
+                            
+                            # 3. Extract all stats dynamically (any "Word : Value" pattern)
+                            # Look for patterns like "Damage : 100 | 150", "Range : 5 meters", etc.
+                            stat_matches = re.finditer(r'([A-Z][A-Za-z\s]*?)\s*:\s*([^A-Z]+?)(?=\s*[A-Z][A-Za-z\s]*\s*:|$)', full_content)
+                            
+                            for match in stat_matches:
+                                key = match.group(1).strip()
+                                value = match.group(2).strip()
+                                
+                                # Skip if this looks like the ability name or notes
+                                if key.lower().startswith('notes') or len(key.split()) > 4:
+                                    continue
+                                    
+                                # Clean up the value
+                                value = re.sub(r'\s+', ' ', value).strip()
+                                if value:
+                                    stats[key] = value
+                        
+                        # Compile ability data
+                        description = " ".join(desc_parts) if desc_parts else ""
+                        
+                        abilities.append({
+                            "name": ability_name,
+                            "type": ability_type,
+                            "description": description,
+                            "stats": stats,
+                            "notes": notes
+                        })
+                
+                current = current.find_next_sibling()
 
         return {
             "name": name or None,

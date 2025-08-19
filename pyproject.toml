@@ -5,7 +5,7 @@ description = "SMITE 2 chatbot that scrapes wiki data and provides intelligent a
 readme = "CLAUDE.md"
 requires-python = ">=3.12"
 authors = [
-    { name = "Your Name", email = "your.email@example.com" },
+    { name = "Moe Dewedar", email = "m.dewedar97@gmail.com" },
 ]
 dependencies = [
     "playwright",
@@ -30,6 +30,8 @@ dev = [
 
 [project.scripts]
 smite-scraper = "smite_chatbot.scraper.orchestrator:main"
+smite-processor = "smite_chatbot.processors.orchestrator:main"
+smite-populate = "smite_chatbot.storage.populate:main"
 smite-app = "smite_chatbot.app.main:main"
 
 [build-system]
