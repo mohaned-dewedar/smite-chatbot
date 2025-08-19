@@ -1,0 +1,429 @@
+[
+  {
+    "id": "patch_smite_2_open_beta_16",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 16",
+    "content": "SMITE 2 Open Beta 16. Gods Changed: Amaterasu, Ares, Bellona, Cerberus, Hades, Hecate, Hou Yi, Hun Batz, Jing Wei, Medusa, Rama, Zeus",
+    "metadata": {
+      "patch_number": "16",
+      "gods_changed_count": 12,
+      "has_highlights": false,
+      "gods_changed": [
+        "Amaterasu",
+        "Ares",
+        "Bellona",
+        "Cerberus",
+        "Hades",
+        "Hecate",
+        "Hou Yi",
+        "Hun Batz",
+        "Jing Wei",
+        "Medusa",
+        "Rama",
+        "Zeus"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_16"
+  },
+  {
+    "id": "patch_smite_2_open_beta_15",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 15",
+    "content": "SMITE 2 Open Beta 15",
+    "metadata": {
+      "patch_number": "15",
+      "gods_changed_count": 0,
+      "has_highlights": false,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_15"
+  },
+  {
+    "id": "patch_smite_2_open_beta_14",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 14",
+    "content": "SMITE 2 Open Beta 14",
+    "metadata": {
+      "patch_number": "14",
+      "gods_changed_count": 0,
+      "has_highlights": false,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_14"
+  },
+  {
+    "id": "patch_smite_2_open_beta_13",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 13",
+    "content": "SMITE 2 Open Beta 13. Gods Changed: Buffs, Nerfs",
+    "metadata": {
+      "patch_number": "13",
+      "gods_changed_count": 2,
+      "has_highlights": false,
+      "gods_changed": [
+        "Buffs",
+        "Nerfs"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_13"
+  },
+  {
+    "id": "patch_smite_2_open_beta_12",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 12",
+    "content": "SMITE 2 Open Beta 12. Gods Changed: Released in the June 6 OB11 Hotfix, Releasing in OB12 on June 16",
+    "metadata": {
+      "patch_number": "12",
+      "gods_changed_count": 2,
+      "has_highlights": false,
+      "gods_changed": [
+        "Released in the June 6 OB11 Hotfix",
+        "Releasing in OB12 on June 16"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_12"
+  },
+  {
+    "id": "patch_smite_2_open_beta_11",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 11",
+    "content": "SMITE 2 Open Beta 11. Gods Changed: Released in the May 23 OB10 Hotfix, Releasing in OB11 on June 2",
+    "metadata": {
+      "patch_number": "11",
+      "gods_changed_count": 2,
+      "has_highlights": false,
+      "gods_changed": [
+        "Released in the May 23 OB10 Hotfix",
+        "Releasing in OB11 on June 2"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_11"
+  },
+  {
+    "id": "patch_smite_2_open_beta_10",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 10",
+    "content": "SMITE 2 Open Beta 10",
+    "metadata": {
+      "patch_number": "10",
+      "gods_changed_count": 0,
+      "has_highlights": false,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_10"
+  },
+  {
+    "id": "patch_smite_2_open_beta_9",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 9",
+    "content": "SMITE 2 Open Beta 9",
+    "metadata": {
+      "patch_number": "9",
+      "gods_changed_count": 0,
+      "has_highlights": false,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_9"
+  },
+  {
+    "id": "patch_smite_2_open_beta_8",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 8",
+    "content": "SMITE 2 Open Beta 8",
+    "metadata": {
+      "patch_number": "8",
+      "gods_changed_count": 0,
+      "has_highlights": false,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_8"
+  },
+  {
+    "id": "patch_smite_2_open_beta_7",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 7",
+    "content": "SMITE 2 Open Beta 7",
+    "metadata": {
+      "patch_number": "7",
+      "gods_changed_count": 0,
+      "has_highlights": false,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_7"
+  },
+  {
+    "id": "patch_smite_2_open_beta_6",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 6",
+    "content": "SMITE 2 Open Beta 6",
+    "metadata": {
+      "patch_number": "6",
+      "gods_changed_count": 0,
+      "has_highlights": false,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_6"
+  },
+  {
+    "id": "patch_smite_2_open_beta_5",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 5",
+    "content": "SMITE 2 Open Beta 5. Highlights: Princess Bari (Live with the Update!) General Title: The Divine Mudang New Pantheon: Korean Ranged Basic Attacks Damage Type: Magical Scaling Type: Hybrid Scaling Passive: Mystic Surge Accumulate Spirit by dealing damage to enemies. Upon reaching 100 Spirit you enter Mystic Surge for 5s and can use any of your abilities with no cooldown. Abilities used this way have a bonus effect Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence Ability 1: Sacred Bell Lob a bell, dealing Magical Damage to enemies where it lands. Warding Gusts or Reverent Steps push the Bell, dealing Magical Damage and Slowing enemies Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size. Ability 2: Warding Gust Swipe your fan dealing Magical Damage to enemies and Knockback enemies who are close. -30% Damage to enemies further away Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells. Ability 3: Reverent Steps Dance for a short burst of speed in any direction, then fire a projectile dealing Magical Damage when it ends Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25% Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells. Ultimate Ability: Spirit\u2019s Cadence Conjure a spiritual dance that pulses three times. The first two pulses deal Magical Damage. The last pulse deals Magical Damage. Pulses apply a stacking Slow. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s. Casting this ability immediately places you in Mystic Surge for 10s.. General Title: The Divine Mudang New Pantheon: Korean Ranged Basic Attacks Damage Type: Magical Scaling Type: Hybrid Scaling. Title: The Divine Mudang. New Pantheon: Korean. Ranged Basic Attacks. Damage Type: Magical. Scaling Type: Hybrid Scaling. Passive: Mystic Surge Accumulate Spirit by dealing damage to enemies. Upon reaching 100 Spirit you enter Mystic Surge for 5s and can use any of your abilities with no cooldown. Abilities used this way have a bonus effect Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence. Accumulate Spirit by dealing damage to enemies. Upon reaching 100 Spirit you enter Mystic Surge for 5s and can use any of your abilities with no cooldown. Abilities used this way have a bonus effect Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence. Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence. Ability 1: Sacred Bell Lob a bell, dealing Magical Damage to enemies where it lands. Warding Gusts or Reverent Steps push the Bell, dealing Magical Damage and Slowing enemies Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size.. Lob a bell, dealing Magical Damage to enemies where it lands. Warding Gusts or Reverent Steps push the Bell, dealing Magical Damage and Slowing enemies Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size.. Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size.. Ability 2: Warding Gust Swipe your fan dealing Magical Damage to enemies and Knockback enemies who are close. -30% Damage to enemies further away Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells.. Swipe your fan dealing Magical Damage to enemies and Knockback enemies who are close. -30% Damage to enemies further away Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells.. -30% Damage to enemies further away. Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells.. Ability 3: Reverent Steps Dance for a short burst of speed in any direction, then fire a projectile dealing Magical Damage when it ends Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25% Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells.. Dance for a short burst of speed in any direction, then fire a projectile dealing Magical Damage when it ends Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25% Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells.. Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25%. Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells.. Ultimate Ability: Spirit\u2019s Cadence Conjure a spiritual dance that pulses three times. The first two pulses deal Magical Damage. The last pulse deals Magical Damage. Pulses apply a stacking Slow. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s. Casting this ability immediately places you in Mystic Surge for 10s.. Conjure a spiritual dance that pulses three times. The first two pulses deal Magical Damage. The last pulse deals Magical Damage. Pulses apply a stacking Slow. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s. Casting this ability immediately places you in Mystic Surge for 10s.. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s.. Casting this ability immediately places you in Mystic Surge for 10s.. General Title: The Divine Mudang New Pantheon: Korean Ranged Basic Attacks Damage Type: Magical Scaling Type: Hybrid Scaling. Title: The Divine Mudang. New Pantheon: Korean. Ranged Basic Attacks. Damage Type: Magical. Scaling Type: Hybrid Scaling. Passive: Mystic Surge Accumulate Spirit by dealing damage to enemies. Upon reaching 100 Spirit you enter Mystic Surge for 5s and can use any of your abilities with no cooldown. Abilities used this way have a bonus effect Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence. Accumulate Spirit by dealing damage to enemies. Upon reaching 100 Spirit you enter Mystic Surge for 5s and can use any of your abilities with no cooldown. Abilities used this way have a bonus effect Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence. Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence. Ability 1: Sacred Bell Lob a bell, dealing Magical Damage to enemies where it lands. Warding Gusts or Reverent Steps push the Bell, dealing Magical Damage and Slowing enemies Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size.. Lob a bell, dealing Magical Damage to enemies where it lands. Warding Gusts or Reverent Steps push the Bell, dealing Magical Damage and Slowing enemies Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size.. Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size.. Ability 2: Warding Gust Swipe your fan dealing Magical Damage to enemies and Knockback enemies who are close. -30% Damage to enemies further away Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells.. Swipe your fan dealing Magical Damage to enemies and Knockback enemies who are close. -30% Damage to enemies further away Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells.. -30% Damage to enemies further away. Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells.. Ability 3: Reverent Steps Dance for a short burst of speed in any direction, then fire a projectile dealing Magical Damage when it ends Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25% Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells.. Dance for a short burst of speed in any direction, then fire a projectile dealing Magical Damage when it ends Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25% Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells.. Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25%. Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells.. Ultimate Ability: Spirit\u2019s Cadence Conjure a spiritual dance that pulses three times. The first two pulses deal Magical Damage. The last pulse deals Magical Damage. Pulses apply a stacking Slow. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s. Casting this ability immediately places you in Mystic Surge for 10s.. Conjure a spiritual dance that pulses three times. The first two pulses deal Magical Damage. The last pulse deals Magical Damage. Pulses apply a stacking Slow. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s. Casting this ability immediately places you in Mystic Surge for 10s.. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s.. Casting this ability immediately places you in Mystic Surge for 10s.. Title: The Divine Mudang. New Pantheon: Korean. Ranged Basic Attacks. Damage Type: Magical. Scaling Type: Hybrid Scaling. Accumulate Spirit by dealing damage to enemies. Upon reaching 100 Spirit you enter Mystic Surge for 5s and can use any of your abilities with no cooldown. Abilities used this way have a bonus effect Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence. Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence. Gain bonus Strength, Intelligence, and Attack Speed while in your Mystic Surge based on the rank of Spirit\u2019s Cadence. Lob a bell, dealing Magical Damage to enemies where it lands. Warding Gusts or Reverent Steps push the Bell, dealing Magical Damage and Slowing enemies Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size.. Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size.. Mystic Surge: +20% Lob Damage and now applies a Slow. +20% Rolling Damage and now applies a Stun. The Bell itself is 1.67x the size.. Swipe your fan dealing Magical Damage to enemies and Knockback enemies who are close. -30% Damage to enemies further away Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells.. -30% Damage to enemies further away. Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells.. -30% Damage to enemies further away. Mystic Surge: +20% Damage and Knockback. Bells pushed are treated as Mystic Surge Bells.. Dance for a short burst of speed in any direction, then fire a projectile dealing Magical Damage when it ends Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25% Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells.. Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25%. Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells.. Hitting a God grants 50 Spirit and reduces this ability\u2019s cooldown by 25%. Mystic Surge: +20% Damage, dealt instantly in a line. Bells pushed are treated as Mystic Surge Bells.. Conjure a spiritual dance that pulses three times. The first two pulses deal Magical Damage. The last pulse deals Magical Damage. Pulses apply a stacking Slow. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s. Casting this ability immediately places you in Mystic Surge for 10s.. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s.. Casting this ability immediately places you in Mystic Surge for 10s.. You and allies in the area gain Guardian Spirits for 4s. When taking lethal damage become Immune, Silenced, and Disarmed for 1.5s.. Casting this ability immediately places you in Mystic Surge for 10s.",
+    "metadata": {
+      "patch_number": "5",
+      "gods_changed_count": 0,
+      "has_highlights": true,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_5"
+  },
+  {
+    "id": "patch_smite_2_open_beta_4",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 4",
+    "content": "SMITE 2 Open Beta 4. Gods Changed: Artemis, Awilix",
+    "metadata": {
+      "patch_number": "4",
+      "gods_changed_count": 2,
+      "has_highlights": false,
+      "gods_changed": [
+        "Artemis",
+        "Awilix"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_4"
+  },
+  {
+    "id": "patch_smite_2_open_beta_3",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 3",
+    "content": "SMITE 2 Open Beta 3. Gods Changed: New:, Buffs, Shifts, Nerfs",
+    "metadata": {
+      "patch_number": "3",
+      "gods_changed_count": 4,
+      "has_highlights": false,
+      "gods_changed": [
+        "New:",
+        "Buffs",
+        "Shifts",
+        "Nerfs"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_3"
+  },
+  {
+    "id": "patch_smite_2_open_beta_2",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 2",
+    "content": "SMITE 2 Open Beta 2. Highlights: Danzaburou Party Animal. Khepri Living Brain. Aphrodite KissMeXOXO. Cyber Geisha Izanami. Gods Changed: Vulcan, Hun Batz - Releasing the week of February 3",
+    "metadata": {
+      "patch_number": "2",
+      "gods_changed_count": 2,
+      "has_highlights": true,
+      "gods_changed": [
+        "Vulcan",
+        "Hun Batz - Releasing the week of February 3"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_2"
+  },
+  {
+    "id": "patch_smite_2_open_beta_1",
+    "type": "patch",
+    "name": "SMITE 2 Open Beta 1",
+    "content": "SMITE 2 Open Beta 1. Gods Changed: Aladdin - Releasing January 13, Mulan, Agni, Geb, Ullr",
+    "metadata": {
+      "patch_number": "1",
+      "gods_changed_count": 5,
+      "has_highlights": false,
+      "gods_changed": [
+        "Aladdin - Releasing January 13",
+        "Mulan",
+        "Agni",
+        "Geb",
+        "Ullr"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Open_Beta_1"
+  },
+  {
+    "id": "patch_smite_2_closed_alpha_8",
+    "type": "patch",
+    "name": "SMITE 2 Closed Alpha 8",
+    "content": "SMITE 2 Closed Alpha 8. Gods Changed: Aphrodite, Medusa, Pele",
+    "metadata": {
+      "patch_number": "SMITE 2 Closed Alpha 8",
+      "gods_changed_count": 3,
+      "has_highlights": false,
+      "gods_changed": [
+        "Aphrodite",
+        "Medusa",
+        "Pele"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Closed_Alpha_8"
+  },
+  {
+    "id": "patch_smite_2_closed_alpha_7",
+    "type": "patch",
+    "name": "SMITE 2 Closed Alpha 7",
+    "content": "SMITE 2 Closed Alpha 7. Gods Changed: Thor, Poseidon, Cupid",
+    "metadata": {
+      "patch_number": "SMITE 2 Closed Alpha 7",
+      "gods_changed_count": 3,
+      "has_highlights": false,
+      "gods_changed": [
+        "Thor",
+        "Poseidon",
+        "Cupid"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Closed_Alpha_7"
+  },
+  {
+    "id": "patch_smite_2_closed_alpha_6",
+    "type": "patch",
+    "name": "SMITE 2 Closed Alpha 6",
+    "content": "SMITE 2 Closed Alpha 6. Gods Changed: Izanami, Khepri, Nemesis",
+    "metadata": {
+      "patch_number": "SMITE 2 Closed Alpha 6",
+      "gods_changed_count": 3,
+      "has_highlights": false,
+      "gods_changed": [
+        "Izanami",
+        "Khepri",
+        "Nemesis"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Closed_Alpha_6"
+  },
+  {
+    "id": "patch_smite_2_closed_alpha_5",
+    "type": "patch",
+    "name": "SMITE 2 Closed Alpha 5",
+    "content": "SMITE 2 Closed Alpha 5. Gods Changed: Ra, Sobek",
+    "metadata": {
+      "patch_number": "SMITE 2 Closed Alpha 5",
+      "gods_changed_count": 2,
+      "has_highlights": false,
+      "gods_changed": [
+        "Ra",
+        "Sobek"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Closed_Alpha_5"
+  },
+  {
+    "id": "patch_smite_2_closed_alpha_4",
+    "type": "patch",
+    "name": "SMITE 2 Closed Alpha 4",
+    "content": "SMITE 2 Closed Alpha 4. Gods Changed: Danzaburou, Hercules",
+    "metadata": {
+      "patch_number": "SMITE 2 Closed Alpha 4",
+      "gods_changed_count": 2,
+      "has_highlights": false,
+      "gods_changed": [
+        "Danzaburou",
+        "Hercules"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Closed_Alpha_4"
+  },
+  {
+    "id": "patch_smite_2_closed_alpha_3",
+    "type": "patch",
+    "name": "SMITE 2 Closed Alpha 3",
+    "content": "SMITE 2 Closed Alpha 3. Gods Changed: New God: Baron Samedi, New God: Yemoja",
+    "metadata": {
+      "patch_number": "SMITE 2 Closed Alpha 3",
+      "gods_changed_count": 2,
+      "has_highlights": false,
+      "gods_changed": [
+        "New God: Baron Samedi",
+        "New God: Yemoja"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Closed_Alpha_3"
+  },
+  {
+    "id": "patch_smite_2_closed_alpha_2",
+    "type": "patch",
+    "name": "SMITE 2 Closed Alpha 2",
+    "content": "SMITE 2 Closed Alpha 2. Highlights: New Features Divine Presence now applies additional duration-based buffs on activation to Amaterasu and nearby Gods. Provides Attack Speed when changing to Red Stance Provides Health Shield when changing to Gold Stance Dazzling Offensive\u2019s 3rd attack is now a full-circle sweep attack, hitting the area all around Amaterasu Hybrid Scaling: A01 Persistent INT and STR buff scales up with INT A01 Health Shield scales up with Max HP A02 Mitigations while changing scales up with INT A02 and A04 have Damage scale up with INT. Divine Presence now applies additional duration-based buffs on activation to Amaterasu and nearby Gods. Provides Attack Speed when changing to Red Stance Provides Health Shield when changing to Gold Stance. Provides Attack Speed when changing to Red Stance. Provides Health Shield when changing to Gold Stance. Dazzling Offensive\u2019s 3rd attack is now a full-circle sweep attack, hitting the area all around Amaterasu. Hybrid Scaling: A01 Persistent INT and STR buff scales up with INT A01 Health Shield scales up with Max HP A02 Mitigations while changing scales up with INT A02 and A04 have Damage scale up with INT. A01 Persistent INT and STR buff scales up with INT. A01 Health Shield scales up with Max HP. A02 Mitigations while changing scales up with INT. A02 and A04 have Damage scale up with INT. General Deals Physical Damage STR and INT Ability Scaling. Deals Physical Damage. STR and INT Ability Scaling. Basic Attack Melee Basic Attacks Scales with 100% STR + 20% INT. Melee Basic Attacks. Scales with 100% STR + 20% INT. Illuminating Strike (Passive) Basic attack an enemy 3 times to illuminate their weaknesses, causing them and other nearby enemies to take more damage from all sources.. Basic attack an enemy 3 times to illuminate their weaknesses, causing them and other nearby enemies to take more damage from all sources.. Divine Presence (Ability 1) Heal yourself [Base + 20% INT] over 4s, and alternate between the Gold and Red buff effects. Gold buff provides a Health Shield for 6s on activation, and a persistent Movement Speed Buff Red buff provides an Attack Speed buff for 6s on activation, and a persistent Strength and Intelligence Buff [Base + 10% INT]. Heal yourself [Base + 20% INT] over 4s, and alternate between the Gold and Red buff effects.. Gold buff provides a Health Shield for 6s on activation, and a persistent Movement Speed Buff. Red buff provides an Attack Speed buff for 6s on activation, and a persistent Strength and Intelligence Buff [Base + 10% INT]. Heavenly Reflection (Ability 2) Charge your Mirror for 5s and decrease all damage you take while charging [Base + 5% INT]. Reactivate the ability to fire a projectile that deals [Base + 65% STR + 85% INT] Physical Damage to enemies, increased by the Mirror's charge amount. Deal and take damage to charge the Mirror Base Damage is doubled when Mirror is fully charged. Charge your Mirror for 5s and decrease all damage you take while charging [Base + 5% INT]. Reactivate the ability to fire a projectile that deals [Base + 65% STR + 85% INT] Physical Damage to enemies, increased by the Mirror's charge amount.. Deal and take damage to charge the Mirror. Base Damage is doubled when Mirror is fully charged. Glorious Charge (Ability 3) Silence enemies in front of you for 1s, then dash forward and deal [Base + 65% STR] Physical Damage. Pierces through and damages minions but stops on first god hit. Silence enemies in front of you for 1s, then dash forward and deal [Base + 65% STR] Physical Damage.. Pierces through and damages minions but stops on first god hit. Dazzling Offensive (Ultimate) Become CC Immune and then attack 3 times to deal [Base + 55% STR] Physical Damage to enemies in front of you each time. Attacks deal more damage and have bonus effects on each subsequent successful hit 2nd hit deals 1.2x damage and Slows by 30% for 2s 3rd hit deals 1.4x damage and Stuns for 1.5s. Become CC Immune and then attack 3 times to deal [Base + 55% STR] Physical Damage to enemies in front of you each time.. Attacks deal more damage and have bonus effects on each subsequent successful hit. 2nd hit deals 1.2x damage and Slows by 30% for 2s. 3rd hit deals 1.4x damage and Stuns for 1.5s. Divine Presence now applies additional duration-based buffs on activation to Amaterasu and nearby Gods. Provides Attack Speed when changing to Red Stance Provides Health Shield when changing to Gold Stance. Provides Attack Speed when changing to Red Stance. Provides Health Shield when changing to Gold Stance. Dazzling Offensive\u2019s 3rd attack is now a full-circle sweep attack, hitting the area all around Amaterasu. Hybrid Scaling: A01 Persistent INT and STR buff scales up with INT A01 Health Shield scales up with Max HP A02 Mitigations while changing scales up with INT A02 and A04 have Damage scale up with INT. A01 Persistent INT and STR buff scales up with INT. A01 Health Shield scales up with Max HP. A02 Mitigations while changing scales up with INT. A02 and A04 have Damage scale up with INT. Provides Attack Speed when changing to Red Stance. Provides Health Shield when changing to Gold Stance. A01 Persistent INT and STR buff scales up with INT. A01 Health Shield scales up with Max HP. A02 Mitigations while changing scales up with INT. A02 and A04 have Damage scale up with INT. Deals Physical Damage. STR and INT Ability Scaling. Melee Basic Attacks. Scales with 100% STR + 20% INT. Basic attack an enemy 3 times to illuminate their weaknesses, causing them and other nearby enemies to take more damage from all sources.. Heal yourself [Base + 20% INT] over 4s, and alternate between the Gold and Red buff effects.. Gold buff provides a Health Shield for 6s on activation, and a persistent Movement Speed Buff. Red buff provides an Attack Speed buff for 6s on activation, and a persistent Strength and Intelligence Buff [Base + 10% INT]. Charge your Mirror for 5s and decrease all damage you take while charging [Base + 5% INT]. Reactivate the ability to fire a projectile that deals [Base + 65% STR + 85% INT] Physical Damage to enemies, increased by the Mirror's charge amount.. Deal and take damage to charge the Mirror. Base Damage is doubled when Mirror is fully charged. Silence enemies in front of you for 1s, then dash forward and deal [Base + 65% STR] Physical Damage.. Pierces through and damages minions but stops on first god hit. Become CC Immune and then attack 3 times to deal [Base + 55% STR] Physical Damage to enemies in front of you each time.. Attacks deal more damage and have bonus effects on each subsequent successful hit. 2nd hit deals 1.2x damage and Slows by 30% for 2s. 3rd hit deals 1.4x damage and Stuns for 1.5s. Gods Changed: New God: Amaterasu, New God: Nu Wa",
+    "metadata": {
+      "patch_number": "SMITE 2 Closed Alpha 2",
+      "gods_changed_count": 2,
+      "has_highlights": true,
+      "gods_changed": [
+        "New God: Amaterasu",
+        "New God: Nu Wa"
+      ]
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Closed_Alpha_2"
+  },
+  {
+    "id": "patch_smite_2_closed_alpha_1",
+    "type": "patch",
+    "name": "SMITE 2 Closed Alpha 1",
+    "content": "SMITE 2 Closed Alpha 1. Highlights: Jing Wei The Oathkeeper Voiced By: Alison Viktorin. Mordred Breaker of the Round Table Voiced By: Gavin Hammon",
+    "metadata": {
+      "patch_number": "SMITE 2 Closed Alpha 1",
+      "gods_changed_count": 0,
+      "has_highlights": true,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Closed_Alpha_1"
+  },
+  {
+    "id": "patch_smite_2_alpha_weekend_4",
+    "type": "patch",
+    "name": "SMITE 2 Alpha Weekend 4",
+    "content": "SMITE 2 Alpha Weekend 4. Highlights: Ares God of War Voiced By: Jason Douglas. Susano God of the Summer Storm Voiced By: Jim Foronda",
+    "metadata": {
+      "patch_number": "SMITE 2 Alpha Weekend 4",
+      "gods_changed_count": 0,
+      "has_highlights": true,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Alpha_Weekend_4"
+  },
+  {
+    "id": "patch_smite_2_alpha_weekend_3",
+    "type": "patch",
+    "name": "SMITE 2 Alpha Weekend 3",
+    "content": "SMITE 2 Alpha Weekend 3. Highlights: Hecate Goddess of Sorcery Voiced By: Katiana Sarkissian. Thanatos Hand of Death Voiced By: Erik Braa. The Morrigan Phantom Queen Voiced By: Elizabeth Maxwell",
+    "metadata": {
+      "patch_number": "SMITE 2 Alpha Weekend 3",
+      "gods_changed_count": 0,
+      "has_highlights": true,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Alpha_Weekend_3"
+  },
+  {
+    "id": "patch_smite_2_alpha_weekend_2",
+    "type": "patch",
+    "name": "SMITE 2 Alpha Weekend 2",
+    "content": "SMITE 2 Alpha Weekend 2. Highlights: Hades King of the Underworld Voiced by: Patrick Seitz. Sol Goddess of the Sun Voiced by: Jeannie Tirado",
+    "metadata": {
+      "patch_number": "SMITE 2 Alpha Weekend 2",
+      "gods_changed_count": 0,
+      "has_highlights": true,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Alpha_Weekend_2"
+  },
+  {
+    "id": "patch_smite_2_alpha_weekend_1",
+    "type": "patch",
+    "name": "SMITE 2 Alpha Weekend 1",
+    "content": "SMITE 2 Alpha Weekend 1. Highlights: Anhur Slayer of Enemies Voiced by: Christopher Sabat. Anubis God of the Dead Voiced by: R. Bruce Elliott. Athena Goddess of Wisdom Voiced by: Lindsey Alena. Bacchus God of Wine Voiced by: Chris Rager. Bellona Goddess of War Voiced by: Laura Post. Cernunnos The Horned God Voiced by: Mick Lauer. Chaac God of Rain Voiced by: Patrick Seitz. Fenrir The Unbound Voiced by: Christopher Sabat. Kukulkan Serpent of the Nine Winds Voiced by: Clifford Chapin. Loki The Trickster God Voiced by: Alex Ross. Neith Weaver of Fate Voiced by: Lindsay Seidel. Odin The Allfather Voiced by: Bob Carter. Ymir Father of the Frost Giants Voiced by: Charles Campbell. Zeus God of the Sky Voiced by: Christopher Sabat",
+    "metadata": {
+      "patch_number": "SMITE 2 Alpha Weekend 1",
+      "gods_changed_count": 0,
+      "has_highlights": true,
+      "gods_changed": []
+    },
+    "source_url": "https://wiki.smite2.com/w/SMITE_2_Alpha_Weekend_1"
+  }
+]

@@ -1,0 +1,3260 @@
+[
+  {
+    "id": "item_aegis_of_acceleration",
+    "type": "item",
+    "name": "Aegis of Acceleration",
+    "content": "Aegis of Acceleration. Type: Relic. Cost: 0. Active: Active: You become invulnerable to damage and healing for 1.5s, and prevented from taking any actions except moving. Each instance of damage prevented provides you 7% Movement Speed for 6s, stacking up to 3 times. Cooldown: 140s.. Description: Aegis of Acceleration 0 Active Effect",
+    "metadata": {
+      "item_type": "Relic",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Aegis_of_Acceleration"
+  },
+  {
+    "id": "item_phantom_shell",
+    "type": "item",
+    "name": "Phantom Shell",
+    "content": "Phantom Shell. Type: Relic. Cost: 0. Active: Active: Shield yourself and allies within 5.6m for 100 Health + 10 per level for 3 seconds. Gods take 20% + 1% per level reduced damage from basic attacks and pass through players and player-made walls for the duration. Cooldown: 120s.. Description: Phantom Shell 0 Active Effect",
+    "metadata": {
+      "item_type": "Relic",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Phantom_Shell"
+  },
+  {
+    "id": "item_purification_beads",
+    "type": "item",
+    "name": "Purification Beads",
+    "content": "Purification Beads. Type: Relic. Cost: 0. Active: Active: You become CC Immune for 2s. Cooldown: 150s.. Description: Purification Beads 0 Active Effect",
+    "metadata": {
+      "item_type": "Relic",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Purification_Beads"
+  },
+  {
+    "id": "item_blink_rune",
+    "type": "item",
+    "name": "Blink Rune",
+    "content": "Blink Rune. Type: Relic. Cost: 0. Active: Active: You are Teleported to a targeted location up to 5.6m away. This effect can be used while firing another ability. Cannot be activated for 3s upon dealing damage to a god or taking damage from a god. Damaging or Killing an enemy god within 4s of being used reduced the cooldown by 30s. Cooldown: 180s. Description: Blink Rune 0 Active Effect",
+    "metadata": {
+      "item_type": "Relic",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Blink_Rune"
+  },
+  {
+    "id": "item_agility_relic",
+    "type": "item",
+    "name": "Agility Relic",
+    "content": "Agility Relic. Type: Relic. Cost: 0. Passive: Passive 1:(Melee gods only): Your Basic Attacks will lunge forward if an enemy is slightly outside of your Basic Attack range. This is ignored if you are strafing or backpedaling. Passive 2:(Ranged gods only): Your projectiles travel 40% faster.. Active: Active: Dash in the direction you are currently moving. Cooldown: 10s. Description: Agility Relic 0 Passive Effect",
+    "metadata": {
+      "item_type": "Relic",
+      "has_passive": true,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Agility_Relic"
+  },
+  {
+    "id": "item_sundering_arc",
+    "type": "item",
+    "name": "Sundering Arc",
+    "content": "Sundering Arc. Type: Relic. Cost: 0. Active: Active: Instantly deals 175 + 25 per level true damage to Jungle Monsters and Jungle Bosses. Deals 500 damage at level 13 and above. Hits Gods, dealing 25 + 4 per level True Damage 3 times over 2s. Cooldown: 120s, reduced by 30s if used only on Jungle Monsters or Bosses.. Description: Sundering Arc 0 Active Effect",
+    "metadata": {
+      "item_type": "Relic",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Sundering_Arc"
+  },
+  {
+    "id": "item_runic_bomb",
+    "type": "item",
+    "name": "Runic Bomb",
+    "content": "Runic Bomb. Type: Consumable. Cost: 0. Active: Active: Deals 300 Physical damage and applies Knockback to enemies, plus 1000 True damage to Minions and Structures while reducing their Attack Speed by 35% for 10 seconds.. Description: Runic Bomb 0 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Runic_Bomb"
+  },
+  {
+    "id": "item_training_grounds",
+    "type": "item",
+    "name": "Training Grounds",
+    "content": "Training Grounds. Type: Consumable. Cost: 0. Active: Active: Plant a banner granting allies within its 11m area 5% Increased XP and 5% Movement Speed. Allies up to 160m away are granted up to 20% Movement Speed when looking toward the banner, scaling down as they get closer. Lasts 45 seconds or until destroyed.. Description: Training Grounds 0 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Training_Grounds"
+  },
+  {
+    "id": "item_obsidian_dagger",
+    "type": "item",
+    "name": "Obsidian Dagger",
+    "content": "Obsidian Dagger. Type: Consumable. Cost: 0. Active: Active: Take 500 damage immediately. In exchange, you receive 15% increased Damage and Attack Speed for 9 seconds. If the damage you take from the dagger reduces your health to 0, you will full heal over 3 seconds.. Description: Obsidian Dagger 0 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Obsidian_Dagger"
+  },
+  {
+    "id": "item_cyclops_ward",
+    "type": "item",
+    "name": "Cyclops Ward",
+    "content": "Cyclops Ward. Type: Consumable. Cost: 0. Active: Active: Place a ward that Reveals enemies within 7.2m. Lasts for 120s or until killed. Can carry up to 2 of this item.. Description: Cyclops Ward 0 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Cyclops_Ward"
+  },
+  {
+    "id": "item_crystalline_egg",
+    "type": "item",
+    "name": "Crystalline Egg",
+    "content": "Crystalline Egg. Type: Consumable. Cost: 0. Active: Active: Hatches two Naga familiars that will attack your target.. Description: Crystalline Egg 0 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Crystalline_Egg"
+  },
+  {
+    "id": "item_multi_potion",
+    "type": "item",
+    "name": "Multi Potion",
+    "content": "Multi Potion. Type: Consumable. Cost: 50. Active: Active: Item is Consumed, then Heals 9 health per tick and 8 mana per tick, 14 ticks over 14s. Can carry up to 3 of this item.. Description: Multi Potion 50 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Multi_Potion"
+  },
+  {
+    "id": "item_vision_ward",
+    "type": "item",
+    "name": "Vision Ward",
+    "content": "Vision Ward. Type: Consumable. Cost: 50. Active: Active: Place a ward that Reveals enemies within 7.2m. Lasts for 120s or until killed. Can carry up to 2 of this item.. Description: Vision Ward 50 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Vision_Ward"
+  },
+  {
+    "id": "item_mana_potion",
+    "type": "item",
+    "name": "Mana Potion",
+    "content": "Mana Potion. Type: Consumable. Cost: 50. Active: Active: Item is Consumed, then Restores 12 mana per tick, 14 ticks over 14s. Can carry up to 3 of this item.. Description: Mana Potion 50 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Mana_Potion"
+  },
+  {
+    "id": "item_health_potion",
+    "type": "item",
+    "name": "Health Potion",
+    "content": "Health Potion. Type: Consumable. Cost: 50. Active: Active: Item is Consumed, then Heals 15 health per tick, 14 ticks over 14s. Can carry up to 3 of this item.. Description: Health Potion 50 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Health_Potion"
+  },
+  {
+    "id": "item_baron's_brew",
+    "type": "item",
+    "name": "Baron's Brew",
+    "content": "Baron's Brew. Type: Consumable. Cost: 100. Active: Active: Consume a charge to heal 18 Health and 18 Mana per second for 14 seconds. After it is used it can be thrown at enemies to deal 40 + 13 Per Level Magic Damage and apply 30 Hysteria. It is replenished when you return to base.. Description: Baron's Brew 100 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Baron%27s_Brew"
+  },
+  {
+    "id": "item_sentry_ward",
+    "type": "item",
+    "name": "Sentry Ward",
+    "content": "Sentry Ward. Type: Consumable. Cost: 120. Active: Active: Place a ward that Reveals enemies and enemy wards within 7.2m. Lasts for 120s or until killed.. Description: Sentry Ward 120 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Sentry_Ward"
+  },
+  {
+    "id": "item_health_chalice",
+    "type": "item",
+    "name": "Health Chalice",
+    "content": "Health Chalice. Type: Consumable. Cost: 300. Active: Active: Consume a charge to heal 15 health per second for 14 seconds. Starts with 3 charges. Charges are replenished when you return to base.. Description: Health Chalice 300 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Health_Chalice"
+  },
+  {
+    "id": "item_elixir_of_intelligence",
+    "type": "item",
+    "name": "Elixir of Intelligence",
+    "content": "Elixir of Intelligence. Type: Consumable. Cost: 3000. Active: Active: Item is Consumed, then gain 80 Intelligence permanently. These can stack.. Description: Elixir of Intelligence 3000 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Elixir_of_Intelligence"
+  },
+  {
+    "id": "item_elixir_of_strength",
+    "type": "item",
+    "name": "Elixir of Strength",
+    "content": "Elixir of Strength. Type: Consumable. Cost: 3000. Active: Active: Item is Consumed, then gain 50 Strength permanently. These can stack.. Description: Elixir of Strength 3000 Active Effect",
+    "metadata": {
+      "item_type": "Consumable",
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Elixir_of_Strength"
+  },
+  {
+    "id": "item_war_flag",
+    "type": "item",
+    "name": "War Flag",
+    "content": "War Flag. Type: Tier 1 Starter. Cost: 550. Stats: 10 Physical Protection 10 Magical Protection 60 Max Health. Passive: Passive: Getting the assist for an enemy minion or jungle monster dying will provide 7 Bonus gold and restore 8 Health and 5 Mana. You and allied gods within 8.8m also receive a buff that gives 0.5% Movement Speed and 1.25% Attack Speed for 10s. Stacks up to 6 times. Requires level 15 to upgrade.. Description: War Flag 550 10 Physical Protection 10 Magical Protection 60 Max Health",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/War_Flag"
+  },
+  {
+    "id": "item_selflessness",
+    "type": "item",
+    "name": "Selflessness",
+    "content": "Selflessness. Type: Tier 1 Starter. Cost: 550. Stats: 10 Physical Protection 10 Magical Protection 60 Max Health. Passive: Passive: Getting the assist for an enemy minion or jungle monster dying will provide 7 Bonus gold and restore 8 Health and 5 Mana. When an ally god within 8.8m of you is hit by a hard crowd control effect, give them a shield equal to 25 + 5% of your Maximum Health. This effect can only occur once every 30s. Requires level 15 to upgrade.. Description: Selflessness 550 10 Physical Protection 10 Magical Protection 60 Max Health",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Selflessness"
+  },
+  {
+    "id": "item_leather_cowl",
+    "type": "item",
+    "name": "Leather Cowl",
+    "content": "Leather Cowl. Type: Tier 1 Starter. Cost: 650. Stats: 15 Strength 4% Lifesteal. Passive: Passive: While you are within 8.8m of an allied god you gain 15% Attack Speed. If you are alone you instead gain 5% Movement Speed. Requires level 20 to upgrade.. Description: Leather Cowl 650 15 Strength 4% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Leather_Cowl"
+  },
+  {
+    "id": "item_vampiric_shroud",
+    "type": "item",
+    "name": "Vampiric Shroud",
+    "content": "Vampiric Shroud. Type: Tier 1 Starter. Cost: 650. Stats: 20 Intelligence 75 Max Health. Passive: Damaging an enemy with an ability heals 3 Health and 4 Mana, once per target per ability. Heal an additional 3 Health and 4 Mana if this was a god. Requires level 20 to upgrade.. Description: Vampiric Shroud 650 20 Intelligence 75 Max Health",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Vampiric_Shroud"
+  },
+  {
+    "id": "item_sands_of_time",
+    "type": "item",
+    "name": "Sands Of Time",
+    "content": "Sands Of Time. Type: Tier 1 Starter. Cost: 650. Stats: 25 Intelligence 2 Mana Regen 10 Cooldown Rate. Passive: Passive: This item grants 0.6 Mana per second per 10% of your missing Mana. Your damaging abilities deal an extra 10 true damage to minions. Requires level 20 to upgrade.. Description: Sands Of Time 650 25 Intelligence 2 Mana Regen 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Sands_Of_Time"
+  },
+  {
+    "id": "item_bluestone_pendant",
+    "type": "item",
+    "name": "Bluestone Pendant",
+    "content": "Bluestone Pendant. Type: Tier 1 Starter. Cost: 650. Stats: 15 Strength 2 Health Regen 2 Mana Regen. Passive: Passive: Enemies hit by your damaging Abilities take an additional 32 Physical Damage over 2s. Subsequent hits on the same target do half the bonus damage for the next 3s. Requires level 20 to upgrade.. Description: Bluestone Pendant 650 15 Strength 2 Health Regen 2 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bluestone_Pendant"
+  },
+  {
+    "id": "item_gilded_arrow",
+    "type": "item",
+    "name": "Gilded Arrow",
+    "content": "Gilded Arrow. Type: Tier 1 Starter. Cost: 650. Stats: 15 Basic Attack Power 10% Attack Speed. Passive: Passive: Every 10s the highest health enemy minion or jungle monster within 12.8m of you is marked. If you secure the killing blow on that target you gain 3 bonus gold and 15% Attack Speed for 8s, and restore 30 Mana. Requires level 20 to upgrade.. Description: Gilded Arrow 650 15 Basic Attack Power 10% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Gilded_Arrow"
+  },
+  {
+    "id": "item_conduit_gem",
+    "type": "item",
+    "name": "Conduit Gem",
+    "content": "Conduit Gem. Type: Tier 1 Starter. Cost: 650. Stats: 30 Intelligence 100 Max Mana 1 Mana Regen. Passive: Passive: Every 0.5 seconds you gain a stack. Your next damaging ability deals 3 True Damage per stack (half for gods) and removes all stacks. Stacks up to 20 Times. Requires level 20 to upgrade.. Description: Conduit Gem 650 30 Intelligence 100 Max Mana 1 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Conduit_Gem"
+  },
+  {
+    "id": "item_death's_toll",
+    "type": "item",
+    "name": "Death's Toll",
+    "content": "Death's Toll. Type: Tier 1 Starter. Cost: 650. Stats: 15 Strength 100 Max Health. Passive: Passive: Hitting an enemy with a Basic Attack Heals you for 2 +0.3% of your Max Health and 1 +1% of your Max Mana. Requires level 20 to upgrade.. Description: Death's Toll 650 15 Strength 100 Max Health",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Death%27s_Toll"
+  },
+  {
+    "id": "item_bumba's_cudgel",
+    "type": "item",
+    "name": "Bumba's Cudgel",
+    "content": "Bumba's Cudgel. Type: Tier 1 Starter. Cost: 650. Stats: 50 Max Health 50 Max Mana. Passive: Passive: If you have more Intelligence than Strength from items, gain 20 INT, otherwise, gain 15 STR. Your Basic Attacks deal +50 True Damage and your Abilities deal +50% Damage versus Jungle Monsters, but you deal -25% Damage to Minions from all sources. After casting an ability your next Basic Attack deals an additional 10 True Damage. hitting this basic attack reduces your active cooldowns by 0.5s. Requires level 20 to upgrade.. Description: Bumba's Cudgel 650 50 Max Health 50 Max Mana",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bumba%27s_Cudgel"
+  },
+  {
+    "id": "item_bumba's_golden_dagger",
+    "type": "item",
+    "name": "Bumba's Golden Dagger",
+    "content": "Bumba's Golden Dagger. Type: Tier 1 Starter. Cost: 650. Stats: 50 Max Health 10% Attack Speed. Passive: Passive: If you have more Intelligence than Strength from items, gain 20 INT, otherwise, gain 15 STR. Your Basic Attacks deal +50 True Damage and your Abilities deal +50% Damage versus Jungle Monsters, but you deal -25% Damage to Minions from all sources. Basic attacks deal 15% bonus Physical Damage to Jungle Monsters within 1.92m of the target. Requires level 20 to upgrade.. Description: Bumba's Golden Dagger 650 50 Max Health 10% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bumba%27s_Golden_Dagger"
+  },
+  {
+    "id": "item_warrior's_axe",
+    "type": "item",
+    "name": "Warrior's Axe",
+    "content": "Warrior's Axe. Type: Tier 1 Starter. Cost: 650. Stats: 12 Strength 10 Physical Protection 10 Magical Protection. Passive: Passive: Damaging an enemy god deals 30 +2 per level True damage and restores 30 +1 per level Health. This effect can only hit one god per activation. 8s Cooldown. Requires level 20 to upgrade.. Description: Warrior's Axe 650 12 Strength 10 Physical Protection 10 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 1 Starter",
+      "tier": 1,
+      "category": "starter",
+      "has_strength": true,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Warrior%27s_Axe"
+  },
+  {
+    "id": "item_war_banner",
+    "type": "item",
+    "name": "War Banner",
+    "content": "War Banner. Type: Tier 2 Starter. Cost: 1250. Total Cost: 1800. Stats: 30 Physical Protection 30 Magical Protection 200 Max Health. Passive: Passive: You gain 1 bonus Gold per second. Getting the assist for an enemy minion or jungle monster will restore 1% Health and 1.25% mana to you and allied gods within 8.8m, and also applies a buff that gives 3.5% Movement Speed and 6.5% Attack Speed for 10. Stacks up to 6 times. Requires Level 15.. Description: War Banner 1250 ( 1800 ) 30 Physical Protection 30 Magical Protection 200 Max Health",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 1800,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/War_Banner"
+  },
+  {
+    "id": "item_heroism",
+    "type": "item",
+    "name": "Heroism",
+    "content": "Heroism. Type: Tier 2 Starter. Cost: 1250. Total Cost: 1800. Stats: 30 Physical Protection 30 Magical Protection 200 Max Health. Passive: Passive: You gain 1 bonus Gold per second. When an ally god within 8.8m of you is hit by a hard crowd control effect, give them a shield equal to 50 + 10% of your Maximum Health. This effect can only occur once every 15s. Requires Level 15.. Description: Heroism 1250 ( 1800 ) 30 Physical Protection 30 Magical Protection 200 Max Health",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 1800,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Heroism"
+  },
+  {
+    "id": "item_hunter's_cowl",
+    "type": "item",
+    "name": "Hunter's Cowl",
+    "content": "Hunter's Cowl. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 45 Strength 5% Lifesteal. Passive: Passive: While you are within 8.8m of an allied god you gain 30% Attack Speed and 5% Lifesteal Aura. If you are alone you instead gain 10% Movement Speed. Requires Level 20.. Description: Hunter's Cowl 1500 ( 2150 ) 45 Strength 5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Hunter%27s_Cowl"
+  },
+  {
+    "id": "item_pendulum_of_the_ages",
+    "type": "item",
+    "name": "Pendulum Of The Ages",
+    "content": "Pendulum Of The Ages. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 70 Intelligence 4 Mana Regen 20 Cooldown Rate. Passive: Passive: This item grants 4 Mana per second per 10% of your missing Mana. This item grants 7 Intelligence per 10% of your available Mana.. Description: Pendulum Of The Ages 1500 ( 2150 ) 70 Intelligence 4 Mana Regen 20 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Pendulum_Of_The_Ages"
+  },
+  {
+    "id": "item_sharpshooter's_arrow",
+    "type": "item",
+    "name": "Sharpshooter's Arrow",
+    "content": "Sharpshooter's Arrow. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 40 Basic Attack Power 15% Attack Speed 15% Critical Chance. Passive: Passive: Gold Gains from Kills and Assists are increased by 5%. Basic Attack Damage is increased by 10% when hitting an enemy god over 7.5m away.. Description: Sharpshooter's Arrow 1500 ( 2150 ) 40 Basic Attack Power 15% Attack Speed 15% Critical Chance",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Sharpshooter%27s_Arrow"
+  },
+  {
+    "id": "item_sundering_axe",
+    "type": "item",
+    "name": "Sundering Axe",
+    "content": "Sundering Axe. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 30 Strength 30 Physical Protection 30 Magical Protection. Passive: Passive: Damaging an enemy god deals 150 +10% Of your Protections from Items True damage and restores 125 Health. This effect can only hit one god per activation. 8s Cooldown. Requires Level 20.. Description: Sundering Axe 1500 ( 2150 ) 30 Strength 30 Physical Protection 30 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_strength": true,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Sundering_Axe"
+  },
+  {
+    "id": "item_death's_embrace",
+    "type": "item",
+    "name": "Death's Embrace",
+    "content": "Death's Embrace. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 35 Strength 150 Max Health 10% Lifesteal. Passive: Passive: Hitting an enemy with a Basic Attack restores 1.4% of your Health, 2% of your Mana and reduces your active non-Ultimate Cooldowns by 0.33s. Requires Level 20.. Description: Death's Embrace 1500 ( 2150 ) 35 Strength 150 Max Health 10% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Death%27s_Embrace"
+  },
+  {
+    "id": "item_bumba's_hammer",
+    "type": "item",
+    "name": "Bumba's Hammer",
+    "content": "Bumba's Hammer. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 200 Max Health 10 Cooldown Rate. Passive: Passive: If you have more Intelligence than Strength from items, gain 60 INT, otherwise, gain 35 STR. Your Basic Attacks deal +75 True Damage and your Abilities deal +50% damage against Jungle Camps, Structures, and Jungle Bosses. After casting an ability your next Basic Attack deals an additional 40 True Damage. hitting this basic attack reduces your active cooldowns by 0.75s and you are healed for 60 health. Requires Level 20.. Description: Bumba's Hammer 1500 ( 2150 ) 200 Max Health 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bumba%27s_Hammer"
+  },
+  {
+    "id": "item_bumba's_spear",
+    "type": "item",
+    "name": "Bumba's Spear",
+    "content": "Bumba's Spear. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 200 Max Health 20% Attack Speed. Passive: Passive: If you have more Intelligence than Strength from items, gain 60 INT, otherwise, gain 35 STR. Your Basic Attacks deal +75 True Damage and your Abilities deal +50% damage against Jungle Camps, Structures, and Jungle Bosses. Basic attacks deal 15% bonus Physical Damage to all enemies within 1.92m of the target. Requires Level 20.. Description: Bumba's Spear 1500 ( 2150 ) 200 Max Health 20% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bumba%27s_Spear"
+  },
+  {
+    "id": "item_blood-soaked_shroud",
+    "type": "item",
+    "name": "Blood-soaked Shroud",
+    "content": "Blood-soaked Shroud. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 60 Intelligence 275 Max Health. Passive: Damaging an enemy with an ability heals 1% Health and Mana, once per target per ability. Heal an additional 2% Health and Mana if this was a god. For every Kill you have this game, increase the Heal by 0.1%.. Description: Blood-soaked Shroud 1500 ( 2150 ) 60 Intelligence 275 Max Health",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Blood-soaked_Shroud"
+  },
+  {
+    "id": "item_bluestone_brooch",
+    "type": "item",
+    "name": "Bluestone Brooch",
+    "content": "Bluestone Brooch. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 30 Strength 200 Max Health 7 Health Regen 5 Mana Regen. Passive: Passive: Enemies hit by your damaging Abilities take an additional 100 Physical Damage over 2s. Gods take additional damage equal to 7.5% of their current health. Subsequent hits on the same target do half the bonus damage for the next 3s. Requires Level 20.. Description: Bluestone Brooch 1500 ( 2150 ) 30 Strength 200 Max Health 7 Health Regen 5 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bluestone_Brooch"
+  },
+  {
+    "id": "item_archmage's_gem",
+    "type": "item",
+    "name": "Archmage's Gem",
+    "content": "Archmage's Gem. Type: Tier 2 Starter. Cost: 1500. Total Cost: 2150. Stats: 90 Intelligence 150 Max Mana 4 Mana Regen. Passive: Passive: Your next ability that damages a god deals bonus Magical Damage equal to 40% your Intelligence. Cooldown: 20s. Requires Level 20.. Description: Archmage's Gem 1500 ( 2150 ) 90 Intelligence 150 Max Mana 4 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 2 Starter",
+      "tier": 2,
+      "category": "starter",
+      "total_cost": 2150,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Archmage%27s_Gem"
+  },
+  {
+    "id": "item_shield",
+    "type": "item",
+    "name": "Shield",
+    "content": "Shield. Type: Tier 1. Cost: 300. Stats: 6 Physical Protection. Description: 6 Physical Protection Shield is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Shield"
+  },
+  {
+    "id": "item_medallion",
+    "type": "item",
+    "name": "Medallion",
+    "content": "Medallion. Type: Tier 1. Cost: 300. Stats: 75 Max Health. Description: Medallion 300 75 Max Health",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Medallion"
+  },
+  {
+    "id": "item_reliquary",
+    "type": "item",
+    "name": "Reliquary",
+    "content": "Reliquary. Type: Tier 1. Cost: 300. Stats: 2 Mana Regen. Description: Reliquary 300 2 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Reliquary"
+  },
+  {
+    "id": "item_rune",
+    "type": "item",
+    "name": "Rune",
+    "content": "Rune. Type: Tier 1. Cost: 300. Stats: 7 Magical Protection. Description: 7 Magical Protection Rune is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Rune"
+  },
+  {
+    "id": "item_sash",
+    "type": "item",
+    "name": "Sash",
+    "content": "Sash. Type: Tier 1. Cost: 300. Stats: 2 Health Regen. Description: 2 Health Regen Sash is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Sash"
+  },
+  {
+    "id": "item_bow",
+    "type": "item",
+    "name": "Bow",
+    "content": "Bow. Type: Tier 1. Cost: 300. Stats: 5% Attack Speed. Description: 5% Attack Speed Bow is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bow"
+  },
+  {
+    "id": "item_circlet",
+    "type": "item",
+    "name": "Circlet",
+    "content": "Circlet. Type: Tier 1. Cost: 300. Stats: 150 Max Mana. Description: Circlet 300 150 Max Mana",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Circlet"
+  },
+  {
+    "id": "item_ruinous_poison",
+    "type": "item",
+    "name": "Ruinous Poison",
+    "content": "Ruinous Poison. Type: Tier 1. Cost: 300. Passive: Passive: Enemy gods hit by your basic attacks or abilities have 20% reduced healing for 4s. Item Anti-heal effects stack to a cap of 75%.. Description: Ruinous Poison 300 Passive Effect",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Ruinous_Poison"
+  },
+  {
+    "id": "item_ring",
+    "type": "item",
+    "name": "Ring",
+    "content": "Ring. Type: Tier 1. Cost: 400. Stats: 5 Cooldown Rate. Description: 5 Cooldown Rate Ring is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Ring"
+  },
+  {
+    "id": "item_axe",
+    "type": "item",
+    "name": "Axe",
+    "content": "Axe. Type: Tier 1. Cost: 450. Stats: 10 Strength. Description: 10 Strength Axe is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Axe"
+  },
+  {
+    "id": "item_gem",
+    "type": "item",
+    "name": "Gem",
+    "content": "Gem. Type: Tier 1. Cost: 450. Stats: 15 Intelligence. Description: 15 Intelligence Gem is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Gem"
+  },
+  {
+    "id": "item_scythe",
+    "type": "item",
+    "name": "Scythe",
+    "content": "Scythe. Type: Tier 1. Cost: 550. Stats: 4% Lifesteal. Description: 4% Lifesteal Scythe is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_lifesteal": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Scythe"
+  },
+  {
+    "id": "item_sabre",
+    "type": "item",
+    "name": "Sabre",
+    "content": "Sabre. Type: Tier 1. Cost: 550. Stats: 7% Critical Chance. Description: 7% Critical Chance Sabre is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "Tier 1",
+      "tier": 1,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Sabre"
+  },
+  {
+    "id": "item_mana_tome",
+    "type": "item",
+    "name": "Mana Tome",
+    "content": "Mana Tome. Type: Tier 2. Cost: 200. Total Cost: 500. Stats: 250 Max Mana 2 Mana Regen. Description: Mana Tome 200 ( 500 ) 250 Max Mana 2 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 500,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Mana_Tome"
+  },
+  {
+    "id": "item_ruinous_venom",
+    "type": "item",
+    "name": "Ruinous Venom",
+    "content": "Ruinous Venom. Type: Tier 2. Cost: 300. Total Cost: 600. Passive: Passive: Enemy gods hit by your basic attacks or abilities have 30% reduced healing for 4s. Item Anti-heal effects stack to a cap of 75%.. Description: Ruinous Venom 300 ( 600 ) Passive Effect",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 600,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Ruinous_Venom"
+  },
+  {
+    "id": "item_adroit_ring",
+    "type": "item",
+    "name": "Adroit Ring",
+    "content": "Adroit Ring. Type: Tier 2. Cost: 250. Total Cost: 650. Stats: 10 Cooldown Rate. Description: Adroit Ring 250 ( 650 ) 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 650,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Adroit_Ring"
+  },
+  {
+    "id": "item_olmec_blue",
+    "type": "item",
+    "name": "Olmec Blue",
+    "content": "Olmec Blue. Type: Tier 2. Cost: 100. Total Cost: 700. Stats: 185 Max Health 2 Health Regen. Description: Olmec Blue 100 ( 700 ) 185 Max Health 2 Health Regen",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 700,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Olmec_Blue"
+  },
+  {
+    "id": "item_hunter's_bow",
+    "type": "item",
+    "name": "Hunter's Bow",
+    "content": "Hunter's Bow. Type: Tier 2. Cost: 450. Total Cost: 750. Stats: 15% Attack Speed. Description: Hunter's Bow 450 ( 750 ) 15% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 750,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Hunter%27s_Bow"
+  },
+  {
+    "id": "item_circle_of_protection",
+    "type": "item",
+    "name": "Circle of Protection",
+    "content": "Circle of Protection. Type: Tier 2. Cost: 450. Total Cost: 750. Stats: 22 Magical Protection. Description: Circle of Protection 450 ( 750 ) 22 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 750,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Circle_of_Protection"
+  },
+  {
+    "id": "item_legionnaire_armor",
+    "type": "item",
+    "name": "Legionnaire Armor",
+    "content": "Legionnaire Armor. Type: Tier 2. Cost: 450. Total Cost: 750. Stats: 18 Physical Protection. Description: Legionnaire Armor 450 ( 750 ) 18 Physical Protection",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 750,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Legionnaire_Armor"
+  },
+  {
+    "id": "item_sage's_ring",
+    "type": "item",
+    "name": "Sage's Ring",
+    "content": "Sage's Ring. Type: Tier 2. Cost: 100. Total Cost: 800. Stats: 12 Magical Protection 10 Cooldown Rate. Description: Sage's Ring 100 ( 800 ) 12 Magical Protection 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 800,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Sage%27s_Ring"
+  },
+  {
+    "id": "item_captain's_ring",
+    "type": "item",
+    "name": "Captain's Ring",
+    "content": "Captain's Ring. Type: Tier 2. Cost: 100. Total Cost: 800. Stats: 10 Physical Protection 10 Cooldown Rate. Description: Captain's Ring 100 ( 800 ) 10 Physical Protection 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 800,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Captain%27s_Ring"
+  },
+  {
+    "id": "item_veve_charm",
+    "type": "item",
+    "name": "Veve Charm",
+    "content": "Veve Charm. Type: Tier 2. Cost: 500. Total Cost: 800. Stats: 240 Max Health. Description: Veve Charm 500 ( 800 ) 240 Max Health",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 800,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Veve_Charm"
+  },
+  {
+    "id": "item_odigba",
+    "type": "item",
+    "name": "Odigba",
+    "content": "Odigba. Type: Tier 2. Cost: 200. Total Cost: 800. Stats: 125 Max Health 150 Max Mana. Passive: Passive: When you get a Kill or Assist on an enemy god you restore 5% of your max HP over 6s.. Description: Odigba 200 ( 800 ) 125 Max Health 150 Max Mana",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 800,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Odigba"
+  },
+  {
+    "id": "item_engraved_guard",
+    "type": "item",
+    "name": "Engraved Guard",
+    "content": "Engraved Guard. Type: Tier 2. Cost: 200. Total Cost: 800. Stats: 10 Physical Protection 10 Magical Protection. Description: Engraved Guard 200 ( 800 ) 10 Physical Protection 10 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 800,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Engraved_Guard"
+  },
+  {
+    "id": "item_cursed_sickle",
+    "type": "item",
+    "name": "Cursed Sickle",
+    "content": "Cursed Sickle. Type: Tier 2. Cost: 300. Total Cost: 850. Stats: 7.5% Lifesteal. Description: Cursed Sickle 300 ( 850 ) 7.5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 850,
+      "has_lifesteal": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Cursed_Sickle"
+  },
+  {
+    "id": "item_medal_of_defense",
+    "type": "item",
+    "name": "Medal of Defense",
+    "content": "Medal of Defense. Type: Tier 2. Cost: 250. Total Cost: 850. Stats: 10 Physical Protection 125 Max Health. Description: Medal of Defense 250 ( 850 ) 10 Physical Protection 125 Max Health",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 850,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Medal_of_Defense"
+  },
+  {
+    "id": "item_medal_of_disruption",
+    "type": "item",
+    "name": "Medal of Disruption",
+    "content": "Medal of Disruption. Type: Tier 2. Cost: 250. Total Cost: 850. Stats: 12 Magical Protection 150 Max Health. Description: Medal of Disruption 250 ( 850 ) 12 Magical Protection 150 Max Health",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 850,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Medal_of_Disruption"
+  },
+  {
+    "id": "item_void_shard",
+    "type": "item",
+    "name": "Void Shard",
+    "content": "Void Shard. Type: Tier 2. Cost: 900. Stats: 10% Penetration. Description: Void Shard 900 10% Penetration",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Void_Shard"
+  },
+  {
+    "id": "item_killing_stone",
+    "type": "item",
+    "name": "Killing Stone",
+    "content": "Killing Stone. Type: Tier 2. Cost: 450. Total Cost: 900. Stats: 35 Intelligence. Description: Killing Stone 450 ( 900 ) 35 Intelligence",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 900,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Killing_Stone"
+  },
+  {
+    "id": "item_enchanted_bracelet",
+    "type": "item",
+    "name": "Enchanted Bracelet",
+    "content": "Enchanted Bracelet. Type: Tier 2. Cost: 150. Total Cost: 900. Stats: 20 Intelligence 8% Attack Speed. Description: Enchanted Bracelet 150 ( 900 ) 20 Intelligence 8% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 900,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Enchanted_Bracelet"
+  },
+  {
+    "id": "item_battle_axe",
+    "type": "item",
+    "name": "Battle Axe",
+    "content": "Battle Axe. Type: Tier 2. Cost: 150. Total Cost: 900. Stats: 15 Strength 100 Max Health. Description: Battle Axe 150 ( 900 ) 15 Strength 100 Max Health",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 900,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Battle_Axe"
+  },
+  {
+    "id": "item_soul_reliquary",
+    "type": "item",
+    "name": "Soul Reliquary",
+    "content": "Soul Reliquary. Type: Tier 2. Cost: 150. Total Cost: 900. Stats: 20 Intelligence 4 Mana Regen. Description: Soul Reliquary 150 ( 900 ) 20 Intelligence 4 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 900,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Soul_Reliquary"
+  },
+  {
+    "id": "item_oracle_staff",
+    "type": "item",
+    "name": "Oracle Staff",
+    "content": "Oracle Staff. Type: Tier 2. Cost: 200. Total Cost: 950. Stats: 20 Intelligence 150 Max Mana 1 Mana Regen. Passive: Passive: When you get a Kill or Assist on an enemy god you instantly restore 25% of your Mana.. Description: Oracle Staff 200 ( 950 ) 20 Intelligence 150 Max Mana 1 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 950,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Oracle_Staff"
+  },
+  {
+    "id": "item_flaming_pearl",
+    "type": "item",
+    "name": "Flaming Pearl",
+    "content": "Flaming Pearl. Type: Tier 2. Cost: 200. Total Cost: 950. Stats: 25 Intelligence 100 Max Health. Description: Flaming Pearl 200 ( 950 ) 25 Intelligence 100 Max Health",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 950,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Flaming_Pearl"
+  },
+  {
+    "id": "item_manchu_bow",
+    "type": "item",
+    "name": "Manchu Bow",
+    "content": "Manchu Bow. Type: Tier 2. Cost: 200. Total Cost: 950. Stats: 10 Strength 8% Attack Speed. Passive: Passive: All targets hit by your basic attacks take 10 bonus Physical Damage.. Description: Manchu Bow 200 ( 950 ) 10 Strength 8% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 950,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Manchu_Bow"
+  },
+  {
+    "id": "item_ring_of_dispel",
+    "type": "item",
+    "name": "Ring of Dispel",
+    "content": "Ring of Dispel. Type: Tier 2. Cost: 100. Total Cost: 950. Stats: 20 Intelligence 10 Cooldown Rate. Passive: Passive: Enemy gods hit by your Hard CC effects lose 10 Strength and 16 Intelligence for 4s.. Description: Ring of Dispel 100 ( 950 ) 20 Intelligence 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 950,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Ring_of_Dispel"
+  },
+  {
+    "id": "item_survivor's_sash",
+    "type": "item",
+    "name": "Survivor's Sash",
+    "content": "Survivor's Sash. Type: Tier 2. Cost: 1000. Passive: Passive: You gain 25 Strength or 35 Intelligence depending on which stat from items is higher.. Description: Survivor's Sash 1000 Passive Effect",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Survivor%27s_Sash"
+  },
+  {
+    "id": "item_hooked_sword",
+    "type": "item",
+    "name": "Hooked Sword",
+    "content": "Hooked Sword. Type: Tier 2. Cost: 450. Total Cost: 1000. Stats: 15% Critical Chance. Description: Hooked Sword 450 ( 1000 ) 15% Critical Chance",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 1000,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Hooked_Sword"
+  },
+  {
+    "id": "item_caestus",
+    "type": "item",
+    "name": "Caestus",
+    "content": "Caestus. Type: Tier 2. Cost: 150. Total Cost: 1000. Stats: 10 Strength 10 Cooldown Rate. Passive: Passive: When you are hit by a Hard CC effect you gain 15 Physical Protection and 15 Magical Protection for 4s.. Description: Caestus 150 ( 1000 ) 10 Strength 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 1000,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Caestus"
+  },
+  {
+    "id": "item_skeggox",
+    "type": "item",
+    "name": "Skeggox",
+    "content": "Skeggox. Type: Tier 2. Cost: 550. Total Cost: 1000. Stats: 25 Strength. Description: Skeggox 550 ( 1000 ) 25 Strength",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 1000,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Skeggox"
+  },
+  {
+    "id": "item_infused_axe",
+    "type": "item",
+    "name": "Infused Axe",
+    "content": "Infused Axe. Type: Tier 2. Cost: 300. Total Cost: 1050. Stats: 15 Strength 150 Max Mana 1 Mana Regen. Passive: Passive: When you get a Kill or Assist on an enemy god you instantly restore 25% of your Mana.. Description: Infused Axe 300 ( 1050 ) 15 Strength 150 Max Mana 1 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 1050,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Infused_Axe"
+  },
+  {
+    "id": "item_zither",
+    "type": "item",
+    "name": "Zither",
+    "content": "Zither. Type: Tier 2. Cost: 200. Total Cost: 1100. Stats: 12 Strength 20 Intelligence. Description: Zither 200 ( 1100 ) 12 Strength 20 Intelligence",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 1100,
+      "has_intelligence": true,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Zither"
+  },
+  {
+    "id": "item_stalwart_sigil",
+    "type": "item",
+    "name": "Stalwart Sigil",
+    "content": "Stalwart Sigil. Type: Tier 2. Cost: 1150. Stats: 15 Physical Protection 15 Magical Protection. Description: Stalwart Sigil 1150 15 Physical Protection 15 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Stalwart_Sigil"
+  },
+  {
+    "id": "item_adamantine_sickle",
+    "type": "item",
+    "name": "Adamantine Sickle",
+    "content": "Adamantine Sickle. Type: Tier 2. Cost: 200. Total Cost: 1200. Stats: 10 Strength 5% Lifesteal. Passive: Passive: While you are below 50% HP you gain 15 Strength.. Description: Adamantine Sickle 200 ( 1200 ) 10 Strength 5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 1200,
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Adamantine_Sickle"
+  },
+  {
+    "id": "item_evil_eye",
+    "type": "item",
+    "name": "Evil Eye",
+    "content": "Evil Eye. Type: Tier 2. Cost: 1200. Stats: 45 Intelligence. Description: Evil Eye 1200 45 Intelligence",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Evil_Eye"
+  },
+  {
+    "id": "item_kopesh",
+    "type": "item",
+    "name": "Kopesh",
+    "content": "Kopesh. Type: Tier 2. Cost: 250. Total Cost: 1250. Stats: 10 Strength 10% Critical Chance. Passive: Passive: When you Critically Strike an enemy god you gain 5% Movement Speed for 4s.. Description: Kopesh 250 ( 1250 ) 10 Strength 10% Critical Chance",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "total_cost": 1250,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Kopesh"
+  },
+  {
+    "id": "item_lucerne_hammer",
+    "type": "item",
+    "name": "Lucerne Hammer",
+    "content": "Lucerne Hammer. Type: Tier 2. Cost: 1250. Stats: 35 Strength. Description: Lucerne Hammer 1250 35 Strength",
+    "metadata": {
+      "item_type": "Tier 2",
+      "tier": 2,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Lucerne_Hammer"
+  },
+  {
+    "id": "item_blood-bound_book",
+    "type": "item",
+    "name": "Blood-Bound Book",
+    "content": "Blood-Bound Book. Type: Tier 3 Offensive. Cost: 750. Total Cost: 2250. Stats: 60 Intelligence 7.5% Lifesteal. Active: Active: You gain a 7.5% of your max HP + 75% Intelligence from items HP Shield for 6s. The shield grants 10% lifesteal while active. Killing a god reduces the current cooldown by 25% Cooldown: 80.. Description: Blood-Bound Book 750 ( 2250 ) 60 Intelligence 7.5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2250,
+      "has_intelligence": true,
+      "has_lifesteal": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Blood-Bound_Book"
+  },
+  {
+    "id": "item_book_of_thoth",
+    "type": "item",
+    "name": "Book of Thoth",
+    "content": "Book of Thoth. Type: Tier 3 Offensive. Cost: 850. Total Cost: 2300. Stats: 30 Intelligence 200 Max Mana 4 Mana Regen. Passive: Passive: You permanently gain 10 Mana per Stack, and receive 1 Stack per 900 Damage Dealt to minions and Jungle Monsters, with damage to Gods counting double. You gain Intelligence equal to 4% of your Mana from items. At 50 stacks this item Evolves, gaining 20 Intelligence, 100 Mana and increasing the Intelligence gained from Mana to 6%.. Description: Book of Thoth 850 ( 2300 ) 30 Intelligence 200 Max Mana 4 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2300,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Book_of_Thoth"
+  },
+  {
+    "id": "item_eros'_bow",
+    "type": "item",
+    "name": "Eros' Bow",
+    "content": "Eros' Bow. Type: Tier 3 Offensive. Cost: 750. Total Cost: 2300. Stats: 300 Max Health 30% Attack Speed. Active: Active: Mark an ally god. Each Basic Attack that hits an enemy heals the marked god for 1.5% of your Maximum Health, once per Basic Attack. Only one ally can be marked at a time and the mark is broken if the ally is over 20m away. Cooldown: 1s.. Description: Eros' Bow 750 ( 2300 ) 300 Max Health 30% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2300,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Eros%27_Bow"
+  },
+  {
+    "id": "item_bancroft's_talon",
+    "type": "item",
+    "name": "Bancroft's Talon",
+    "content": "Bancroft's Talon. Type: Tier 3 Offensive. Cost: 500. Total Cost: 2300. Stats: 40 Intelligence 150 Max Mana 2 Mana Regen 7.5% Lifesteal. Passive: Passive: You gain additional Intelligence and Lifesteal scaled from missing Health. This caps at 70 Intelligence and 10% Lifesteal at 40% Health.. Description: Bancroft's Talon 500 ( 2300 ) 40 Intelligence 150 Max Mana 2 Mana Regen 7.5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2300,
+      "has_intelligence": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bancroft%27s_Talon"
+  },
+  {
+    "id": "item_gem_of_focus",
+    "type": "item",
+    "name": "Gem of Focus",
+    "content": "Gem of Focus. Type: Tier 3 Offensive. Cost: 800. Total Cost: 2350. Stats: 50 Intelligence 10 Cooldown Rate. Passive: Passive: When you use an ability, gain a stack of Momentum granting 4% Movement Speed for 6s. Stacks up to 3 times.. Description: Gem of Focus 800 ( 2350 ) 50 Intelligence 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2350,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Gem_of_Focus"
+  },
+  {
+    "id": "item_devourer's_gauntlet",
+    "type": "item",
+    "name": "Devourer's Gauntlet",
+    "content": "Devourer's Gauntlet. Type: Tier 3 Offensive. Cost: 200. Total Cost: 2400. Stats: 35 Strength 5% Lifesteal. Passive: Passive: You permanently gain 0.5 Strength, and 0.075% Lifesteal per Stack, and receive 1 Stack upon killing a minion or Jungle Monster. Jungle Bosses count as 40 minion kills. At 75 stacks this item Evolves, gaining 5 Strength and 5% Lifesteal. Evolved Passiive: Ravenous - This item continues to stack, but requires 8 minion kills for an additional stack. Jungle bosses kills or assists count as 40 minions.. Description: Devourer's Gauntlet 200 ( 2400 ) 35 Strength 5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2400,
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Devourer%27s_Gauntlet"
+  },
+  {
+    "id": "item_chronos'_pendant",
+    "type": "item",
+    "name": "Chronos' Pendant",
+    "content": "Chronos' Pendant. Type: Tier 3 Offensive. Cost: 800. Total Cost: 2400. Stats: 55 Intelligence 25 Cooldown Rate. Passive: Passive: Your ability cooldowns are reduced by 1s every 10s.. Description: Chronos' Pendant 800 ( 2400 ) 55 Intelligence 25 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2400,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Chronos%27_Pendant"
+  },
+  {
+    "id": "item_dagger_of_frenzy",
+    "type": "item",
+    "name": "Dagger of Frenzy",
+    "content": "Dagger of Frenzy. Type: Tier 3 Offensive. Cost: 450. Total Cost: 2400. Stats: 35 Strength 10% Attack Speed. Active: Active: You gain 10+3 per level Basic Attack Damage and 50% Attack Speed for the next 6 basic attacks. Killing a god refreshes the current cooldown. Cooldown: 15s.. Description: Dagger of Frenzy 450 ( 2400 ) 35 Strength 10% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2400,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Dagger_of_Frenzy"
+  },
+  {
+    "id": "item_polynomicon",
+    "type": "item",
+    "name": "Polynomicon",
+    "content": "Polynomicon. Type: Tier 3 Offensive. Cost: 550. Total Cost: 2400. Stats: 75 Intelligence 200 Max Mana 3 Mana Regen. Passive: Passive: When you use an ability you gain 65% of your Intelligence as bonus Magical Damage on your next basic attack.. Description: Polynomicon 550 ( 2400 ) 75 Intelligence 200 Max Mana 3 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2400,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Polynomicon"
+  },
+  {
+    "id": "item_sun_beam_bow",
+    "type": "item",
+    "name": "Sun Beam Bow",
+    "content": "Sun Beam Bow. Type: Tier 3 Offensive. Cost: 450. Total Cost: 2400. Stats: 10% Attack Speed. Passive: Passive: You gain 40 Strength or 50 Intelligence depending on which stat from items is higher.. Active: Active: Toggle to fire 2 ranged projectiles with each of your basic attacks. These travel 8.8m and deal 10 + 30% of your basic attack damage as magical damage. Structures and Bosses take 25% damage. Item drains 5% max mana per second while active.. Description: Sun Beam Bow 450 ( 2400 ) 10% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2400,
+      "has_passive": true,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Sun_Beam_Bow"
+  },
+  {
+    "id": "item_jotunn's_revenge",
+    "type": "item",
+    "name": "Jotunn's Revenge",
+    "content": "Jotunn's Revenge. Type: Tier 3 Offensive. Cost: 400. Total Cost: 2400. Stats: 40 Strength 25 Cooldown Rate. Passive: Passive: When you get a Kill or Assist on an enemy god your Non-ultimate Cooldowns are reduced by 1s and your Ultimate Cooldown is reduced by 5s.. Description: Jotunn's Revenge 400 ( 2400 ) 40 Strength 25 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2400,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Jotunn%27s_Revenge"
+  },
+  {
+    "id": "item_transcendence",
+    "type": "item",
+    "name": "Transcendence",
+    "content": "Transcendence. Type: Tier 3 Offensive. Cost: 850. Total Cost: 2400. Stats: 30 Strength 400 Max Mana 4 Mana Regen. Passive: Passive: You permanently gain 7 Mana per Stack, and receive 1 Stack per 800 Damage Dealt to minions and Jungle Monsters, with damage to Gods counting double. You gain Strength equal to 3% of your Mana from items. At 50 stacks this item Evolves, gaining 15 Strength and 100 Mana.. Description: Transcendence 850 ( 2400 ) 30 Strength 400 Max Mana 4 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2400,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Transcendence"
+  },
+  {
+    "id": "item_odysseus'_bow",
+    "type": "item",
+    "name": "Odysseus' Bow",
+    "content": "Odysseus' Bow. Type: Tier 3 Offensive. Cost: 950. Total Cost: 2450. Stats: 45% Attack Speed. Passive: Passive\u00a0: Every 4th Successful Basic Attack arcs lightning to 4 targets, dealing 15 + 60% Standard Basic Attack damage.. Description: Odysseus' Bow 950 ( 2450 ) 45% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2450,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Odysseus%27_Bow"
+  },
+  {
+    "id": "item_hydra's_lament",
+    "type": "item",
+    "name": "Hydra's Lament",
+    "content": "Hydra's Lament. Type: Tier 3 Offensive. Cost: 750. Total Cost: 2450. Stats: 45 Strength 200 Max Mana 4 Mana Regen 10 Cooldown Rate. Passive: Passive: When you use an ability you gain 30% increased Basic Attack Damage on your next basic attack for 8s.. Description: Hydra's Lament 750 ( 2450 ) 45 Strength 200 Max Mana 4 Mana Regen 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2450,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Hydra%27s_Lament"
+  },
+  {
+    "id": "item_rage",
+    "type": "item",
+    "name": "Rage",
+    "content": "Rage. Type: Tier 3 Offensive. Cost: 200. Total Cost: 2450. Stats: 30 Strength 20% Critical Chance. Passive: Passive: You permanently gain 4% Critical Strike Chance when Killing or getting an Assist on an enemy god. At 5 stacks this item Evolves, gaining 10% Critical Strike Chance.. Description: Rage 200 ( 2450 ) 30 Strength 20% Critical Chance",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2450,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Rage"
+  },
+  {
+    "id": "item_serrated_edge",
+    "type": "item",
+    "name": "Serrated Edge",
+    "content": "Serrated Edge. Type: Tier 3 Offensive. Cost: 400. Total Cost: 2500. Stats: 30 Strength 15% Lifesteal. Passive: Passive: For every non-ultimate ability on cooldown you gain a stack of Cruelty. Each stack provides 15 Strength and 3% Lifesteal. Stacks up to 3 times.. Description: Serrated Edge 400 ( 2500 ) 30 Strength 15% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2500,
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Serrated_Edge"
+  },
+  {
+    "id": "item_vital_amplifier",
+    "type": "item",
+    "name": "Vital Amplifier",
+    "content": "Vital Amplifier. Type: Tier 3 Offensive. Cost: 800. Total Cost: 2500. Stats: 200 Max Health 3 Health Regen 20% Attack Speed. Passive: Passive 1: Passive: Gain 30 Strength or 45 Intelligence, whichever you have more of from Items. Passive 2: After healing yourself or an allied god with an ability you gain 10% Attack Speed and 5% Basic Attack Damage for 6s, stacking 3 times.. Description: Vital Amplifier 800 ( 2500 ) 200 Max Health 3 Health Regen 20% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2500,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Vital_Amplifier"
+  },
+  {
+    "id": "item_lernaean_bow",
+    "type": "item",
+    "name": "Lernaean Bow",
+    "content": "Lernaean Bow. Type: Tier 3 Offensive. Cost: 750. Total Cost: 2500. Stats: 40 Strength 30% Attack Speed. Active: Active: Fire a barrage of 3 poisonous arrows that pierce all enemies 10.5m in front of you, dealing 50% of your Basic Attack Damage as Physical Damage. If an enemy hit by this effect has a Shield, it is reduced by 50%. This arrow can Critically Strike. Cooldown: 20s.. Description: Lernaean Bow 750 ( 2500 ) 40 Strength 30% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2500,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Lernaean_Bow"
+  },
+  {
+    "id": "item_divine_ruin",
+    "type": "item",
+    "name": "Divine Ruin",
+    "content": "Divine Ruin. Type: Tier 3 Offensive. Cost: 400. Total Cost: 2500. Stats: 95 Intelligence. Passive: Passive: Enemies hit by your Basic Attacks or Abilities trigger a chain lightning, damaging the target and up to 4 nearby enemies for 40 damage + 10% of your Magical Power. This can only occur once every 20 seconds.. Description: Divine Ruin 400 ( 2500 ) 95 Intelligence",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2500,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Divine_Ruin"
+  },
+  {
+    "id": "item_soul_gem",
+    "type": "item",
+    "name": "Soul Gem",
+    "content": "Soul Gem. Type: Tier 3 Offensive. Cost: 600. Total Cost: 2500. Stats: 40 Intelligence 7.5% Lifesteal 10 Cooldown Rate. Passive: Passive: On successful hit of an Ability you gain 1 stack. At 3 Stacks your next Ability that damages an enemy God will deal bonus damage equal to 40% of your Intelligence to each God hit, and will heal yourself and allies within 3.2m for 5 +10 Per Level and will consume the 3 stacks.. Description: Soul Gem 600 ( 2500 ) 40 Intelligence 7.5% Lifesteal 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2500,
+      "has_intelligence": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Soul_Gem"
+  },
+  {
+    "id": "item_barbed_carver",
+    "type": "item",
+    "name": "Barbed Carver",
+    "content": "Barbed Carver. Type: Tier 3 Offensive. Cost: 650. Total Cost: 2500. Stats: 40 Strength 7.5 Lifesteal. Passive: Passive: Enemies damaged by your Abilities gain a stack of jagged wounds for 5s, up to 3 stacks (once per ability per target). Your Basic Attacks and Abilities deal a bonus 8% (+1% per 10% Lifesteal) Physical Damage for each stack of jagged wounds.. Description: Barbed Carver 650 ( 2500 ) 40 Strength 7.5 Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2500,
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Barbed_Carver"
+  },
+  {
+    "id": "item_nimble_ring",
+    "type": "item",
+    "name": "Nimble Ring",
+    "content": "Nimble Ring. Type: Tier 3 Offensive. Cost: 750. Total Cost: 2500. Stats: 35 Intelligence 20% Attack Speed 7.5% Lifesteal. Passive: Passive: For every 10 Intelligence, you gain 1 Basic Attack Damage and 1% Attack Speed.. Description: Nimble Ring 750 ( 2500 ) 35 Intelligence 20% Attack Speed 7.5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2500,
+      "has_intelligence": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Nimble_Ring"
+  },
+  {
+    "id": "item_bracer_of_the_abyss",
+    "type": "item",
+    "name": "Bracer of The Abyss",
+    "content": "Bracer of The Abyss. Type: Tier 3 Offensive. Cost: 700. Total Cost: 2500. Stats: 40 Intelligence 35% Attack Speed. Passive: Passive: When you hit an enemy god or jungle boss with an ability or basic attack you gain 10 Basic Attack Damage for 10s. Stacks up to 8 times.. Description: Bracer of The Abyss 700 ( 2500 ) 40 Intelligence 35% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2500,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bracer_of_The_Abyss"
+  },
+  {
+    "id": "item_oath-sworn_spear",
+    "type": "item",
+    "name": "Oath-Sworn Spear",
+    "content": "Oath-Sworn Spear. Type: Tier 3 Offensive. Cost: 300. Total Cost: 2550. Stats: 60 Strength. Passive: Passive: Enemy gods hit by your abilities lose 1 per level Physical Protection for 4s.. Description: Oath-Sworn Spear 300 ( 2550 ) 60 Strength",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2550,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Oath-Sworn_Spear"
+  },
+  {
+    "id": "item_necronomicon",
+    "type": "item",
+    "name": "Necronomicon",
+    "content": "Necronomicon. Type: Tier 3 Offensive. Cost: 850. Total Cost: 2550. Stats: 50 Intelligence 300 Max Mana 5 Mana Regen. Passive: Passive: When you get a Kill or Assist on an enemy god you gain 1 stack of 50 Intelligence but you also lose 10 Physical Protection and 10 Magical Protection per stack. Stacks up to 3 times. All stacks are removed on your death.. Description: Necronomicon 850 ( 2550 ) 50 Intelligence 300 Max Mana 5 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2550,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Necronomicon"
+  },
+  {
+    "id": "item_pendulum_blade",
+    "type": "item",
+    "name": "Pendulum Blade",
+    "content": "Pendulum Blade. Type: Tier 3 Offensive. Cost: 550. Total Cost: 2550. Stats: 45 Strength 10 Cooldown Rate. Active: Active: Reduce your ability cooldowns by 4s. Cooldown: 40s.. Description: Pendulum Blade 550 ( 2550 ) 45 Strength 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2550,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Pendulum_Blade"
+  },
+  {
+    "id": "item_bloodforge",
+    "type": "item",
+    "name": "Bloodforge",
+    "content": "Bloodforge. Type: Tier 3 Offensive. Cost: 250. Total Cost: 2550. Stats: 45 Strength 7.5% Lifesteal. Active: Active: You gain a 10% of your max HP + 150% Strength from items HP Shield for 6s. The shield grants 10% lifesteal while active. Killing a god reduces the current cooldown by 25%. Cooldown: 80.. Description: Bloodforge 250 ( 2550 ) 45 Strength 7.5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2550,
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Bloodforge"
+  },
+  {
+    "id": "item_bragi's_harp",
+    "type": "item",
+    "name": "Bragi's Harp",
+    "content": "Bragi's Harp. Type: Tier 3 Offensive. Cost: 500. Total Cost: 2550. Stats: 35 Strength 25 Intelligence 10% Attack Speed. Passive: Passive: All targets hit by your basic attacks take 10 + 3 per level bonus Magical Damage. Structures and Bosses take half damage.. Description: Bragi's Harp 500 ( 2550 ) 35 Strength 25 Intelligence 10% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2550,
+      "has_intelligence": true,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Bragi%27s_Harp"
+  },
+  {
+    "id": "item_brawler\u2019s_beat_stick",
+    "type": "item",
+    "name": "Brawler\u2019s Beat Stick",
+    "content": "Brawler\u2019s Beat Stick. Type: Tier 3 Offensive. Cost: 800. Total Cost: 2550. Stats: 20 Physical Protection. Passive: You gain 40 Strength or 55 Intelligence depending on which stat from items is higher. If you have not taken or dealt god damage in the last 5s, gain a bonus 75% of the above passive when dealing damage for 4s. If you took damage, instead gain 25 Physical Protection. If an enemy within 7.2m uses a healing Ability, immediately gain both effects.. Description: Brawler\u2019s Beat Stick 800 ( 2550 ) 20 Physical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2550,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Brawler%E2%80%99s_Beat_Stick"
+  },
+  {
+    "id": "item_qin's_blade",
+    "type": "item",
+    "name": "Qin's Blade",
+    "content": "Qin's Blade. Type: Tier 3 Offensive. Cost: 900. Total Cost: 2600. Stats: 20 Strength 25% Attack Speed. Passive: Passive: Your basic attacks deal bonus Physical Damage to gods with more health than you equal to 10% of the difference in Maximum Health.. Description: Qin's Blade 900 ( 2600 ) 20 Strength 25% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2600,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Qin%27s_Blade"
+  },
+  {
+    "id": "item_typhon\u2019s_heart",
+    "type": "item",
+    "name": "Typhon\u2019s Heart",
+    "content": "Typhon\u2019s Heart. Type: Tier 3 Offensive. Cost: 850. Total Cost: 2600. Stats: 40 Intelligence 12.5% Lifesteal. Passive: Passive: Every minion or jungle monster Kill provides 1 stack. God Kills provide 30 and Assists, 15. At 30 stacks, summon a monster of Typhon. It has 200 + 50 per level Health and deals damage equal to 300% of your Lifesteal and 20% of your Intelligence. Your lifesteal Heals it. If you would summon another, instead fully Heal your current one and grant it 25% Health, Attack Speed, and Movement Speed, stacking up to 5 times.. Description: Typhon\u2019s Heart 850 ( 2600 ) 40 Intelligence 12.5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2600,
+      "has_intelligence": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Typhon%E2%80%99s_Heart"
+  },
+  {
+    "id": "item_the_reaper",
+    "type": "item",
+    "name": "The Reaper",
+    "content": "The Reaper. Type: Tier 3 Offensive. Cost: 550. Total Cost: 2600. Stats: 30 Strength 10% Lifesteal. Passive: Passive: Kills provide 1 stack, granting 6 Strength. Stacks last for 5s, stack up to 3 times and fall off one at a time. Killing a god increases the max stack by 1 and Heals you for 15% of the slain god's Max Health. Assists Heal for 7.5% instead. You lose a max stack on death, to a min of 1.. Description: The Reaper 550 ( 2600 ) 30 Strength 10% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2600,
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/The_Reaper"
+  },
+  {
+    "id": "item_ancient_signet",
+    "type": "item",
+    "name": "Ancient Signet",
+    "content": "Ancient Signet. Type: Tier 3 Offensive. Cost: 750. Total Cost: 2600. Stats: 75 Intelligence 200 Max Mana. Passive: Passive: Enemy Gods hit by your abilities take 20 + 10 per level bonus Magical Damage. This can only occur once every 20s. The cooldown is reduced by 2s for every minion kill or assist.. Description: Ancient Signet 750 ( 2600 ) 75 Intelligence 200 Max Mana",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2600,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Ancient_Signet"
+  },
+  {
+    "id": "item_tyrfing",
+    "type": "item",
+    "name": "Tyrfing",
+    "content": "Tyrfing. Type: Tier 3 Offensive. Cost: 650. Total Cost: 2600. Stats: 45 Strength 10% Attack Speed. Passive: Passive: Basic attacks deal 15 bonus physical damage. Hitting a god with a basic attack increases the damage this deals by 15 for 4s stacking 1 time +1 Per 4 Levels.. Description: Tyrfing 650 ( 2600 ) 45 Strength 10% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2600,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Tyrfing"
+  },
+  {
+    "id": "item_gluttonous_grimoire",
+    "type": "item",
+    "name": "Gluttonous Grimoire",
+    "content": "Gluttonous Grimoire. Type: Tier 3 Offensive. Cost: 800. Total Cost: 2600. Stats: 40 Intelligence 150 Max Health 10% Lifesteal. Passive: Passive: 25% of Lifesteal healing is stored into your next Basic Attack that successfully damages an enemy god as Bonus Magical Damage. If you are at maximum health, store 40% of the healing. The stored amount is capped to 33% of your Maximum Health.. Description: Gluttonous Grimoire 800 ( 2600 ) 40 Intelligence 150 Max Health 10% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2600,
+      "has_intelligence": true,
+      "has_lifesteal": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Gluttonous_Grimoire"
+  },
+  {
+    "id": "item_the_cosmic_horror",
+    "type": "item",
+    "name": "The Cosmic Horror",
+    "content": "The Cosmic Horror. Type: Tier 3 Offensive. Cost: 1050. Total Cost: 2650. Stats: 85 Intelligence 200 Max Mana 3 Mana Regen 10 Cooldown Rate. Passive: Passive: If you have more than 275 Item Intelligence you gain 10 Cooldown Rate.. Description: The Cosmic Horror 1050 ( 2650 ) 85 Intelligence 200 Max Mana 3 Mana Regen 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2650,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/The_Cosmic_Horror"
+  },
+  {
+    "id": "item_the_executioner",
+    "type": "item",
+    "name": "The Executioner",
+    "content": "The Executioner. Type: Tier 3 Offensive. Cost: 900. Total Cost: 2650. Stats: 15% Attack Speed. Passive: Passive: You gain 40 Strength or 70 Intelligence depending on which stat from items is higher. Passive: When you damage an enemy god or jungle boss with a basic attack apply Piercing, reducing their Protections by 6% for 4s. Stacks up to 4 times.. Description: The Executioner 900 ( 2650 ) 15% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2650,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/The_Executioner"
+  },
+  {
+    "id": "item_avenging_blade",
+    "type": "item",
+    "name": "Avenging Blade",
+    "content": "Avenging Blade. Type: Tier 3 Offensive. Cost: 750. Total Cost: 2650. Stats: 60 Strength 200 Max Health. Passive: Passive: Damaging an enemy God with a basic attack while in the jungle slows their movement speed by 5% and reduces their protections by 5% for 3 seconds. Stacks up to 3 times.. Description: Avenging Blade 750 ( 2650 ) 60 Strength 200 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2650,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Avenging_Blade"
+  },
+  {
+    "id": "item_spear_of_desolation",
+    "type": "item",
+    "name": "Spear of Desolation",
+    "content": "Spear of Desolation. Type: Tier 3 Offensive. Cost: 500. Total Cost: 2650. Stats: 100 Intelligence 10 Cooldown Rate. Passive: Passive: When you get a Kill or Assist on an enemy god your Non-ultimate Cooldowns are reduced by 3s and your Ultimate Cooldown is reduced by 10s.. Description: Spear of Desolation 500 ( 2650 ) 100 Intelligence 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2650,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Spear_of_Desolation"
+  },
+  {
+    "id": "item_hastened_fatalis",
+    "type": "item",
+    "name": "Hastened Fatalis",
+    "content": "Hastened Fatalis. Type: Tier 3 Offensive. Cost: 950. Total Cost: 2650. Stats: 20 Strength 25% Attack Speed. Passive: Passive: When you hit an enemy god with a Ranged basic attack you gain a stack reducing your Basic Attack Movement Penalty by 12.5% for 2s. Melee basic attacks provide 2 stacks per hit. Stacks up to 4 times.. Description: Hastened Fatalis 950 ( 2650 ) 20 Strength 25% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2650,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Hastened_Fatalis"
+  },
+  {
+    "id": "item_arondight",
+    "type": "item",
+    "name": "Arondight",
+    "content": "Arondight. Type: Tier 3 Offensive. Cost: 1000. Total Cost: 2650. Stats: 50 Strength 15 Cooldown Rate. Active: Active: Enemy gods within 17.6m become revealed for 6s. Reveal persists through stealth. If any enemy god is within the initial range, gain 25% Movement Speed for 6s. The first time you damage a revealed god you deal a bonus 30 + 50% STR Physical Damage. Cooldown: 75s.. Description: Arondight 1000 ( 2650 ) 50 Strength 15 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2650,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Arondight"
+  },
+  {
+    "id": "item_death_metal",
+    "type": "item",
+    "name": "Death Metal",
+    "content": "Death Metal. Type: Tier 3 Offensive. Cost: 600. Total Cost: 2700. Stats: 35 Strength 40 Intelligence 15% Critical Chance. Active: Active: You and allied gods within 6.4m gain 15% Critical Strike Chance, and 20% Attack Speed for 6s. Cooldown: 45s.. Description: Death Metal 600 ( 2700 ) 35 Strength 40 Intelligence 15% Critical Chance",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2700,
+      "has_intelligence": true,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Death_Metal"
+  },
+  {
+    "id": "item_tekko-kagi",
+    "type": "item",
+    "name": "Tekko-Kagi",
+    "content": "Tekko-Kagi. Type: Tier 3 Offensive. Cost: 1050. Total Cost: 2700. Stats: 50 Strength 10 Cooldown Rate. Passive: Passive: When you use an ability, gain a stack of Momentum granting 4% Movement Speed for 6s. Stacks up to 3 times.. Description: Tekko-Kagi 1050 ( 2700 ) 50 Strength 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2700,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Tekko-Kagi"
+  },
+  {
+    "id": "item_musashi's_dual_swords",
+    "type": "item",
+    "name": "Musashi's Dual Swords",
+    "content": "Musashi's Dual Swords. Type: Tier 3 Offensive. Cost: 500. Total Cost: 2700. Stats: 35 Strength 30% Critical Chance. Passive: Passive: When you Critically Strike an enemy you gain 15% Movement Speed for 5s.. Description: Musashi's Dual Swords 500 ( 2700 ) 35 Strength 30% Critical Chance",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2700,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Musashi%27s_Dual_Swords"
+  },
+  {
+    "id": "item_doom_orb",
+    "type": "item",
+    "name": "Doom Orb",
+    "content": "Doom Orb. Type: Tier 3 Offensive. Cost: 550. Total Cost: 2700. Stats: 90 Intelligence 200 Max Mana 2 Mana Regen. Passive: Passive: Killing or assisting an enemy minion provides you with 1 stack, granting 8 Intelligence per stack. Stacks last for 10s, stack up to 5 times and fall off one at a time. Enemy gods provide 5 stacks.. Description: Doom Orb 550 ( 2700 ) 90 Intelligence 200 Max Mana 2 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2700,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Doom_Orb"
+  },
+  {
+    "id": "item_demon_blade",
+    "type": "item",
+    "name": "Demon Blade",
+    "content": "Demon Blade. Type: Tier 3 Offensive. Cost: 750. Total Cost: 2750. Stats: 30 Strength 15% Attack Speed 15% Critical Chance. Passive: Passive: When you Critically Strike an enemy you gain 30% Attack Speed for 3s.. Description: Demon Blade 750 ( 2750 ) 30 Strength 15% Attack Speed 15% Critical Chance",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2750,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Demon_Blade"
+  },
+  {
+    "id": "item_staff_of_myrddin",
+    "type": "item",
+    "name": "Staff of Myrddin",
+    "content": "Staff of Myrddin. Type: Tier 3 Offensive. Cost: 900. Total Cost: 2750. Stats: 70 Intelligence 10 Cooldown Rate. Active: Active: Your next non-Ultimate Ability used will have no cooldown. Cooldown: 120s.. Description: Staff of Myrddin 900 ( 2750 ) 70 Intelligence 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2750,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Staff_of_Myrddin"
+  },
+  {
+    "id": "item_the_crusher",
+    "type": "item",
+    "name": "The Crusher",
+    "content": "The Crusher. Type: Tier 3 Offensive. Cost: 550. Total Cost: 2800. Stats: 60 Strength 15 Cooldown Rate. Passive: Passive: Enemies hit by your damaging Abilities take bonus damage equal to an additional 35% of your Strength over 1s. Subsequent hits on the same target do half the bonus damage for the next 3s.. Description: The Crusher 550 ( 2800 ) 60 Strength 15 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2800,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/The_Crusher"
+  },
+  {
+    "id": "item_totem_of_death",
+    "type": "item",
+    "name": "Totem of Death",
+    "content": "Totem of Death. Type: Tier 3 Offensive. Cost: 950. Total Cost: 2800. Stats: 45 Intelligence 15 Cooldown Rate. Passive: Passive: When you damage an enemy god or jungle boss with an ability apply Piercing, reducing their Protections by 6% for 4s. Stacks up to 5 times.. Description: Totem of Death 950 ( 2800 ) 45 Intelligence 15 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2800,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Totem_of_Death"
+  },
+  {
+    "id": "item_the_world_stone",
+    "type": "item",
+    "name": "The World Stone",
+    "content": "The World Stone. Type: Tier 3 Offensive. Cost: 900. Total Cost: 2800. Stats: 70 Intelligence 250 Max Mana 3 Mana Regen. Passive: Passive: Your Ultimate Cooldown is reduced by 30%.. Description: The World Stone 900 ( 2800 ) 70 Intelligence 250 Max Mana 3 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2800,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/The_World_Stone"
+  },
+  {
+    "id": "item_deathbringer",
+    "type": "item",
+    "name": "Deathbringer",
+    "content": "Deathbringer. Type: Tier 3 Offensive. Cost: 650. Total Cost: 2900. Stats: 45 Strength 20% Critical Chance. Passive: Passive: You gain 35% increased Critical Strike Damage.. Description: Deathbringer 650 ( 2900 ) 45 Strength 20% Critical Chance",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2900,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Deathbringer"
+  },
+  {
+    "id": "item_soul_reaver",
+    "type": "item",
+    "name": "Soul Reaver",
+    "content": "Soul Reaver. Type: Tier 3 Offensive. Cost: 1100. Total Cost: 2950. Stats: 60 Intelligence 250 Max Mana 5 Mana Regen. Passive: Passive: Enemy gods with more health than you that are hit by your abilities take 8% of the difference in Maximum HP and 5% of your Intelligence as bonus Magical Damage 4 times over 2s. Only triggers once per ability per god.. Description: Soul Reaver 1100 ( 2950 ) 60 Intelligence 250 Max Mana 5 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2950,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Soul_Reaver"
+  },
+  {
+    "id": "item_heartseeker",
+    "type": "item",
+    "name": "Heartseeker",
+    "content": "Heartseeker. Type: Tier 3 Offensive. Cost: 850. Total Cost: 3000. Stats: 55 Strength 250 Max Mana 2 Mana Regen. Passive: Passive: Your abilities deal bonus physical damage as a\u00a0% of the target's max HP. The %HP damage is equal to 2.5% of your Strength.. Description: Heartseeker 850 ( 3000 ) 55 Strength 250 Max Mana 2 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 3000,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Heartseeker"
+  },
+  {
+    "id": "item_rod_of_tahuti",
+    "type": "item",
+    "name": "Rod of Tahuti",
+    "content": "Rod of Tahuti. Type: Tier 3 Offensive. Cost: 600. Total Cost: 3000. Stats: 85 Intelligence 250 Max Mana 2 Mana Regen. Passive: Passive: Gain additional Intelligence equal to 25% of your Intelligence from items.. Description: Rod of Tahuti 600 ( 3000 ) 85 Intelligence 250 Max Mana 2 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 3000,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Rod_of_Tahuti"
+  },
+  {
+    "id": "item_obsidian_shard",
+    "type": "item",
+    "name": "Obsidian Shard",
+    "content": "Obsidian Shard. Type: Tier 3 Offensive. Cost: 950. Total Cost: 3050. Stats: 60 Intelligence. Passive: Passive: You gain the Shattering effect, granting you 35% Penetration. This effect does not stack with itself.. Description: Obsidian Shard 950 ( 3050 ) 60 Intelligence",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 3050,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Obsidian_Shard"
+  },
+  {
+    "id": "item_titan's_bane",
+    "type": "item",
+    "name": "Titan's Bane",
+    "content": "Titan's Bane. Type: Tier 3 Offensive. Cost: 950. Total Cost: 3100. Stats: 50 Strength. Passive: Passive: You gain the Shattering effect, granting you 35% Penetration. This effect does not stack with itself.. Description: Titan's Bane 950 ( 3100 ) 50 Strength",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 3100,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Titan%27s_Bane"
+  },
+  {
+    "id": "item_dreamer's_idol",
+    "type": "item",
+    "name": "Dreamer's Idol",
+    "content": "Dreamer's Idol. Type: Tier 3 Offensive. Cost: 1700. Total Cost: 3500. Stats: 140 Intelligence. Active: Active: You gain 25% increased Intelligence and become Displacement Immune for 10s. Cooldown: 120s.. Description: Dreamer's Idol 1700 ( 3500 ) 140 Intelligence",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 3500,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Dreamer%27s_Idol"
+  },
+  {
+    "id": "item_avatar's_parashu",
+    "type": "item",
+    "name": "Avatar's Parashu",
+    "content": "Avatar's Parashu. Type: Tier 3 Offensive. Cost: 1700. Total Cost: 3700. Stats: 100 Strength. Active: Active: You gain 25% increased Strength and become Displacement Immune for 10s. Cooldown: 120s.. Description: Avatar's Parashu 1700 ( 3700 ) 100 Strength",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 3700,
+      "has_strength": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Avatar%27s_Parashu"
+  },
+  {
+    "id": "item_ruinous_ankh",
+    "type": "item",
+    "name": "Ruinous Ankh",
+    "content": "Ruinous Ankh. Type: Tier 3 Defensive. Cost: 700. Total Cost: 2100. Stats: 25 Physical Protection 35 Magical Protection. Passive: Passive: Enemies within 4m have 40% reduced Healing. The anti-heal effect is increased by up to +50% at close range and decreases by up to -50% at maximum range. Item Anti-heal effects stack to a cap of 75%.. Description: Ruinous Ankh 700 ( 2100 ) 25 Physical Protection 35 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2100,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Ruinous_Ankh"
+  },
+  {
+    "id": "item_gauntlet_of_thebes",
+    "type": "item",
+    "name": "Gauntlet of Thebes",
+    "content": "Gauntlet of Thebes. Type: Tier 3 Defensive. Cost: 1400. Total Cost: 2200. Stats: 200 Max Health 150 Max Mana. Passive: Passive: Assists on a minion give 1 Stack and God kills and assists give 5 Stacks. Stacks provide 15 Max Health. Stacks up to 40 times. At max stacks this item evolves providing you an additional 200 Max Health.. Description: Gauntlet of Thebes 1400 ( 2200 ) 200 Max Health 150 Max Mana",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2200,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Gauntlet_of_Thebes"
+  },
+  {
+    "id": "item_contagion",
+    "type": "item",
+    "name": "Contagion",
+    "content": "Contagion. Type: Tier 3 Defensive. Cost: 750. Total Cost: 2250. Stats: 500 Max Health 8 Health Regen. Passive: Passive: When you are damaged by an enemy Basic Attack or Ability, apply 1 stack of Contagion to them for 8s (once per attack). If you Basic Attack or apply Hard Crowd Control to an enemy with Contagion, consume them to deal 1% of your Max Health as Magical Damage per stack, in a 4m area. If someone lifesteals 100 Health from you, immediately apply 5 stacks to them.. Description: Contagion 750 ( 2250 ) 500 Max Health 8 Health Regen",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2250,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Contagion"
+  },
+  {
+    "id": "item_yogi's_necklace",
+    "type": "item",
+    "name": "Yogi's Necklace",
+    "content": "Yogi's Necklace. Type: Tier 3 Defensive. Cost: 1050. Total Cost: 2250. Stats: 400 Max Health 250 Max Mana 6 Health Regen 6 Mana Regen. Passive: Passive: Heal 0.5% of your Maximum Health every second.. Description: Yogi's Necklace 1050 ( 2250 ) 400 Max Health 250 Max Mana 6 Health Regen 6 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2250,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Yogi%27s_Necklace"
+  },
+  {
+    "id": "item_stone_of_binding",
+    "type": "item",
+    "name": "Stone of Binding",
+    "content": "Stone of Binding. Type: Tier 3 Defensive. Cost: 700. Total Cost: 2250. Stats: 25 Physical Protection 20 Magical Protection. Passive: Passive: Enemy gods hit by your Hard CC effects lose 10 Physical Protection and 10 Magical Protection for 4s stacking up to 4 times. If you have 120 or more protections from items, apply 2 stacks at a time.. Description: Stone of Binding 700 ( 2250 ) 25 Physical Protection 20 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2250,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Stone_of_Binding"
+  },
+  {
+    "id": "item_spectral_armor",
+    "type": "item",
+    "name": "Spectral Armor",
+    "content": "Spectral Armor. Type: Tier 3 Defensive. Cost: 700. Total Cost: 2300. Stats: 30 Physical Protection 400 Max Health. Passive: Passive: Enemies within 8.8m lose 25% Attack Speed and their Critical Strikes deal 25% less damage.. Description: Spectral Armor 700 ( 2300 ) 30 Physical Protection 400 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2300,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Spectral_Armor"
+  },
+  {
+    "id": "item_eye_of_providence",
+    "type": "item",
+    "name": "Eye of Providence",
+    "content": "Eye of Providence. Type: Tier 3 Defensive. Cost: 700. Total Cost: 2300. Stats: 25 Physical Protection 25 Magical Protection 250 Max Health. Passive: Passive: Gain an additional 50 Gold when destroying a ward that provides gold.. Active: Active: Place a ward that Reveals enemies and enemy wards within 7.2m. Lasts for 120s or until killed. Cooldown: 60s.. Description: Eye of Providence 700 ( 2300 ) 25 Physical Protection 25 Magical Protection 250 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2300,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Eye_of_Providence"
+  },
+  {
+    "id": "item_genji's_guard",
+    "type": "item",
+    "name": "Genji's Guard",
+    "content": "Genji's Guard. Type: Tier 3 Defensive. Cost: 1050. Total Cost: 2350. Stats: 50 Magical Protection 200 Max Mana 5 Mana Regen 15 Cooldown Rate. Passive: Passive: When you take Magical Damage from Abilities your cooldowns are reduced by 3s. This can only occur once every 20s.. Description: Genji's Guard 1050 ( 2350 ) 50 Magical Protection 200 Max Mana 5 Mana Regen 15 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2350,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Genji%27s_Guard"
+  },
+  {
+    "id": "item_amanita_charm",
+    "type": "item",
+    "name": "Amanita Charm",
+    "content": "Amanita Charm. Type: Tier 3 Defensive. Cost: 850. Total Cost: 2350. Stats: 15 Physical Protection 15 Magical Protection 300 Max Health 4 Health Regen. Passive: Passive: Gain a stack of Sporeguard. Each buff stack reduces enemy Basic Attack and Ability damage by 10% before being removed. Ultimate Ability damage is reduced by 5% and all stacks are removed.. Active: Active: Create a Mushroom that Heals allied gods within 6.4m for 3% HP every 1.5s. Lasts for 4.5s. Ticks once immediately upon deploy. Cooldown: 60s.. Description: Amanita Charm 850 ( 2350 ) 15 Physical Protection 15 Magical Protection 300 Max Health 4 Health Regen",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2350,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Amanita_Charm"
+  },
+  {
+    "id": "item_erosion",
+    "type": "item",
+    "name": "Erosion",
+    "content": "Erosion. Type: Tier 3 Defensive. Cost: 750. Total Cost: 2400. Stats: 30 Physical Protection 20 Magical Protection 250 Max Health. Passive: Passive: Any Shields applied on enemy gods within 11.2m will be reduced by 30%. Whenever this effect occurs you gain 10% of your Protections. This lasts for 6s and can stack twice.. Description: Erosion 750 ( 2400 ) 30 Physical Protection 20 Magical Protection 250 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2400,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Erosion"
+  },
+  {
+    "id": "item_screeching_gargoyle",
+    "type": "item",
+    "name": "Screeching Gargoyle",
+    "content": "Screeching Gargoyle. Type: Tier 3 Defensive. Cost: 850. Total Cost: 2400. Stats: 50 Magical Protection 10 Cooldown Rate. Active: Active: Enemy gods in front of you are Silenced for 1s and lose 10% Magical and Physical Protections for 4s. Cooldown: 90s.. Description: Screeching Gargoyle 850 ( 2400 ) 50 Magical Protection 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2400,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Screeching_Gargoyle"
+  },
+  {
+    "id": "item_shield_of_the_phoenix",
+    "type": "item",
+    "name": "Shield of the Phoenix",
+    "content": "Shield of the Phoenix. Type: Tier 3 Defensive. Cost: 900. Total Cost: 2400. Stats: 15 Physical Protection 225 Max Health 10 Cooldown Rate. Passive: Passive: Anytime you hit an Enemy god with an ability you are healed for 1.5% of your maximum Health and Mana. This can only trigger once per ability per god hit.. Description: Shield of the Phoenix 900 ( 2400 ) 15 Physical Protection 225 Max Health 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2400,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Shield_of_the_Phoenix"
+  },
+  {
+    "id": "item_magi's_cloak",
+    "type": "item",
+    "name": "Magi's Cloak",
+    "content": "Magi's Cloak. Type: Tier 3 Defensive. Cost: 950. Total Cost: 2400. Stats: 35 Physical Protection 35 Magical Protection. Passive: Passive: Protects you from a single hard Crowd Control once every 90s. When this triggers, gain 1.5s of Crowd Control Immunity.. Description: Magi's Cloak 950 ( 2400 ) 35 Physical Protection 35 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2400,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Magi%27s_Cloak"
+  },
+  {
+    "id": "item_prophetic_cloak",
+    "type": "item",
+    "name": "Prophetic Cloak",
+    "content": "Prophetic Cloak. Type: Tier 3 Defensive. Cost: 850. Total Cost: 2400. Stats: 22 Physical Protection 22 Magical Protection 10 Cooldown Rate. Passive: Passive: Once every 5s, when you damage an enemy god, you gain a stack of 1 Protections that corresponds to the type of damage that god deals. Once you have reached 20 stacks of both Protections, this item Evolves, giving you additional 5 Protections and 6% Damage Mitigation, or 12% Damage Mitigation if your total Protection exceeds 300.. Description: Prophetic Cloak 850 ( 2400 ) 22 Physical Protection 22 Magical Protection 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2400,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Prophetic_Cloak"
+  },
+  {
+    "id": "item_phoenix_feather",
+    "type": "item",
+    "name": "Phoenix Feather",
+    "content": "Phoenix Feather. Type: Tier 3 Defensive. Cost: 800. Total Cost: 2400. Stats: 35 Magical Protection 300 Max Health. Active: Active: Fire out 3 pulses, Healing you for 75 HP + 7.5% of your Missing HP and dealing True Damage equal to Your level + 3% of your Max Health from Items to enemies within 3.2m around you. Cooldown: 120s.. Description: Phoenix Feather 800 ( 2400 ) 35 Magical Protection 300 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2400,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Phoenix_Feather"
+  },
+  {
+    "id": "item_berserker's_shield",
+    "type": "item",
+    "name": "Berserker's Shield",
+    "content": "Berserker's Shield. Type: Tier 3 Defensive. Cost: 750. Total Cost: 2400. Stats: 30 Physical Protection 15 Magical Protection 20% Attack Speed. Passive: Passive: When you fall below 60% Health you become Berserk for 8s. While Berserk, you gain 65% Protections from items and 25% Attack Speed.. Description: Berserker's Shield 750 ( 2400 ) 30 Physical Protection 15 Magical Protection 20% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2400,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Berserker%27s_Shield"
+  },
+  {
+    "id": "item_stampede",
+    "type": "item",
+    "name": "Stampede",
+    "content": "Stampede. Type: Tier 3 Defensive. Cost: 950. Total Cost: 2400. Stats: 30 Physical Protection 250 Max Health 5 Health Regen. Active: Active: You and allied gods within 6.4m gain Slow Immunity and a burst of 60% Movement Speed that decays to 20% over 4s for 4s. Cooldown: 90s.. Description: Stampede 950 ( 2400 ) 30 Physical Protection 250 Max Health 5 Health Regen",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2400,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Stampede"
+  },
+  {
+    "id": "item_breastplate_of_valor",
+    "type": "item",
+    "name": "Breastplate of Valor",
+    "content": "Breastplate of Valor. Type: Tier 3 Defensive. Cost: 1100. Total Cost: 2400. Stats: 35 Magical Protection 200 Max Mana 2 Mana Regen 20 Cooldown Rate. Passive: Passive: When you lose 500 + 25*Level HP your Ability cooldowns are reduced by 1s. 25% of self healing from your Abilities also contributes towards lost health.. Description: Breastplate of Valor 1100 ( 2400 ) 35 Magical Protection 200 Max Mana 2 Mana Regen 20 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2400,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Breastplate_of_Valor"
+  },
+  {
+    "id": "item_gladiator's_shield",
+    "type": "item",
+    "name": "Gladiator's Shield",
+    "content": "Gladiator's Shield. Type: Tier 3 Defensive. Cost: 800. Total Cost: 2450. Stats: 20 Physical Protection 175 Max Health 10 Cooldown Rate. Passive: Passive: Enemies hit by your abilities take 40% of your Item Protections as bonus Physical Damage. This effect only triggers once per ability per god.. Description: Gladiator's Shield 800 ( 2450 ) 20 Physical Protection 175 Max Health 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2450,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Gladiator%27s_Shield"
+  },
+  {
+    "id": "item_pharaoh's_curse",
+    "type": "item",
+    "name": "Pharaoh's Curse",
+    "content": "Pharaoh's Curse. Type: Tier 3 Defensive. Cost: 900. Total Cost: 2450. Stats: 35 Physical Protection 25 Magical Protection 15% Attack Speed. Active: Active: Enemies within 5.6m have their Shields immediately reduced by 50%, then become Slowed by 20% and have their Attack Speed reduced by 40% for 4s. Cooldown: 45s.. Description: Pharaoh's Curse 900 ( 2450 ) 35 Physical Protection 25 Magical Protection 15% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2450,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Pharaoh%27s_Curse"
+  },
+  {
+    "id": "item_shogun's_ofuda",
+    "type": "item",
+    "name": "Shogun's Ofuda",
+    "content": "Shogun's Ofuda. Type: Tier 3 Defensive. Cost: 900. Total Cost: 2500. Stats: 25 Magical Protection 200 Max Health 15% Attack Speed. Passive: Passive: You and allies within 8.8m gain 15% Attack Speed.. Description: Shogun's Ofuda 900 ( 2500 ) 25 Magical Protection 200 Max Health 15% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2500,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Shogun%27s_Ofuda"
+  },
+  {
+    "id": "item_talisman_of_purification",
+    "type": "item",
+    "name": "Talisman of Purification",
+    "content": "Talisman of Purification. Type: Tier 3 Defensive. Cost: 1000. Total Cost: 2500. Stats: 25 Magical Protection 275 Max Health 10 Cooldown Rate. Active: Active: You and allied gods within 6.4m are Cleansed of all CC and gain CC Immunity for 1s. Cooldown: 180s.. Description: Talisman of Purification 1000 ( 2500 ) 25 Magical Protection 275 Max Health 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2500,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Talisman_of_Purification"
+  },
+  {
+    "id": "item_ancile",
+    "type": "item",
+    "name": "Ancile",
+    "content": "Ancile. Type: Tier 3 Defensive. Cost: 950. Total Cost: 2500. Stats: 15 Magical Protection 225 Max Health. Passive: Passive: You take 10% reduced Basic Attack damage. Taking Basic Attack damage reduces this items cooldown by 2s.. Active: Active: Your next ability that damages an enemy god will silence them for 1.5s. Cooldown: 80s.. Description: Ancile 950 ( 2500 ) 15 Magical Protection 225 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2500,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Ancile"
+  },
+  {
+    "id": "item_spirit_robe",
+    "type": "item",
+    "name": "Spirit Robe",
+    "content": "Spirit Robe. Type: Tier 3 Defensive. Cost: 1000. Total Cost: 2500. Stats: 25 Physical Protection 25 Magical Protection. Passive: Passive: When you are hit by a Hard CC effect you gain 40 Physical Protection and 40 Magical Protection for 6s and heal for 6% Max Health over this duration.. Description: Spirit Robe 1000 ( 2500 ) 25 Physical Protection 25 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2500,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Spirit_Robe"
+  },
+  {
+    "id": "item_oni_hunter's_garb",
+    "type": "item",
+    "name": "Oni Hunter's Garb",
+    "content": "Oni Hunter's Garb. Type: Tier 3 Defensive. Cost: 1150. Total Cost: 2500. Stats: 40 Magical Protection 150 Max Health 200 Max Mana 8 Mana Regen. Passive: Passive: For each enemy god within 8.8m of you, gain a stack of 4% damage mitigation. This caps at 3 stacks.. Description: Oni Hunter's Garb 1150 ( 2500 ) 40 Magical Protection 150 Max Health 200 Max Mana 8 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2500,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Oni_Hunter%27s_Garb"
+  },
+  {
+    "id": "item_leviathan's_hide",
+    "type": "item",
+    "name": "Leviathan's Hide",
+    "content": "Leviathan's Hide. Type: Tier 3 Defensive. Cost: 950. Total Cost: 2500. Stats: 40 Physical Protection 250 Max Health. Passive: Passive: Enemy Gods who hit you with Basic Attacks lose 10% Strength for 4s. Gain 6 Max Health permanently when you damage an enemy god with a Basic Attack. Cooldown: 10s. Cooldown reduced by 0.5s when taking damage from an enemy god, once per Ability or Basic Attack.. Description: Leviathan's Hide 950 ( 2500 ) 40 Physical Protection 250 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2500,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Leviathan%27s_Hide"
+  },
+  {
+    "id": "item_glorious_pridwen",
+    "type": "item",
+    "name": "Glorious Pridwen",
+    "content": "Glorious Pridwen. Type: Tier 3 Defensive. Cost: 1100. Total Cost: 2550. Stats: 20 Physical Protection 20 Magical Protection 12 Cooldown Rate. Active: Active: Explode dealing 40% of your Protections as Magical Damage and slowing targets by 25% for 3s in a 4.8m radius. Gain a Shield equal to 125% of your Protections for 5s. When destroyed, by timing out or being depleted, you explode again dealing 70% of your Protections as Magical Damage. Cooldown: 45s.. Description: Glorious Pridwen 1100 ( 2550 ) 20 Physical Protection 20 Magical Protection 12 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2550,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Glorious_Pridwen"
+  },
+  {
+    "id": "item_hide_of_the_nemean_lion",
+    "type": "item",
+    "name": "Hide of the Nemean Lion",
+    "content": "Hide of the Nemean Lion. Type: Tier 3 Defensive. Cost: 1000. Total Cost: 2550. Stats: 35 Physical Protection 350 Max Health 4 Health Regen. Active: Active: Reflects 40% of all pre-mitigated Basic Attack damage or 20% of all pre-mitigated Ability damage back to attackers as Physical Damage for 4 seconds. Cooldown: 60s.. Description: Hide of the Nemean Lion 1000 ( 2550 ) 35 Physical Protection 350 Max Health 4 Health Regen",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2550,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Hide_of_the_Nemean_Lion"
+  },
+  {
+    "id": "item_mystical_mail",
+    "type": "item",
+    "name": "Mystical Mail",
+    "content": "Mystical Mail. Type: Tier 3 Defensive. Cost: 900. Total Cost: 2550. Stats: 25 Physical Protection 300 Max Health. Passive: Passive: Enemies within 4m are dealt 15 + 1 per level Magical Damage per second. Damage increases by up to +50% at close range and decreases by up to -50% at maximum range. Enemies damaged lose 25% of their shields.. Description: Mystical Mail 900 ( 2550 ) 25 Physical Protection 300 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2550,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Mystical_Mail"
+  },
+  {
+    "id": "item_regrowth_striders",
+    "type": "item",
+    "name": "Regrowth Striders",
+    "content": "Regrowth Striders. Type: Tier 3 Defensive. Cost: 1000. Total Cost: 2550. Stats: 35 Physical Protection 3 Mana Regen 15 Cooldown Rate. Passive: Passive 1: When you heal yourself from an ability, gain a burst of 30% Movement Speed that decays to 10% over 4s. Cooldown: 10s Passive 2: When you gain a Movement Speed buff restore 5% of your health over 10s.. Description: Regrowth Striders 1000 ( 2550 ) 35 Physical Protection 3 Mana Regen 15 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2550,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Regrowth_Striders"
+  },
+  {
+    "id": "item_freya's_tears",
+    "type": "item",
+    "name": "Freya's Tears",
+    "content": "Freya's Tears. Type: Tier 3 Defensive. Cost: 1000. Total Cost: 2600. Stats: 20 Physical Protection 25 Magical Protection 20 Cooldown Rate. Passive: Passive\u00a0: Each time you lose 25% of your Health, you gain a bonus 15% Protections from Items. This lasts for 5s and can stack twice.. Description: Freya's Tears 1000 ( 2600 ) 20 Physical Protection 25 Magical Protection 20 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2600,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Freya%27s_Tears"
+  },
+  {
+    "id": "item_mantle_of_discord",
+    "type": "item",
+    "name": "Mantle Of Discord",
+    "content": "Mantle Of Discord. Type: Tier 3 Defensive. Cost: 1050. Total Cost: 2600. Stats: 30 Physical Protection 20 Magical Protection 10 Cooldown Rate. Passive: Passive: If you take damage below 40% health you unleash a shockwave that Stuns all enemies within a range of 3.2m for 1s and become immune to Crowd Control for 1s. Cooldown 110s.. Description: Mantle Of Discord 1050 ( 2600 ) 30 Physical Protection 20 Magical Protection 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2600,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Mantle_Of_Discord"
+  },
+  {
+    "id": "item_heartwood_charm",
+    "type": "item",
+    "name": "Heartwood Charm",
+    "content": "Heartwood Charm. Type: Tier 3 Defensive. Cost: 1200. Total Cost: 2650. Stats: 400 Max Health 250 Max Mana 10 Cooldown Rate. Passive: Your healing Abilities have 20% reduced Cooldowns and each cast reduces this items active cooldown by 6s.. Active: Your next non-ultimate healing Ability will have no cooldown but deals 50% reduced damage. Cooldown: 120s. Description: Heartwood Charm 1200 ( 2650 ) 400 Max Health 250 Max Mana 10 Cooldown Rate",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2650,
+      "has_passive": true,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Heartwood_Charm"
+  },
+  {
+    "id": "item_umbral_link",
+    "type": "item",
+    "name": "Umbral Link",
+    "content": "Umbral Link. Type: Tier 3 Defensive. Cost: 1100. Total Cost: 2700. Stats: 40 Physical Protection 10% Lifesteal. Passive: Passive: Split your lifesteal healing with allied gods within 11.2m evenly. Each unique ally healed like this grants you 10 Protections for 8s. This link only works while you are above 50% Health.. Description: Umbral Link 1100 ( 2700 ) 40 Physical Protection 10% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2700,
+      "has_lifesteal": true,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Umbral_Link"
+  },
+  {
+    "id": "item_draconic_scale",
+    "type": "item",
+    "name": "Draconic Scale",
+    "content": "Draconic Scale. Type: Tier 3 Defensive. Cost: 750. Total Cost: 2700. Stats: 20 Physical Protection 20 Magical Protection 300 Max Health. Passive: Passive: Each time you take damage from a god, gain 2 + 3% Bonus Item Protections against that damage type. Stacks last for 1.5s with a maximum of 7 stacks. Stacks decay by 1 rather than being fully removed.. Description: Draconic Scale 750 ( 2700 ) 20 Physical Protection 20 Magical Protection 300 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2700,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Draconic_Scale"
+  },
+  {
+    "id": "item_circe's_hexstone",
+    "type": "item",
+    "name": "Circe's Hexstone",
+    "content": "Circe's Hexstone. Type: Tier 3 Defensive. Cost: 1400. Total Cost: 2750. Stats: 250 Max Health 4 Health Regen 10 Cooldown Rate 5% Movement Speed. Active: Active: You are Polymorphed and begin a short Charge forwards, damaging enemies hit for 50 Physical Damage. Hitting a god ends the Charge, Knocking them Up and dealing 10% of your Current HP as bonus Physical Damage. While Polymorphed you gain CC Immunity and 60 Protections. Cooldown: 120s. (Hitting an enemy god sets it to 80s cooldown instead). Description: Circe's Hexstone 1400 ( 2750 ) 250 Max Health 4 Health Regen 10 Cooldown Rate 5% Movement Speed",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2750,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Circe%27s_Hexstone"
+  },
+  {
+    "id": "item_dwarven_plate",
+    "type": "item",
+    "name": "Dwarven Plate",
+    "content": "Dwarven Plate. Type: Tier 3 Defensive. Cost: 850. Total Cost: 2800. Stats: 35 Physical Protection 35 Magical Protection. Passive: Passive: Gain Additional Physical Protection equal to 12.5% of your Physical Protections from Items. Gain Additional Magical Protection equal to 25% of your Magical Protection from Items. Active: Switches which Protection is increased more. Cooldown: 30s.. Description: Dwarven Plate 850 ( 2800 ) 35 Physical Protection 35 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 2800,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Dwarven_Plate"
+  },
+  {
+    "id": "item_hussar's_wings",
+    "type": "item",
+    "name": "Hussar's Wings",
+    "content": "Hussar's Wings. Type: Tier 3 Defensive. Cost: 1800. Total Cost: 3500. Stats: 25 Physical Protection 25 Magical Protection 500 Max Health. Passive: Passive: You are immune to slows.. Description: Hussar's Wings 1800 ( 3500 ) 25 Physical Protection 25 Magical Protection 500 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Defensive",
+      "tier": 3,
+      "category": "defensive",
+      "total_cost": 3500,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Hussar%27s_Wings"
+  },
+  {
+    "id": "item_helm_of_radiance",
+    "type": "item",
+    "name": "Helm of Radiance",
+    "content": "Helm of Radiance. Type: Tier 3 Hybrid. Cost: 650. Total Cost: 2300. Stats: 55 Intelligence 25 Physical Protection. Passive: Passive: When you take Physical Damage you gain 7 Physical Protection for 6s. Stacks up to 6 times.. Description: Helm of Radiance 650 ( 2300 ) 55 Intelligence 25 Physical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2300,
+      "has_intelligence": true,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Helm_of_Radiance"
+  },
+  {
+    "id": "item_rod_of_asclepius",
+    "type": "item",
+    "name": "Rod Of Asclepius",
+    "content": "Rod Of Asclepius. Type: Tier 3 Hybrid. Cost: 750. Total Cost: 2350. Stats: 55 Intelligence 225 Max Health 3 Health Regen. Active: Active: Send out healing snakes to allied gods within 8.8m restoring 10% of their health over 10s. This healing counts as healing from an Ability. The snake is sacrificed if the target has 6 debuffs active, immediately healing for 10% health and applying all non-damage immunities for 1s. Costs: 35% Mana. CD: 90s. Description: Rod Of Asclepius 750 ( 2350 ) 55 Intelligence 225 Max Health 3 Health Regen",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2350,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Rod_Of_Asclepius"
+  },
+  {
+    "id": "item_shield_splitter",
+    "type": "item",
+    "name": "Shield Splitter",
+    "content": "Shield Splitter. Type: Tier 3 Hybrid. Cost: 600. Total Cost: 2400. Stats: 40 Strength 20 Physical Protection 20 Magical Protection. Active: Active: Throw Shield Splitter 8.8m ahead, dealing 40 + 5 per level True Damage to all enemies hit. If an enemy has a Shield, it is reduced by 65%, and you gain a Shield equal to the amount reduced. Cooldown: 15s.. Description: Shield Splitter 600 ( 2400 ) 40 Strength 20 Physical Protection 20 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2400,
+      "has_strength": true,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Shield_Splitter"
+  },
+  {
+    "id": "item_scepter_of_dominion",
+    "type": "item",
+    "name": "Scepter of Dominion",
+    "content": "Scepter of Dominion. Type: Tier 3 Hybrid. Cost: 950. Total Cost: 2400. Stats: 30 Intelligence 150 Max Health 200 Max Mana 3 Mana Regen. Active: Active: After 1.5s an area is created causing any gods that enter into it or are already within it to become affected by Stasis. Lasts for 2s. Cooldown: 90s.. Description: Scepter of Dominion 950 ( 2400 ) 30 Intelligence 150 Max Health 200 Max Mana 3 Mana Regen",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2400,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Scepter_of_Dominion"
+  },
+  {
+    "id": "item_golden_blade",
+    "type": "item",
+    "name": "Golden Blade",
+    "content": "Golden Blade. Type: Tier 3 Hybrid. Cost: 800. Total Cost: 2450. Stats: 30 Strength 200 Max Health 20% Attack Speed. Passive: Passive: Basic attacks deal 20 + 15% of your Item Protections as bonus Physical Damage to all enemies within 2.5m of the target.. Description: Golden Blade 800 ( 2450 ) 30 Strength 200 Max Health 20% Attack Speed",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2450,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Golden_Blade"
+  },
+  {
+    "id": "item_eye_of_the_storm",
+    "type": "item",
+    "name": "Eye of the Storm",
+    "content": "Eye of the Storm. Type: Tier 3 Hybrid. Cost: 850. Total Cost: 2500. Stats: 25 Strength 35 Magical Protection 200 Max Health. Active: Active: Toggle to Vortex enemies around you toward you, damaging you for 6% of your Max Health as Magical Damage per second while active. Automatically deactivates at 200 Health remaining.. Description: Eye of the Storm 850 ( 2500 ) 25 Strength 35 Magical Protection 200 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2500,
+      "has_strength": true,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Eye_of_the_Storm"
+  },
+  {
+    "id": "item_lifebinder",
+    "type": "item",
+    "name": "Lifebinder",
+    "content": "Lifebinder. Type: Tier 3 Hybrid. Cost: 850. Total Cost: 2500. Stats: 35 Intelligence 300 Max Health 3 Health Regen. Active: Active: Send out a wave of living energy dealing 110 + 5 per level magic damage and marking enemy Gods for 6 seconds. The first Ally who damages a marked target will gain a shield and heal for 110 + 5 per level and consume the Mark. Cooldown 20s.. Description: Lifebinder 850 ( 2500 ) 35 Intelligence 300 Max Health 3 Health Regen",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2500,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Lifebinder"
+  },
+  {
+    "id": "item_gem_of_isolation",
+    "type": "item",
+    "name": "Gem of Isolation",
+    "content": "Gem of Isolation. Type: Tier 3 Hybrid. Cost: 750. Total Cost: 2500. Stats: 50 Intelligence 250 Max Health. Passive: Passive: Enemy gods hit by your abilities are affected by a 15% Slow for 2s.. Description: Gem of Isolation 750 ( 2500 ) 50 Intelligence 250 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2500,
+      "has_intelligence": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Gem_of_Isolation"
+  },
+  {
+    "id": "item_void_shield",
+    "type": "item",
+    "name": "Void Shield",
+    "content": "Void Shield. Type: Tier 3 Hybrid. Cost: 950. Total Cost: 2600. Stats: 20 Strength 40 Physical Protection 100 Max Health. Passive: Passive: Enemies within 8.8m have their Physical Protections reduced by 10%. The Protection debuff increases by up to +50% at close range and decreases by up to -50% at maximum range.. Description: Void Shield 950 ( 2600 ) 20 Strength 40 Physical Protection 100 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2600,
+      "has_strength": true,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Void_Shield"
+  },
+  {
+    "id": "item_shifter's_shield",
+    "type": "item",
+    "name": "Shifter's Shield",
+    "content": "Shifter's Shield. Type: Tier 3 Hybrid. Cost: 850. Total Cost: 2650. Stats: 15 Physical Protection 15 Magical Protection 300 Max Health. Passive: Passive: While over 75% Health, you gain 45 Strength or 55 Intelligence, depending on which stat is higher. While under 75% Health, you gain 20 Protections.. Description: Shifter's Shield 850 ( 2650 ) 15 Physical Protection 15 Magical Protection 300 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2650,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Shifter%27s_Shield"
+  },
+  {
+    "id": "item_daybreak_gavel",
+    "type": "item",
+    "name": "Daybreak Gavel",
+    "content": "Daybreak Gavel. Type: Tier 3 Offensive. Cost: 850. Total Cost: 2650. Stats: 300 Max Health. Passive: Passive 1: You gain 55 Strength or 75 Intelligence depending on which stat from items is higher. Passive 2: For each unique god healed by a healing Ability, gain a stack, up to 4. Your next ability consumes all the stacks to contribute 10% additional Strength and Intelligence scaling per stack consumed (up to 40%).. Description: Daybreak Gavel 850 ( 2650 ) 300 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Offensive",
+      "tier": 3,
+      "category": "offensive",
+      "total_cost": 2650,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Daybreak_Gavel"
+  },
+  {
+    "id": "item_void_stone",
+    "type": "item",
+    "name": "Void Stone",
+    "content": "Void Stone. Type: Tier 3 Hybrid. Cost: 950. Total Cost: 2650. Stats: 40 Intelligence 35 Magical Protection 150 Max Health. Passive: Passive: Enemies within 8.8m have their Magical Protections reduced by 10%. The Protection debuff increases by up to +50% at close range and decreases by up to -50% at maximum range.. Description: Void Stone 950 ( 2650 ) 40 Intelligence 35 Magical Protection 150 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2650,
+      "has_intelligence": true,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Void_Stone"
+  },
+  {
+    "id": "item_runeforged_hammer",
+    "type": "item",
+    "name": "Runeforged Hammer",
+    "content": "Runeforged Hammer. Type: Tier 3 Hybrid. Cost: 1100. Total Cost: 2700. Stats: 40 Strength 350 Max Health 3 Health Regen. Passive: Passive: After applying a Hard Crowd Control to an enemy god, mark them with a rune for 5s. Basic Attack them to forge that rune dealing 50 + 50% of your Item Protections as Magical Damage. This can only occur once every 40s. Hard Crowd Control applied to enemy gods while on cooldown reduces the cooldown by 3s.. Description: Runeforged Hammer 1100 ( 2700 ) 40 Strength 350 Max Health 3 Health Regen",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2700,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Runeforged_Hammer"
+  },
+  {
+    "id": "item_helm_of_darkness",
+    "type": "item",
+    "name": "Helm of Darkness",
+    "content": "Helm of Darkness. Type: Tier 3 Hybrid. Cost: 1000. Total Cost: 2700. Stats: 40 Intelligence 20 Physical Protection 25 Magical Protection. Active: Active: You become Stealthed and pass through players and player-made walls for 6s. Cannot be activated while firing an ability. Cooldown: 90s.. Description: Helm of Darkness 1000 ( 2700 ) 40 Intelligence 20 Physical Protection 25 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2700,
+      "has_intelligence": true,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Helm_of_Darkness"
+  },
+  {
+    "id": "item_jade_scepter",
+    "type": "item",
+    "name": "Jade Scepter",
+    "content": "Jade Scepter. Type: Tier 3 Hybrid. Cost: 900. Total Cost: 2750. Stats: 90 Intelligence 150 Max Health. Active: Active: Enemy gods in front of you are Displaced away from you. Cooldown: 60s.. Description: Jade Scepter 900 ( 2750 ) 90 Intelligence 150 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2750,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Jade_Scepter"
+  },
+  {
+    "id": "item_triton's_conch",
+    "type": "item",
+    "name": "Triton's Conch",
+    "content": "Triton's Conch. Type: Tier 3 Hybrid. Cost: 900. Total Cost: 2800. Stats: 20 Strength 40 Intelligence 250 Max Health. Passive: Passive: You and allies within 8.8m gain 7 + 0.5*Level Strength and 10 + 1*Level Intelligence.. Description: Triton's Conch 900 ( 2800 ) 20 Strength 40 Intelligence 250 Max Health",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2800,
+      "has_intelligence": true,
+      "has_strength": true,
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Triton%27s_Conch"
+  },
+  {
+    "id": "item_sanguine_lash",
+    "type": "item",
+    "name": "Sanguine Lash",
+    "content": "Sanguine Lash. Type: Tier 3 Hybrid. Cost: 850. Total Cost: 2800. Stats: 25 Strength 30 Magical Protection 7.5% Lifesteal. Passive: Enemy humanoids within 4m take 0.75% (+1% for every 10% Lifesteal) of their health as Physical damage every second (up to 200). Bosses take 50% damage. When this damages a god, reduce the Active cooldown by 3s (+1s for every 10% Lifesteal). Minions reduce it by 0.5s. This item's damage can trigger lifesteal.. Active: Active: Lash out at enemy humanoids within 4m for 10% of their maximum health as Physical damage (max 500). Bosses take 50% damage. Can store up to 3 charges. Cooldown: 100s. Description: Sanguine Lash 850 ( 2800 ) 25 Strength 30 Magical Protection 7.5% Lifesteal",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 2800,
+      "has_strength": true,
+      "has_lifesteal": true,
+      "has_protection": true,
+      "has_passive": true,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Sanguine_Lash"
+  },
+  {
+    "id": "item_sphere_of_negation",
+    "type": "item",
+    "name": "Sphere of Negation",
+    "content": "Sphere of Negation. Type: Tier 3 Hybrid. Cost: 1500. Total Cost: 3150. Stats: 60 Intelligence 85 Magical Protection. Description: Sphere of Negation 1500 ( 3150 ) 60 Intelligence 85 Magical Protection",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 3150,
+      "has_intelligence": true,
+      "has_protection": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Sphere_of_Negation"
+  },
+  {
+    "id": "item_wish-granting_pearl",
+    "type": "item",
+    "name": "Wish-Granting Pearl",
+    "content": "Wish-Granting Pearl. Type: Tier 3 Hybrid. Cost: 1800. Total Cost: 3550. Stats: 120 Intelligence 425 Max Health 200 Max Mana. Description: Wish-Granting Pearl 1800 ( 3550 ) 120 Intelligence 425 Max Health 200 Max Mana",
+    "metadata": {
+      "item_type": "Tier 3 Hybrid",
+      "tier": 3,
+      "category": "hybrid",
+      "total_cost": 3550,
+      "has_intelligence": true,
+      "has_passive": false,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Wish-Granting_Pearl"
+  },
+  {
+    "id": "item_genie's_lamp",
+    "type": "item",
+    "name": "Genie's Lamp",
+    "content": "Genie's Lamp. Type: God Specific. Cost: -1. Passive: Aladdin gains 1% (+0.4% Per Level) of all stats from items.. Active: Toggle to gain access to 3 wishes; Wealth, Immortality, and Power. Each wish can only be used once per match.. Description: Genie's Lamp -1 Passive Effect",
+    "metadata": {
+      "item_type": "God Specific",
+      "has_passive": true,
+      "has_active": true
+    },
+    "source_url": "https://wiki.smite2.com/w/Genie%27s_Lamp"
+  },
+  {
+    "id": "item_resonator_mod",
+    "type": "item",
+    "name": "Resonator Mod",
+    "content": "Resonator Mod. Type: God Specific. Cost: 0. Passive: Thumper gains 150 increased HP and applies an 10/15/20/25/30% Attack Speed debuff for 3s on hit. Set 2 - You can only have one Mod from each set. Requires level 7.. Description: Resonator Mod 0 Passive Effect",
+    "metadata": {
+      "item_type": "God Specific",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Resonator_Mod"
+  },
+  {
+    "id": "item_alternator_mod",
+    "type": "item",
+    "name": "Alternator Mod",
+    "content": "Alternator Mod. Type: God Specific. Cost: 0. Passive: Gain access to the Thumper Turret by alternating between an Inferno Cannon and Thumper each ability activation. Thumper pulses out an attack around it every 1s that deals 20/30/40/50/60 + 10% INT Magical Damage to all enemies in the area. Thumper's Rank will match Inferno Cannon's. Cooldown 12s. Set 1 - You can only have one Mod from each set. Can be built at level 1. Description: Alternator Mod 0 Passive Effect",
+    "metadata": {
+      "item_type": "God Specific",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Alternator_Mod"
+  },
+  {
+    "id": "item_seismic_mod",
+    "type": "item",
+    "name": "Seismic Mod",
+    "content": "Seismic Mod. Type: God Specific. Cost: 0. Passive: Earthshaker Knocks Up and Trembles enemies it hits for 2s. Set 3 - You can only have one Mod from each set. Requires level 14.. Description: Seismic Mod 0 Passive Effect",
+    "metadata": {
+      "item_type": "God Specific",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Seismic_Mod"
+  },
+  {
+    "id": "item_surplus_mod",
+    "type": "item",
+    "name": "Surplus Mod",
+    "content": "Surplus Mod. Type: God Specific. Cost: 0. Passive: You can have 2 Inferno Cannons deployed at the same time. Set 3 - You can only have one Mod from each set. Requires level 14.. Description: Surplus Mod 0 Passive Effect",
+    "metadata": {
+      "item_type": "God Specific",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Surplus_Mod"
+  },
+  {
+    "id": "item_thermal_mod",
+    "type": "item",
+    "name": "Thermal Mod",
+    "content": "Thermal Mod. Type: God Specific. Cost: 0. Passive: Backfire and Magma Bomb deal 30 + 30% INT Bonus Magical Damage. Set 2 - You can only have one Mod from each set. Requires level 7.. Description: Thermal Mod 0 Passive Effect",
+    "metadata": {
+      "item_type": "God Specific",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Thermal_Mod"
+  },
+  {
+    "id": "item_masterwork_mod",
+    "type": "item",
+    "name": "Masterwork Mod",
+    "content": "Masterwork Mod. Type: God Specific. Cost: 0. Passive: Thumper gains 300 increased HP and applies a 10/15/20/25/30 Physical and Magical Protection buff to allied gods hit for 3s. Set 3 - You can only have one Mod from each set. Requires level 14.. Description: Masterwork Mod 0 Passive Effect",
+    "metadata": {
+      "item_type": "God Specific",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Masterwork_Mod"
+  },
+  {
+    "id": "item_dual_mod",
+    "type": "item",
+    "name": "Dual Mod",
+    "content": "Dual Mod. Type: God Specific. Cost: 0. Passive: Gain access to the Thumper Turret in your first consumable slot. This will occupy this slot for the entire game. Thumper pulses out an attack around it every 1s that deals 20/30/40/50/60 + 10% INT Magical Damage to all enemies in the area. Thumper's Rank will match Inferno Cannon's. Cooldown 20s. Set 1 - You can only have one Mod from each set Can be built at level 1. Description: Passive Effect Dual Mod is one of the Items in SMITE 2 .",
+    "metadata": {
+      "item_type": "God Specific",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Dual_Mod"
+  },
+  {
+    "id": "item_efficiency_mod",
+    "type": "item",
+    "name": "Efficiency Mod",
+    "content": "Efficiency Mod. Type: God Specific. Cost: 0. Passive: Do not gain access to the Thumper ability, instead your passive grants 20 CDR and 5 Intelligence + 1 Per Level, in addition to the other effects when triggered. Set 1 - You can only have one Mod from each set. Can be built at level 1. Description: Efficiency Mod 0 Passive Effect",
+    "metadata": {
+      "item_type": "God Specific",
+      "has_passive": true,
+      "has_active": false
+    },
+    "source_url": "https://wiki.smite2.com/w/Efficiency_Mod"
+  }
+]

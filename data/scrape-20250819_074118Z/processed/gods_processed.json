@@ -1,0 +1,960 @@
+[
+  {
+    "id": "god_achilles",
+    "type": "god",
+    "name": "Achilles",
+    "content": "Achilles. Title: Hero of the Trojan War. Pantheon: Greek. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Solo",
+      "title": "Hero of the Trojan War",
+      "release_date": "February 17, 2025",
+      "voice_actor": "Ricco Fajardo",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Achilles"
+  },
+  {
+    "id": "god_agni",
+    "type": "god",
+    "name": "Agni",
+    "content": "Agni. Title: God of Fire. Pantheon: Hindu. Role: Mid. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Hindu",
+      "role": "Mid",
+      "title": "God of Fire",
+      "release_date": "7 January, 2025",
+      "voice_actor": "Hunter Peterson",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Agni"
+  },
+  {
+    "id": "god_aladdin",
+    "type": "god",
+    "name": "Aladdin",
+    "content": "Aladdin. Title: The Sultan. Pantheon: Tales of Arabia. Role: Jungle. Stats: Health: 591.38 (+92.68). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.05 (+2.4). Magical Pro.: 26.12 (+1.43). Attack Speed: 0.97 (+1.46). Move Speed: 365 (+1.46)",
+    "metadata": {
+      "pantheon": "Tales of Arabia",
+      "role": "Jungle",
+      "title": "The Sultan",
+      "release_date": "January 6, 2025",
+      "voice_actor": "Kamran Nikhad",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Aladdin"
+  },
+  {
+    "id": "god_amaterasu",
+    "type": "god",
+    "name": "Amaterasu",
+    "content": "Amaterasu. Title: The Shining Light. Pantheon: Japanese. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Japanese",
+      "role": "Solo",
+      "title": "The Shining Light",
+      "release_date": "September 17, 2024",
+      "voice_actor": "Cristina Valenzuela",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Amaterasu"
+  },
+  {
+    "id": "god_anhur",
+    "type": "god",
+    "name": "Anhur",
+    "content": "Anhur. Title: Slayer of Enemies. Pantheon: Egyptian. Role: Carry. Stats: Health: 587 (+77.55). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.76). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.5%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Carry",
+      "title": "Slayer of Enemies",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Christopher Sabat",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Anhur"
+  },
+  {
+    "id": "god_anubis",
+    "type": "god",
+    "name": "Anubis",
+    "content": "Anubis. Title: God of the Dead. Pantheon: Egyptian. Role: Mid. Stats: Health: 586.9 (+77.55). Health Regen: 1.75 (+0.2). Mana: 317 (+42.5). Mana Regen: 2.32 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Mid",
+      "title": "God of the Dead",
+      "release_date": "May 2, 2024",
+      "voice_actor": "R. Bruce Elliott",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Anubis"
+  },
+  {
+    "id": "god_aphrodite",
+    "type": "god",
+    "name": "Aphrodite",
+    "content": "Aphrodite. Title: Goddess of Beauty. Pantheon: Greek. Role: Mid. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "Goddess of Beauty",
+      "release_date": "December 10, 2024",
+      "voice_actor": "Martha Harms",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Aphrodite"
+  },
+  {
+    "id": "god_apollo",
+    "type": "god",
+    "name": "Apollo",
+    "content": "Apollo. Title: God of Music. Pantheon: Greek. Role: Carry. Stats: Health: 591.4 (+92.6). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.14 (+0). Physical Pro.: 18.1 (+2.8). Magical Pro.: 26.1 (+1.5). Attack Speed: 1 (+1.4%). Move Speed: 365 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Carry",
+      "title": "God of Music",
+      "release_date": "May 19, 2025",
+      "voice_actor": "Phil Parsons",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Apollo"
+  },
+  {
+    "id": "god_ares",
+    "type": "god",
+    "name": "Ares",
+    "content": "Ares. Title: God of War. Pantheon: Greek. Role: Support. Stats: Health: 672 (+105.32). Health Regen: 2 (+0.21). Mana: 296 (+42). Mana Regen: 2 (+0). Physical Pro.: 21 (+3.21). Magical Pro.: 30 (+1.58). Attack Speed: 1% (+1.37%). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Support",
+      "title": "God of War",
+      "release_date": "Unreleased",
+      "voice_actor": "Jason Douglas",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Ares"
+  },
+  {
+    "id": "god_artemis",
+    "type": "god",
+    "name": "Artemis",
+    "content": "Artemis. Title: Goddess of the Hunt. Pantheon: Greek. Role: Carry. Stats: Health: 591.38 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.14 (+0). Physical Pro.: 18.05 (+2.85). Magical Pro.: 26.12 (+1.43). Attack Speed: 1 (+1.51%). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Carry",
+      "title": "Goddess of the Hunt",
+      "release_date": "missing",
+      "voice_actor": "Brina Palencia",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Artemis"
+  },
+  {
+    "id": "god_athena",
+    "type": "god",
+    "name": "Athena",
+    "content": "Athena. Title: Goddess of Wisdom. Pantheon: Greek. Role: Support. Stats: Health: 647.4 (+86.1). Health Regen: 1.82 (+0.211). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 20.3 (+3.21). Magical Pro.: 29.4 (+1.6). Attack Speed: 0.93 (+1.4%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Support",
+      "title": "Goddess of Wisdom",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Lindsey Alena",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Athena"
+  },
+  {
+    "id": "god_awilix",
+    "type": "god",
+    "name": "Awilix",
+    "content": "Awilix. Title: Goddess of the Moon. Pantheon: Maya. Role: Jungle. Stats: Health: 591.4 (+92.6). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.1 (+2.8). Magical Pro.: 26.1 (+1.5). Attack Speed: 0.97 (+1.45%). Move Speed: 365 (+0)",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Jungle",
+      "title": "Goddess of the Moon",
+      "release_date": "missing",
+      "voice_actor": "Brynn Apprill",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Awilix"
+  },
+  {
+    "id": "god_bacchus",
+    "type": "god",
+    "name": "Bacchus",
+    "content": "Bacchus. Title: God of Wine. Pantheon: Roman. Role: Support. Stats: Health: 647.4 (+86.1). Health Regen: 1.82 (+0.211). Mana: 305 (+43). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 27.5 (+1.4). Attack Speed: 0.93 (+1.4%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Support",
+      "title": "God of Wine",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Chris Rager",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Bacchus"
+  },
+  {
+    "id": "god_baron_samedi",
+    "type": "god",
+    "name": "Baron Samedi",
+    "content": "Baron Samedi. Title: God of Life and Death. Pantheon: Voodoo. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0)",
+    "metadata": {
+      "pantheon": "Voodoo",
+      "role": "Mid",
+      "title": "God of Life and Death",
+      "release_date": "October 3, 2024",
+      "voice_actor": "Edward Bosco",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Baron_Samedi"
+  },
+  {
+    "id": "god_bellona",
+    "type": "god",
+    "name": "Bellona",
+    "content": "Bellona. Title: Goddess of War. Pantheon: Roman. Role: Solo. Stats: Health: 623.2 (+83.4). Health Regen: 1.7 (+0.2). Mana: 287 (+40.5). Mana Regen: 2.18 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.47). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Solo",
+      "title": "Goddess of War",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Laura Post",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Bellona"
+  },
+  {
+    "id": "god_cabrakan",
+    "type": "god",
+    "name": "Cabrakan",
+    "content": "Cabrakan. Title: Destroyer of Mountains. Pantheon: Maya. Role: Support. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Support",
+      "title": "Destroyer of Mountains",
+      "release_date": "missing",
+      "voice_actor": "Tyson Rinehart",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Cabrakan"
+  },
+  {
+    "id": "god_cerberus",
+    "type": "god",
+    "name": "Cerberus",
+    "content": "Cerberus. Title: Warden of the Underworld. Pantheon: Greek. Role: Support. Stats: Health: 672 (+106). Health Regen: 2 (+0.25). Mana: 296 (+42). Mana Regen: 2 (+0). Physical Pro.: 20 (+ missing ). Magical Pro.: 30 (+1.5). Attack Speed: 1% (+ missing ). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Support",
+      "title": "Warden of the Underworld",
+      "release_date": "missing",
+      "voice_actor": "Bruce DuBose",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Cerberus"
+  },
+  {
+    "id": "god_cernunnos",
+    "type": "god",
+    "name": "Cernunnos",
+    "content": "Cernunnos. Title: The Horned God. Pantheon: Celtic. Role: Carry. Stats: Health: 586.9 (+77.55). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.45). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Celtic",
+      "role": "Carry",
+      "title": "The Horned God",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Mick Lauer",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Cernunnos"
+  },
+  {
+    "id": "god_chaac",
+    "type": "god",
+    "name": "Chaac",
+    "content": "Chaac. Title: God of Rain. Pantheon: Maya. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Solo",
+      "title": "God of Rain",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Patrick Seitz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Chaac"
+  },
+  {
+    "id": "god_cupid",
+    "type": "god",
+    "name": "Cupid",
+    "content": "Cupid. Title: God of Love. Pantheon: Roman. Role: Carry. Stats: Health: 591.4 (+92.6). Health Regen: 1.7 (+0.2). Mana: 296 (+38). Mana Regen: 2.14 (+0). Physical Pro.: 18.1 (+2.8). Magical Pro.: 26.1 (+1.49). Attack Speed: 1 (+1.46%). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Carry",
+      "title": "God of Love",
+      "release_date": "November 25, 2024",
+      "voice_actor": "Brina Palencia",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Cupid"
+  },
+  {
+    "id": "god_danzaburou",
+    "type": "god",
+    "name": "Danzaburou",
+    "content": "Danzaburou. Title: The Legendary Tanuki. Pantheon: Japanese. Role: Carry. Stats: Health: 587 (+77.55). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.76). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.5%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Japanese",
+      "role": "Carry",
+      "title": "The Legendary Tanuki",
+      "release_date": "October 17, 2024",
+      "voice_actor": "Dai Tabuchi",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Danzaburou"
+  },
+  {
+    "id": "god_fenrir",
+    "type": "god",
+    "name": "Fenrir",
+    "content": "Fenrir. Title: The Unbound. Pantheon: Norse. Role: Jungle. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.0 (+3). Magical Pro.: 27.5 (+1.4). Attack Speed: 1 (+1.498%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Jungle",
+      "title": "The Unbound",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Christopher Sabat",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Fenrir"
+  },
+  {
+    "id": "god_ganesha",
+    "type": "god",
+    "name": "Ganesha",
+    "content": "Ganesha. Title: God of Success. Pantheon: Hindu. Role: Support. Stats: Health: missing (+ missing ). Health Regen: missing (+ missing ). Mana: missing (+ missing ). Mana Regen: missing (+0). Physical Pro.: missing (+ missing ). Magical Pro.: missing (+ missing ). Attack Speed: missing (+ missing ). Move Speed: missing (+0)",
+    "metadata": {
+      "pantheon": "Hindu",
+      "role": "Support",
+      "title": "God of Success",
+      "release_date": "missing",
+      "voice_actor": "Reagan Murdock",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Ganesha"
+  },
+  {
+    "id": "god_geb",
+    "type": "god",
+    "name": "Geb",
+    "content": "Geb. Title: God of the Earth. Pantheon: Egyptian. Role: Support. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Support",
+      "title": "God of the Earth",
+      "release_date": "missing",
+      "voice_actor": "Christopher Sabat",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Geb"
+  },
+  {
+    "id": "god_guan_yu",
+    "type": "god",
+    "name": "Guan Yu",
+    "content": "Guan Yu. Title: Saint of War. Pantheon: Chinese. Role: Solo. Stats: Health: 647 (+102). Health Regen: 2 (+0). Mana: 308 (+44). Mana Regen: 2 (+0). Physical Pro.: 20 (+3). Magical Pro.: 28 (+1). Attack Speed: 1 (+2). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Solo",
+      "title": "Saint of War",
+      "release_date": "missing",
+      "voice_actor": "Mark Stoddard",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Guan_Yu"
+  },
+  {
+    "id": "god_hades",
+    "type": "god",
+    "name": "Hades",
+    "content": "Hades. Title: King of the Underworld. Pantheon: Greek. Role: Mid. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Mana: 305 (+43). Mana Regen: 2.25 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "King of the Underworld",
+      "release_date": "May 30, 2024",
+      "voice_actor": "Patrick Seitz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hades"
+  },
+  {
+    "id": "god_hecate",
+    "type": "god",
+    "name": "Hecate",
+    "content": "Hecate. Title: Goddess of Sorcery. Pantheon: Greek. Role: Mid. Stats: Health: 574.8 (+76.4). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 1.46 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "Goddess of Sorcery",
+      "release_date": "June 27, 2024",
+      "voice_actor": "Katiana Sarkissian",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hecate"
+  },
+  {
+    "id": "god_hercules",
+    "type": "god",
+    "name": "Hercules",
+    "content": "Hercules. Title: Champion of Rome. Pantheon: Roman. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Solo",
+      "title": "Champion of Rome",
+      "release_date": "October 17, 2024",
+      "voice_actor": "J. Michael Tatum",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hercules"
+  },
+  {
+    "id": "god_hou_yi",
+    "type": "god",
+    "name": "Hou Yi",
+    "content": "Hou Yi. Title: Defender of the Earth. Pantheon: Chinese. Role: Carry",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Carry",
+      "title": "Defender of the Earth",
+      "release_date": "July 29, 2025",
+      "voice_actor": "Austin Tindle",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hou_Yi"
+  },
+  {
+    "id": "god_hua_mulan",
+    "type": "god",
+    "name": "Hua Mulan",
+    "content": "Hua Mulan. Title: The Ascendant Warrior. Pantheon: Chinese. Role: Solo. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Solo",
+      "title": "The Ascendant Warrior",
+      "release_date": "missing",
+      "voice_actor": "Molly Zhang",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hua_Mulan"
+  },
+  {
+    "id": "god_hun_batz",
+    "type": "god",
+    "name": "Hun Batz",
+    "content": "Hun Batz. Title: The Howler Monkey God. Pantheon: Maya. Role: Jungle. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Jungle",
+      "title": "The Howler Monkey God",
+      "release_date": "missing",
+      "voice_actor": "Brad M. Jackson",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Hun_Batz"
+  },
+  {
+    "id": "god_izanami",
+    "type": "god",
+    "name": "Izanami",
+    "content": "Izanami. Title: Matron of the Dead. Pantheon: Japanese. Role: Carry. Stats: Health: 591.38 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+84). Mana Regen: 2.14 (+0). Physical Pro.: 18.05 (+2.85). Magical Pro.: 26.12 (+1.43). Attack Speed: 1 (+1.51%). Move Speed: 365 (+0)",
+    "metadata": {
+      "pantheon": "Japanese",
+      "role": "Carry",
+      "title": "Matron of the Dead",
+      "release_date": "missing",
+      "voice_actor": "Lisa Ortiz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Izanami"
+  },
+  {
+    "id": "god_janus",
+    "type": "god",
+    "name": "Janus",
+    "content": "Janus. Title: God of Portals and Transitions. Pantheon: Roman. Role: Mid. Stats: Health: 573 (+). Health Regen: 2 (+). Mana: 320 (+). Mana Regen: 2 (+0). Physical Pro.: 18 (+). Magical Pro.: 26 (+). Attack Speed: 1% (+). Move Speed: 365 (+)",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Mid",
+      "title": "God of Portals and Transitions",
+      "release_date": "August 12th",
+      "voice_actor": "Sean Hennigan",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Janus"
+  },
+  {
+    "id": "god_jing_wei",
+    "type": "god",
+    "name": "Jing Wei",
+    "content": "Jing Wei. Title: The Oathkeeper. Pantheon: Chinese. Role: Carry. Stats: Health: 595.3 (+86.86). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.99 (+1.484%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Carry",
+      "title": "The Oathkeeper",
+      "release_date": "Missing",
+      "voice_actor": "Alison Viktorin",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Jing_Wei"
+  },
+  {
+    "id": "god_kali",
+    "type": "god",
+    "name": "Kali",
+    "content": "Kali. Title: Goddess of Destruction. Pantheon: Hindu. Role: Jungle. Stats: Health: 596 (+). Mana: 281 (+). Physical Pro.: 20 (+). Magical Pro.: 28 (+). Attack Speed: 1% (+). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Hindu",
+      "role": "Jungle",
+      "title": "Goddess of Destruction",
+      "voice_actor": "Anastasia Munoz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Kali"
+  },
+  {
+    "id": "god_khepri",
+    "type": "god",
+    "name": "Khepri",
+    "content": "Khepri. Title: The Dawn Bringer. Pantheon: Egyptian. Role: Support. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Support",
+      "title": "The Dawn Bringer",
+      "release_date": "November 12, 2024",
+      "voice_actor": "Jeremy Schwartz",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Khepri"
+  },
+  {
+    "id": "god_kukulkan",
+    "type": "god",
+    "name": "Kukulkan",
+    "content": "Kukulkan. Title: Serpent of the Nine Winds. Pantheon: Maya. Role: Mid. Stats: Health: 574.8 (+76.4). Health Regen: 1.65 (+0.2). Mana: 317 (+42.5). Mana Regen: 2.41 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Maya",
+      "role": "Mid",
+      "title": "Serpent of the Nine Winds",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Clifford Chapin",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Kukulkan"
+  },
+  {
+    "id": "god_loki",
+    "type": "god",
+    "name": "Loki",
+    "content": "Loki. Title: The Trickster God. Pantheon: Norse. Role: Jungle. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Jungle",
+      "title": "The Trickster God",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Alex Ross",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Loki"
+  },
+  {
+    "id": "god_medusa",
+    "type": "god",
+    "name": "Medusa",
+    "content": "Medusa. Title: The Gorgon. Pantheon: Greek. Role: Carry. Stats: Health: 586.9 (+77.55). Health Regen: 1.7 (+0.2). Mana: 305 (+43). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Carry",
+      "title": "The Gorgon",
+      "release_date": "December 10, 2024",
+      "voice_actor": "Rachel Robinson",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Medusa"
+  },
+  {
+    "id": "god_mercury",
+    "type": "god",
+    "name": "Mercury",
+    "content": "Mercury. Title: Messenger of the Gods. Pantheon: Roman. Role: Jungle. Stats: Health: 591 (+missing). Health Regen: 2 (+missing). Mana: 296 (+missing). Mana Regen: 2 (+0). Physical Pro.: 19 (+missing). Magical Pro.: 28 (+missing). Attack Speed: 1% (+missing). Move Speed: 381 (+0)",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Jungle",
+      "title": "Messenger of the Gods",
+      "release_date": "July 1, 2025",
+      "voice_actor": "Joel McDonald",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Mercury"
+  },
+  {
+    "id": "god_merlin",
+    "type": "god",
+    "name": "Merlin",
+    "content": "Merlin. Title: The Master Wizard. Pantheon: Arthurian. Role: Mid. Stats: Health: 591 (+93). Health Regen: 2 (+0). Mana: 320 (+45). Mana Regen: 2 (+0). Physical Pro.: 18 (+2). Magical Pro.: 27 (+2). Attack Speed: 1% (+2%). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Arthurian",
+      "role": "Mid",
+      "title": "The Master Wizard",
+      "release_date": "March 24th, 2025.",
+      "voice_actor": "Adin Rudd",
+      "ability_count": 10
+    },
+    "source_url": "https://wiki.smite2.com/w/Merlin"
+  },
+  {
+    "id": "god_mordred",
+    "type": "god",
+    "name": "Mordred",
+    "content": "Mordred. Title: Breaker of the Round Table. Pantheon: Arthurian. Role: Solo. Stats: Health: 632.2 (+91.85). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.47). Attack Speed: 0.96 (+1.442). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Arthurian",
+      "role": "Solo",
+      "title": "Breaker of the Round Table",
+      "release_date": "July 27th, 2024",
+      "voice_actor": "Gavin Hammon",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Mordred"
+  },
+  {
+    "id": "god_neith",
+    "type": "god",
+    "name": "Neith",
+    "content": "Neith. Title: Weaver of Fate. Pantheon: Egyptian. Role: Carry. Stats: Health: 586.9 (+77.55). Health Regen: 1.7 (+0.2). Mana: 305 (+43). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Carry",
+      "title": "Weaver of Fate",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Lindsay Seidel",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Neith"
+  },
+  {
+    "id": "god_nemesis",
+    "type": "god",
+    "name": "Nemesis",
+    "content": "Nemesis. Title: Goddess of Vengeance. Pantheon: Greek. Role: Jungle. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Jungle",
+      "title": "Goddess of Vengeance",
+      "release_date": "missing",
+      "voice_actor": "Amanda Doskocil",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Nemesis"
+  },
+  {
+    "id": "god_nu_wa",
+    "type": "god",
+    "name": "Nu Wa",
+    "content": "Nu Wa. Title: Guardian of Heaven. Pantheon: Chinese. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0)",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Mid",
+      "title": "Guardian of Heaven",
+      "release_date": "September 17, 2024",
+      "voice_actor": "Stephanie Young",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Nu_Wa"
+  },
+  {
+    "id": "god_odin",
+    "type": "god",
+    "name": "Odin",
+    "content": "Odin. Title: The Allfather. Pantheon: Norse. Role: Solo. Stats: Health: 623.2 (+83.4). Health Regen: 1.75 (+0.2). Mana: 296 (+42). Mana Regen: 2.32 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.47). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Solo",
+      "title": "The Allfather",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Bob Carter",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Odin"
+  },
+  {
+    "id": "god_pele",
+    "type": "god",
+    "name": "Pele",
+    "content": "Pele. Title: Goddess of Volcanoes. Pantheon: Polynesian. Role: Jungle. Stats: Health: 622.5 (+97.5). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19 (+3). Magical Pro.: 27.5 (+1.5). Attack Speed: 1.0 (+1.46%). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Polynesian",
+      "role": "Jungle",
+      "title": "Goddess of Volcanoes",
+      "release_date": "December 10, 2024",
+      "voice_actor": "Nicole Gose",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Pele"
+  },
+  {
+    "id": "god_poseidon",
+    "type": "god",
+    "name": "Poseidon",
+    "content": "Poseidon. Title: God of the Oceans. Pantheon: Greek. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "God of the Oceans",
+      "release_date": "November 25, 2024",
+      "voice_actor": "Richard Epcar",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Poseidon"
+  },
+  {
+    "id": "god_princess_bari",
+    "type": "god",
+    "name": "Princess Bari",
+    "content": "Princess Bari. Title: The Divine Mudang. Pantheon: Korean. Role: Carry. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Korean",
+      "role": "Carry",
+      "title": "The Divine Mudang",
+      "release_date": "missing",
+      "voice_actor": "Judy Alice Lee",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Princess_Bari"
+  },
+  {
+    "id": "god_ra",
+    "type": "god",
+    "name": "Ra",
+    "content": "Ra. Title: Sun God. Pantheon: Egyptian. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0)",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Mid",
+      "title": "Sun God",
+      "release_date": "October 29, 2024",
+      "voice_actor": "Chuck Huber",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Ra"
+  },
+  {
+    "id": "god_rama",
+    "type": "god",
+    "name": "Rama",
+    "content": "Rama. Title: Seventh Avatar of Vishnu. Pantheon: Hindu. Role: Carry. Stats: Health: 591.4 (+92.6). Health Regen: 1.7 (+0.2). Mana: 296 (+38). Mana Regen: 2.14 (+0). Physical Pro.: 18.1 (+2.8). Magical Pro.: 26.1 (+1.49). Attack Speed: 1 (+1.46%). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Hindu",
+      "role": "Carry",
+      "title": "Seventh Avatar of Vishnu",
+      "release_date": "February 10, 2025",
+      "voice_actor": "Nick Landis",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Rama"
+  },
+  {
+    "id": "god_scylla",
+    "type": "god",
+    "name": "Scylla",
+    "content": "Scylla. Title: Horror of the Sea. Pantheon: Greek. Role: Mid. Stats: Health: 591.4 (+92.6). Mana: 320 (+). Physical Pro.: 17.6 (+2.8). Magical Pro.: 27.4 (+1.5). Attack Speed: 0.8 (+0.8). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "Horror of the Sea",
+      "release_date": "June 2, 2025",
+      "voice_actor": "Carrie Savage"
+    },
+    "source_url": "https://wiki.smite2.com/w/Scylla"
+  },
+  {
+    "id": "god_sobek",
+    "type": "god",
+    "name": "Sobek",
+    "content": "Sobek. Title: God of the Nile. Pantheon: Egyptian. Role: Support. Stats: Health: 626.4 (+101.4). Health Regen: 1.77 (+2.1). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.76 (+3.12). Magical Pro.: 28.6 (+1.56). Attack Speed: 0.97 (+1.46%). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Egyptian",
+      "role": "Support",
+      "title": "God of the Nile",
+      "release_date": "29 October, 2024",
+      "voice_actor": "Brandon Potter",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Sobek"
+  },
+  {
+    "id": "god_sol",
+    "type": "god",
+    "name": "Sol",
+    "content": "Sol. Title: Goddess of the Sun. Pantheon: Norse. Role: Mid. Stats: Health: 586.9 (+77.55). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Mid",
+      "title": "Goddess of the Sun",
+      "release_date": "May 30, 2024",
+      "voice_actor": "Jeannie Tirado",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Sol"
+  },
+  {
+    "id": "god_sun_wukong",
+    "type": "god",
+    "name": "Sun Wukong",
+    "content": "Sun Wukong. Title: The Monkey King. Pantheon: Chinese. Role: Solo. Stats: Health: 591.4 (+92.6). Health Regen: 2 (+0.21). Mana: 320 (+39.0). Mana Regen: 2 (+0). Physical Pro.: 17.6 (+2.8). Magical Pro.: 27.4 (+1.5). Attack Speed: 0.8 (+0.8). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Chinese",
+      "role": "Solo",
+      "title": "The Monkey King",
+      "release_date": "July 15, 2025",
+      "voice_actor": "Sean Schemmel",
+      "ability_count": 6
+    },
+    "source_url": "https://wiki.smite2.com/w/Sun_Wukong"
+  },
+  {
+    "id": "god_susano",
+    "type": "god",
+    "name": "Susano",
+    "content": "Susano. Title: God of the Summer Storm. Pantheon: Japanese. Role: Jungle. Stats: Health: missing (+ missing ). Health Regen: missing (+ missing ). Mana: missing (+ missing ). Mana Regen: missing (+0). Physical Pro.: missing (+ missing ). Magical Pro.: missing (+ missing ). Attack Speed: missing (+ missing ). Move Speed: missing (+ missing )",
+    "metadata": {
+      "pantheon": "Japanese",
+      "role": "Jungle",
+      "title": "God of the Summer Storm",
+      "release_date": "18 July, 2024",
+      "voice_actor": "Jim Foronda",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Susano"
+  },
+  {
+    "id": "god_thanatos",
+    "type": "god",
+    "name": "Thanatos",
+    "content": "Thanatos. Title: Hand of Death. Pantheon: Greek. Role: Jungle. Stats: Health: 605 (+80). Health Regen: 1.7 (+0.2). Physical Pro.: 19 (+3). Magical Pro.: 27.5 (+1.5). Attack Speed: 1 (+1.5%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Jungle",
+      "title": "Hand of Death",
+      "release_date": "June 27, 2024",
+      "voice_actor": "Erik Braa",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Thanatos"
+  },
+  {
+    "id": "god_the_morrigan",
+    "type": "god",
+    "name": "The Morrigan",
+    "content": "The Morrigan. Title: Phantom Queen. Pantheon: Celtic. Role: Mid. Stats: Health: 574.8 (+76.4). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.32 (+0). Physical Pro.: 18.4 (+2.9). Magical Pro.: 26.7 (+1.46). Attack Speed: 1 (+1.498%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Celtic",
+      "role": "Mid",
+      "title": "Phantom Queen",
+      "release_date": "June 27, 2024",
+      "voice_actor": "Elizabeth Maxwell",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/The_Morrigan"
+  },
+  {
+    "id": "god_thor",
+    "type": "god",
+    "name": "Thor",
+    "content": "Thor. Title: God of Thunder. Pantheon: Norse. Role: Jungle. Stats: Health: 623.2 (+82.93). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19.6 (+3.1). Magical Pro.: 28.3 (+1.54). Attack Speed: 0.96 (+1.442%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Jungle",
+      "title": "God of Thunder",
+      "release_date": "November 25, 2024",
+      "voice_actor": "Bruce DuBose",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Thor"
+  },
+  {
+    "id": "god_ullr",
+    "type": "god",
+    "name": "Ullr",
+    "content": "Ullr. Title: The Glorious One. Pantheon: Norse. Role: Carry. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Carry",
+      "title": "The Glorious One",
+      "release_date": "missing",
+      "voice_actor": "Bill Jenkins",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Ullr"
+  },
+  {
+    "id": "god_vulcan",
+    "type": "god",
+    "name": "Vulcan",
+    "content": "Vulcan. Title: Smith of the Gods. Pantheon: Roman. Role: Mid. Stats: Health: 591.8 (+92.62). Health Regen: 1.7 (+0.2). Mana: 296 (+42). Mana Regen: 2.34 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.97 (+1.46%). Move Speed: 365 (+0)",
+    "metadata": {
+      "pantheon": "Roman",
+      "role": "Mid",
+      "title": "Smith of the Gods",
+      "release_date": "missing",
+      "voice_actor": "Rick Robertson",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Vulcan"
+  },
+  {
+    "id": "god_yemoja",
+    "type": "god",
+    "name": "Yemoja",
+    "content": "Yemoja. Title: Goddess of Rivers. Pantheon: Yoruba. Role: Support. Stats: Health: 672.3 (+105.3). Health Regen: 1.77 (+0.21). Mana: 296 (+42). Mana Regen: 2.5 (+0). Physical Pro.: 20.52 (+3.24). Magical Pro.: 29.7 (+1.62). Attack Speed: 0.97 (+1.33). Move Speed: 375 (+0)",
+    "metadata": {
+      "pantheon": "Yoruba",
+      "role": "Support",
+      "title": "Goddess of Rivers",
+      "release_date": "October 3, 2024",
+      "voice_actor": "Cassie Ewulu",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Yemoja"
+  },
+  {
+    "id": "god_ymir",
+    "type": "god",
+    "name": "Ymir",
+    "content": "Ymir. Title: Father of the Frost Giants. Pantheon: Norse. Role: Support. Stats: Health: 647.4 (+85.84). Health Regen: 1.82 (+0.211). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 20.3 (+3.21). Magical Pro.: 29.4 (+1.6). Attack Speed: 0.93 (+1.4%). Move Speed: 442 (+0)",
+    "metadata": {
+      "pantheon": "Norse",
+      "role": "Support",
+      "title": "Father of the Frost Giants",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Charles Campbell",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Ymir"
+  },
+  {
+    "id": "god_zeus",
+    "type": "god",
+    "name": "Zeus",
+    "content": "Zeus. Title: God of the Sky. Pantheon: Greek. Role: Mid. Stats: Health: 586.9 (+77.55). Health Regen: 1.75 (+0.2). Mana: 296 (+42). Mana Regen: 2.25 (+0). Physical Pro.: 19 (+3). Magical Pro.: 26.7 (+1.46). Attack Speed: 0.93 (+1.358%). Move Speed: 430 (+0)",
+    "metadata": {
+      "pantheon": "Greek",
+      "role": "Mid",
+      "title": "God of the Sky",
+      "release_date": "May 2, 2024",
+      "voice_actor": "Christopher Sabat",
+      "ability_count": 1
+    },
+    "source_url": "https://wiki.smite2.com/w/Zeus"
+  }
+]
