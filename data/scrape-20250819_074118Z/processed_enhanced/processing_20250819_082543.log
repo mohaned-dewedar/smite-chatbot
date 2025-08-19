@@ -1,0 +1,31 @@
+2025-08-19 08:25:43,012 - smite_chatbot.processors.orchestrator - INFO - Starting data processing session
+2025-08-19 08:25:43,013 - smite_chatbot.processors.orchestrator - INFO - Data directory: /home/momo/smite-chatbot/data/scrape-20250819_074118Z
+2025-08-19 08:25:43,013 - smite_chatbot.processors.orchestrator - INFO - Output directory: /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced
+2025-08-19 08:25:43,013 - smite_chatbot.processors.orchestrator - INFO - Processing gods data...
+2025-08-19 08:25:43,013 - smite_chatbot.processors.base - INFO - Processing /home/momo/smite-chatbot/data/scrape-20250819_074118Z/gods.json
+2025-08-19 08:25:43,018 - smite_chatbot.processors.gods - INFO - Processing 64 gods
+2025-08-19 08:25:43,021 - smite_chatbot.processors.base - INFO - Generated 336 documents
+2025-08-19 08:25:43,023 - smite_chatbot.processors.base - INFO - Saved 64 documents to /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced/gods_processed.json
+2025-08-19 08:25:43,030 - smite_chatbot.processors.base - INFO - Saved 272 documents to /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced/abilities_processed.json
+2025-08-19 08:25:43,040 - smite_chatbot.processors.base - INFO - Saved 336 documents to /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced/gods_and_abilities_processed.json
+2025-08-19 08:25:43,040 - smite_chatbot.processors.gods - INFO - Processed 64 gods and 272 abilities
+2025-08-19 08:25:43,040 - smite_chatbot.processors.orchestrator - INFO - ✓ Gods processing completed: 336 documents
+2025-08-19 08:25:43,041 - smite_chatbot.processors.orchestrator - INFO - Processing items data...
+2025-08-19 08:25:43,041 - smite_chatbot.processors.base - INFO - Processing /home/momo/smite-chatbot/data/scrape-20250819_074118Z/items.json
+2025-08-19 08:25:43,045 - smite_chatbot.processors.items - INFO - Processing 248 item entries
+2025-08-19 08:25:43,049 - smite_chatbot.processors.items - INFO - Filtered to 216 actual items
+2025-08-19 08:25:43,049 - smite_chatbot.processors.base - INFO - Generated 216 documents
+2025-08-19 08:25:43,054 - smite_chatbot.processors.base - INFO - Saved 216 documents to /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced/items_processed.json
+2025-08-19 08:25:43,054 - smite_chatbot.processors.items - INFO - Processed 216 items
+2025-08-19 08:25:43,054 - smite_chatbot.processors.orchestrator - INFO - ✓ Items processing completed: 216 documents
+2025-08-19 08:25:43,054 - smite_chatbot.processors.orchestrator - INFO - Processing patches data...
+2025-08-19 08:25:43,054 - smite_chatbot.processors.base - INFO - Processing /home/momo/smite-chatbot/data/scrape-20250819_074118Z/patch_details.json
+2025-08-19 08:25:43,060 - smite_chatbot.processors.patches - INFO - Processing 28 patches
+2025-08-19 08:25:43,062 - smite_chatbot.processors.base - INFO - Generated 76 documents
+2025-08-19 08:25:43,063 - smite_chatbot.processors.base - INFO - Saved 28 documents to /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced/patches_processed.json
+2025-08-19 08:25:43,069 - smite_chatbot.processors.base - INFO - Saved 48 documents to /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced/god_changes_processed.json
+2025-08-19 08:25:43,072 - smite_chatbot.processors.base - INFO - Saved 76 documents to /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced/patches_and_changes_processed.json
+2025-08-19 08:25:43,072 - smite_chatbot.processors.patches - INFO - Processed 28 patches and 48 god changes
+2025-08-19 08:25:43,072 - smite_chatbot.processors.orchestrator - INFO - ✓ Patches processing completed: 76 documents
+2025-08-19 08:25:43,088 - smite_chatbot.processors.orchestrator - INFO - ✓ Saved 628 total documents to /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced/all_documents.json
+2025-08-19 08:25:43,101 - smite_chatbot.processors.orchestrator - INFO - Data processing completed successfully!

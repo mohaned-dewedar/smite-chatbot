@@ -1,0 +1,15 @@
+2025-08-19 08:30:52,899 - smite_chatbot.storage.populate - INFO - Storage population session started
+2025-08-19 08:30:52,899 - smite_chatbot.storage.populate - INFO - Storage directory: storage
+2025-08-19 08:30:52,899 - smite_chatbot.storage.populate - INFO - Clearing all existing data
+2025-08-19 08:30:52,934 - smite_chatbot.storage.database - INFO - Cleared all documents from database
+2025-08-19 08:30:52,947 - smite_chatbot.storage.vector_store - INFO - Cleared all documents from vector store
+2025-08-19 08:30:52,947 - smite_chatbot.storage.hybrid_store - INFO - Clear all: Database=True, VectorStore=True
+2025-08-19 08:30:52,947 - smite_chatbot.storage.populate - INFO - Populating all document types
+2025-08-19 08:30:52,947 - smite_chatbot.storage.populate - INFO - Found combined document file, using that
+2025-08-19 08:30:52,951 - smite_chatbot.storage.populate - INFO - Loaded 628 documents from /home/momo/smite-chatbot/data/scrape-20250819_074118Z/processed_enhanced/all_documents.json
+2025-08-19 08:30:52,952 - smite_chatbot.storage.hybrid_store - INFO - Adding 628 documents to hybrid store
+2025-08-19 08:30:52,962 - smite_chatbot.storage.database - INFO - Inserted 628/628 documents
+2025-08-19 08:30:52,963 - smite_chatbot.storage.hybrid_store - INFO - Database: 628/628 documents added
+2025-08-19 08:30:56,150 - smite_chatbot.storage.vector_store - INFO - Added batch 1: 100 documents
+2025-08-19 08:36:40,200 - smite_chatbot.storage.vector_store - INFO - Added batch 2: 100 documents
+2025-08-19 08:39:00,198 - smite_chatbot.storage.vector_store - INFO - Added batch 3: 100 documents

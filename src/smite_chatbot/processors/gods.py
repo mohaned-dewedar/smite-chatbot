@@ -55,6 +55,21 @@ class GodsProcessor(BaseProcessor):
         if stats_text:
             content_parts.append(f"Stats: {stats_text}")
         
+        # Add ability names for cross-referencing and better search
+        abilities = god_data.get('abilities', [])
+        if abilities:
+            ability_names = [ability.get('name', '') for ability in abilities if ability.get('name')]
+            # Find ultimate ability for special mention
+            ultimate_abilities = [ability.get('name', '') for ability in abilities 
+                                if ability.get('type', '').lower() == 'ultimate' and ability.get('name')]
+            
+            if ability_names:
+                content_parts.append(f"Abilities: {', '.join(ability_names)}")
+            
+            if ultimate_abilities:
+                ultimate_name = ultimate_abilities[0]  # Usually just one ultimate
+                content_parts.append(f"Ultimate ability: {ultimate_name}")
+        
         content = ". ".join(content_parts)
         
         # Create metadata
@@ -103,11 +118,16 @@ class GodsProcessor(BaseProcessor):
         stats = ability_data.get('stats', {})
         notes = clean_text(ability_data.get('notes', ''))
         
-        # Build content string
-        content_parts = [f"{ability_name}"]
+        # Build content string - include god name and semantic keywords for better searchability
+        # Format: "Ability Name (God Name)" for better search matching
+        content_parts = [f"{ability_name} ({god_name})"]
         
         if ability_type:
-            content_parts.append(f"Type: {ability_type}")
+            # Add semantic keyword for ultimate abilities
+            if ability_type.lower() == 'ultimate':
+                content_parts.append(f"Type: {ability_type} - {god_name} ultimate ability")
+            else:
+                content_parts.append(f"Type: {ability_type}")
         
         if description:
             content_parts.append(f"Description: {description}")
@@ -120,7 +140,12 @@ class GodsProcessor(BaseProcessor):
         if notes:
             content_parts.append(f"Notes: {notes}")
         
+        # Join content and ensure god name appears in searchable text
         content = ". ".join(content_parts)
+        
+        # Additional semantic enhancement for ultimate abilities
+        if ability_type.lower() == 'ultimate':
+            content = f"{content}. This is {god_name}'s ultimate ability."
         
         # Create metadata
         metadata = {
