@@ -55,7 +55,8 @@ def initialize_chatbot() -> ChatBot:
         chatbot = ChatBot(
             llm_model=openai_llm,
             config=chatbot_config,
-            vector_store=hybrid_store
+            vector_store=hybrid_store,
+            memory=False  # Default to no memory
         )
         
         return chatbot
@@ -162,14 +163,18 @@ def main():
         
         use_rag = st.checkbox("Enable RAG", value=True, help="Use vector database for context")
         
+        use_memory = st.checkbox("Enable Memory", value=False, help="Remember conversation history")
+        
         # Update session state if settings changed
         if (st.session_state.get("model_name") != model_name or
             st.session_state.get("temperature") != temperature or
-            st.session_state.get("max_tokens") != max_tokens):
+            st.session_state.get("max_tokens") != max_tokens or
+            st.session_state.get("use_memory") != use_memory):
             
             st.session_state.model_name = model_name
             st.session_state.temperature = temperature  
             st.session_state.max_tokens = max_tokens
+            st.session_state.use_memory = use_memory
             
             # Update chatbot configuration
             if hasattr(st.session_state, "chatbot"):
@@ -177,6 +182,8 @@ def main():
                     temperature=temperature,
                     max_tokens=max_tokens
                 )
+                # Update memory setting
+                st.session_state.chatbot.memory_enabled = use_memory
         
         # Database stats
         if hasattr(st.session_state, "chatbot"):
@@ -200,8 +207,14 @@ def main():
         if st.button("🗑️ Clear Conversation", use_container_width=True):
             st.session_state.messages = []
             if hasattr(st.session_state, "chatbot"):
-                st.session_state.chatbot.conversation_history = []
+                st.session_state.chatbot.conversation_history.clear()
             st.rerun()
+        
+        # Memory status indicator
+        if hasattr(st.session_state, "chatbot") and st.session_state.chatbot.memory_enabled:
+            st.info("💭 Memory enabled - conversation history will be remembered")
+        else:
+            st.info("🔄 Memory disabled - each message is independent")
     
     # Display conversation history
     for message in st.session_state.messages:

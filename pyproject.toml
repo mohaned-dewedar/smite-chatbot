@@ -21,6 +21,9 @@ dependencies = [
     "sentence-transformers",
     "torch",
     "openai>=1.100.1",
+    "fastapi",
+    "uvicorn[standard]",
+    "pydantic",
 ]
 
 [project.optional-dependencies]
@@ -35,6 +38,7 @@ smite-scraper = "smite_chatbot.scraper.orchestrator:main"
 smite-processor = "smite_chatbot.processors.orchestrator:main"
 smite-populate = "smite_chatbot.storage.populate:main"
 smite-app = "smite_chatbot.app.main:main"
+smite-api = "smite_chatbot.api.main:main"
 
 [build-system]
 requires = ["hatchling"]
