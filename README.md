@@ -131,18 +131,6 @@ uv run python -m smite_chatbot.processors.orchestrator
 uv run python -m smite_chatbot.storage.populate
 ```
 
-### Code Quality
-
-```bash
-# Format code
-uv run black src/
-
-# Lint code
-uv run ruff check src/
-
-# Run tests
-uv run pytest
-```
 
 ### Key Configuration
 
@@ -159,13 +147,6 @@ uv run pytest
 4. **Indexing**: Create vector embeddings and populate search database
 5. **Querying**: Use semantic search + LLM to answer user questions
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes and test them
-4. Run code quality checks: `uv run black src/ && uv run ruff check src/`
-5. Submit a pull request
 
 ## 📋 Requirements
 
