@@ -12,9 +12,10 @@ logger = logging.getLogger(__name__)
 
 class ChatBot:
     def __init__(self, llm_model: LLMWrapper, config: Optional[Dict[str, Any]] = None, 
-                 vector_store: Union[VectorStore, HybridDocumentStore, None] = None):
+                 vector_store: Union[VectorStore, HybridDocumentStore, None] = None, memory: bool = False):
         self.llm = llm_model
         self.config = config or {}
+        self.memory_enabled = memory
         
         # Use deque with maxlen for automatic conversation length management
         max_history = self.config.get("max_conversation_history", 10)
@@ -71,7 +72,10 @@ Answer:"""
         msgs: List[ChatMessage] = []
         if system_prompt:
             msgs.append(ChatMessage(role="system", content=system_prompt))
-        msgs.extend(self.conversation_history)
+        
+        # Only include conversation history if memory is enabled
+        if self.memory_enabled:
+            msgs.extend(self.conversation_history)
 
         context: List[Dict[str, Any]] = []
         user_content = message
@@ -87,9 +91,10 @@ Answer:"""
         if context:
             resp.sources = context
 
-        # Add to conversation history (deque automatically handles length)
-        self.conversation_history.append(ChatMessage(role="user", content=message))
-        self.conversation_history.append(ChatMessage(role="assistant", content=resp.content))
+        # Add to conversation history only if memory is enabled (deque automatically handles length)
+        if self.memory_enabled:
+            self.conversation_history.append(ChatMessage(role="user", content=message))
+            self.conversation_history.append(ChatMessage(role="assistant", content=resp.content))
         
         return resp
 
