@@ -1,5 +1,5 @@
 chatbot-env/
 __pycache__/
 *.pyc
-*CLAUDE.md
+CLAUDE.md
 VECTOR_DB_RECOVERY.md
